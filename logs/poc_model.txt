@@ -1,0 +1,31 @@
+        Mixed Linear Model Regression Results
+======================================================
+Model:            MixedLM Dependent Variable: logG    
+No. Observations: 544     Method:             ML      
+No. Groups:       1       Scale:              0.0199  
+Min. group size:  544     Log-Likelihood:     183.5369
+Max. group size:  544     Converged:          Yes     
+Mean group size:  544.0                               
+------------------------------------------------------
+            Coef.  Std.Err.   z    P>|z| [0.025 0.975]
+------------------------------------------------------
+Intercept    2.600    0.502  5.181 0.000  1.616  3.583
+logP        -0.174    0.114 -1.526 0.127 -0.398  0.050
+gran         0.570    0.395  1.444 0.149 -0.204  1.343
+logP:gran    0.191    0.099  1.930 0.054 -0.003  0.384
+family Var   0.061    0.166                           
+script Var   0.386    0.696                           
+======================================================
+
+
+logP coef=-0.1743  logP:gran coef=0.1905
+
+conf_int:
+                  0         1
+logP      -0.398239  0.049632
+gran      -0.203694  1.342817
+logP:gran -0.002942  0.384005
+
+Permutation (within-gran) logP:gran: obs=0.1905, perm mean=0.1354, perm sd=0.2316, emp p=0.5600
+
+leave-one-script-out logP:gran range: [0.6235, 0.8603]

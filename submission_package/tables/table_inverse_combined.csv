@@ -1,0 +1,11 @@
+model,target,mean_macroF1,sd
+logreg_family,ws_class,0.7084,0.3646
+logreg_script,ws_class,0.5506,0.4549
+rf_family,ws_class,0.6285,0.3818
+rf_script,ws_class,0.5728,0.453
+stump_G_family,ws_class,0.7122,0.3536
+stump_G_script,ws_class,0.5637,0.4651
+majority_family,ws_class,0.1805,0.0
+rf_family,granularity,0.7580750013183567,0.3400105677524604
+rf_script,granularity,0.6367410974789653,0.4350102608774517
+majority,granularity,0.2326732673267326,0.0

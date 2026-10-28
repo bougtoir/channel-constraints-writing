@@ -1,0 +1,8 @@
+locale,iso3,script,ws_class,encoded_unit,granularity,G,G_source,notes
+hak-Hant,hak,Hant,morphosyllabic,morpheme-syllable,4,2179,CLDR zh-Hant exemplar size (shared Han repertoire),Hakka written in Han characters; G approximated by shared core Han set
+wuu-Hant,wuu,Hant,morphosyllabic,morpheme-syllable,4,2179,CLDR zh-Hant exemplar size (shared Han repertoire),Wu Chinese written in Han characters; same shared repertoire assumption
+bax-Bamu,bax,Bamu,syllabary,syllable,3,88,Unicode Bamum block modern set (~88 signs; Everson et al.),PHOIBLE inventory is 'Shupamem' (Bamum-group lect) - flagged proxy
+men-Mend,men,Mend,syllabary,syllable,3,213,Kikakui syllabary ~213 signs (Dalby; Unicode Mende Kikakui block),Mende also written in Latin; this pair covers the Kikakui orthography
+lom-Loma,lom,Loma,syllabary,syllable,3,185,Loma syllabary ~185 signs (Dalby 1968; script not in Unicode),Loma rarely written natively today; flagged low-confidence pair
+mni-Mtei,mni,Mtei,abugida,CV-akshara,2,56,Unicode Meetei Mayek block letters+dependent signs (~56 core),Manipuri in native Meetei Mayek (Bengali-script orthography excluded)
+sat-Olck,sat,Olck,alphabet,phoneme,1,30,Ol Chiki alphabet 30 letters (Unicode Ol Chiki block),Santali also written in other scripts; this pair = Ol Chiki

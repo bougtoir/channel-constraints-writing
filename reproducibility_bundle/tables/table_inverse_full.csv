@@ -1,0 +1,8 @@
+,mean_macroF1,sd
+logreg_family,0.7042,0.3691
+logreg_script,0.5218,0.4592
+rf_family,0.6979,0.3529
+rf_script,0.5376,0.4615
+stump_G_family,0.7122,0.3536
+stump_G_script,0.5637,0.4651
+majority_family,0.1805,0.0

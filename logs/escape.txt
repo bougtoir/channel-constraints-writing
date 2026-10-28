@@ -1,0 +1,17 @@
+pairs with ASJP word length: 526
+
+           subset    n  rho_P_vs_wlen  rho_P_vs_wlen_p rho_P_vs_wlen_ci  rho_G_vs_wlen  rho_G_vs_wlen_p rho_G_vs_wlen_ci
+0             all  526       0.008455         0.846604   [-0.232,0.163]       0.091515         0.035881   [-0.308,0.222]
+1           abjad   26      -0.475112         0.014175   [-0.582,0.389]      -0.062515         0.761598   [-0.613,1.000]
+2         abugida   46       0.191439         0.202487   [-0.247,0.603]       0.140889         0.350342   [-0.229,0.811]
+3        alphabet  427      -0.046538         0.337373   [-0.286,0.150]       0.085423         0.077862   [-0.389,0.305]
+4  morphosyllabic   16       0.528713         0.035238    [0.529,0.529]      -0.347072         0.187817  [-0.347,-0.347]
+
+OLS wl ~ logP + logG + C(gran), family-clustered SE:
+         Coef.  Std.Err.         z     P>|z|    [0.025    0.975]
+logP -0.022583  0.053211 -0.424409  0.671267 -0.126876  0.081709
+logG -0.035621  0.035972 -0.990246  0.322054 -0.106124  0.034882
+
+wordfreq-matched pairs: 287
+rho_G(., mean_orth_wordlen) = 0.128 (p=0.0306, fam-boot CI [-0.744,0.371])
+rho_P(., mean_orth_wordlen) = -0.397 (p=0.0000, fam-boot CI [-0.941,-0.113])

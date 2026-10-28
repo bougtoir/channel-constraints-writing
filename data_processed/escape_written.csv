@@ -1,0 +1,288 @@
+locale,iso3,glottocode,language,family,macroarea,script,ws_class,encoded_unit,granularity,G,g_aux,P_total,n_cons,n_vow,n_tone,Source,GP_ratio,is_isolate,mean_orth_wordlen
+bg,bul,bulg1262,Bulgarian,Indo-European,Eurasia,Cyrl,alphabet,phoneme,1.0,30,12,49.0,37.0,12.0,0.0,spa,0.6122448979591837,False,5.419
+bn,ben,beng1280,Bengali,Indo-European,Eurasia,Beng,abugida,CV-akshara,2.0,72,11,72.0,49.0,23.0,0.0,ph,1.0,False,4.907
+bn-IN,ben,beng1280,Bengali,Indo-European,Eurasia,Beng,abugida,CV-akshara,2.0,72,11,72.0,49.0,23.0,0.0,ph,1.0,False,4.907
+ca,cat,stan1289,Catalan,Indo-European,Eurasia,Latn,alphabet,phoneme,1.0,27,10,39.0,23.0,16.0,0.0,ph,0.6923076923076923,False,5.474
+ca-AD,cat,stan1289,Catalan,Indo-European,Eurasia,Latn,alphabet,phoneme,1.0,27,10,39.0,23.0,16.0,0.0,ph,0.6923076923076923,False,5.474
+ca-ES-valencia,cat,stan1289,Catalan,Indo-European,Eurasia,Latn,alphabet,phoneme,1.0,27,10,39.0,23.0,16.0,0.0,ph,0.6923076923076923,False,5.474
+ca-FR,cat,stan1289,Catalan,Indo-European,Eurasia,Latn,alphabet,phoneme,1.0,27,10,39.0,23.0,16.0,0.0,ph,0.6923076923076923,False,5.474
+ca-IT,cat,stan1289,Catalan,Indo-European,Eurasia,Latn,alphabet,phoneme,1.0,27,10,39.0,23.0,16.0,0.0,ph,0.6923076923076923,False,5.474
+cs,ces,czec1258,Czech,Indo-European,Eurasia,Latn,alphabet,phoneme,1.0,31,12,40.0,27.0,13.0,0.0,ea,0.775,False,4.864
+da,dan,dani1285,Danish,Indo-European,Eurasia,Latn,alphabet,phoneme,1.0,29,11,69.0,20.0,49.0,0.0,ph,0.4202898550724637,False,4.963
+da-GL,dan,dani1285,Danish,Indo-European,Eurasia,Latn,alphabet,phoneme,1.0,29,11,69.0,20.0,49.0,0.0,ph,0.4202898550724637,False,4.963
+de,deu,stan1295,German,Indo-European,Eurasia,Latn,alphabet,phoneme,1.0,27,13,41.0,22.0,19.0,0.0,upsid,0.6585365853658537,False,5.475
+de-AT,deu,stan1295,German,Indo-European,Eurasia,Latn,alphabet,phoneme,1.0,27,13,41.0,22.0,19.0,0.0,upsid,0.6585365853658537,False,5.475
+de-BE,deu,stan1295,German,Indo-European,Eurasia,Latn,alphabet,phoneme,1.0,27,13,41.0,22.0,19.0,0.0,upsid,0.6585365853658537,False,5.475
+de-CH,deu,stan1295,German,Indo-European,Eurasia,Latn,alphabet,phoneme,1.0,26,13,41.0,22.0,19.0,0.0,upsid,0.6341463414634146,False,5.475
+de-IT,deu,stan1295,German,Indo-European,Eurasia,Latn,alphabet,phoneme,1.0,27,13,41.0,22.0,19.0,0.0,upsid,0.6585365853658537,False,5.475
+de-LI,deu,stan1295,German,Indo-European,Eurasia,Latn,alphabet,phoneme,1.0,27,13,41.0,22.0,19.0,0.0,upsid,0.6585365853658537,False,5.475
+de-LU,deu,stan1295,German,Indo-European,Eurasia,Latn,alphabet,phoneme,1.0,27,13,41.0,22.0,19.0,0.0,upsid,0.6585365853658537,False,5.475
+el,ell,mode1248,Modern Greek,Indo-European,Eurasia,Grek,alphabet,phoneme,1.0,24,7,41.0,36.0,5.0,0.0,ph,0.5853658536585366,False,5.448
+el-CY,ell,mode1248,Modern Greek,Indo-European,Eurasia,Grek,alphabet,phoneme,1.0,24,7,41.0,36.0,5.0,0.0,ph,0.5853658536585366,False,5.448
+el-polyton,ell,mode1248,Modern Greek,Indo-European,Eurasia,Grek,alphabet,phoneme,1.0,24,0,41.0,36.0,5.0,0.0,ph,0.5853658536585366,False,5.448
+en,eng,stan1293,English,Indo-European,Africa;Eurasia;South America,Latn,alphabet,phoneme,1.0,26,10,45.0,24.0,21.0,0.0,ph,0.5777777777777777,False,5.064
+en-001,eng,stan1293,English,Indo-European,Africa;Eurasia;South America,Latn,alphabet,phoneme,1.0,26,10,45.0,24.0,21.0,0.0,ph,0.5777777777777777,False,5.064
+en-150,eng,stan1293,English,Indo-European,Africa;Eurasia;South America,Latn,alphabet,phoneme,1.0,26,10,45.0,24.0,21.0,0.0,ph,0.5777777777777777,False,5.064
+en-AE,eng,stan1293,English,Indo-European,Africa;Eurasia;South America,Latn,alphabet,phoneme,1.0,26,10,45.0,24.0,21.0,0.0,ph,0.5777777777777777,False,5.064
+en-AG,eng,stan1293,English,Indo-European,Africa;Eurasia;South America,Latn,alphabet,phoneme,1.0,26,10,45.0,24.0,21.0,0.0,ph,0.5777777777777777,False,5.064
+en-AI,eng,stan1293,English,Indo-European,Africa;Eurasia;South America,Latn,alphabet,phoneme,1.0,26,10,45.0,24.0,21.0,0.0,ph,0.5777777777777777,False,5.064
+en-AS,eng,stan1293,English,Indo-European,Africa;Eurasia;South America,Latn,alphabet,phoneme,1.0,26,10,45.0,24.0,21.0,0.0,ph,0.5777777777777777,False,5.064
+en-AT,eng,stan1293,English,Indo-European,Africa;Eurasia;South America,Latn,alphabet,phoneme,1.0,26,10,45.0,24.0,21.0,0.0,ph,0.5777777777777777,False,5.064
+en-AU,eng,stan1293,English,Indo-European,Africa;Eurasia;South America,Latn,alphabet,phoneme,1.0,26,10,45.0,24.0,21.0,0.0,ph,0.5777777777777777,False,5.064
+en-BB,eng,stan1293,English,Indo-European,Africa;Eurasia;South America,Latn,alphabet,phoneme,1.0,26,10,45.0,24.0,21.0,0.0,ph,0.5777777777777777,False,5.064
+en-BE,eng,stan1293,English,Indo-European,Africa;Eurasia;South America,Latn,alphabet,phoneme,1.0,26,10,45.0,24.0,21.0,0.0,ph,0.5777777777777777,False,5.064
+en-BI,eng,stan1293,English,Indo-European,Africa;Eurasia;South America,Latn,alphabet,phoneme,1.0,26,10,45.0,24.0,21.0,0.0,ph,0.5777777777777777,False,5.064
+en-BM,eng,stan1293,English,Indo-European,Africa;Eurasia;South America,Latn,alphabet,phoneme,1.0,26,10,45.0,24.0,21.0,0.0,ph,0.5777777777777777,False,5.064
+en-BS,eng,stan1293,English,Indo-European,Africa;Eurasia;South America,Latn,alphabet,phoneme,1.0,26,10,45.0,24.0,21.0,0.0,ph,0.5777777777777777,False,5.064
+en-BW,eng,stan1293,English,Indo-European,Africa;Eurasia;South America,Latn,alphabet,phoneme,1.0,26,10,45.0,24.0,21.0,0.0,ph,0.5777777777777777,False,5.064
+en-BZ,eng,stan1293,English,Indo-European,Africa;Eurasia;South America,Latn,alphabet,phoneme,1.0,26,10,45.0,24.0,21.0,0.0,ph,0.5777777777777777,False,5.064
+en-CA,eng,stan1293,English,Indo-European,Africa;Eurasia;South America,Latn,alphabet,phoneme,1.0,26,10,45.0,24.0,21.0,0.0,ph,0.5777777777777777,False,5.064
+en-CC,eng,stan1293,English,Indo-European,Africa;Eurasia;South America,Latn,alphabet,phoneme,1.0,26,10,45.0,24.0,21.0,0.0,ph,0.5777777777777777,False,5.064
+en-CH,eng,stan1293,English,Indo-European,Africa;Eurasia;South America,Latn,alphabet,phoneme,1.0,26,10,45.0,24.0,21.0,0.0,ph,0.5777777777777777,False,5.064
+en-CK,eng,stan1293,English,Indo-European,Africa;Eurasia;South America,Latn,alphabet,phoneme,1.0,26,10,45.0,24.0,21.0,0.0,ph,0.5777777777777777,False,5.064
+en-CM,eng,stan1293,English,Indo-European,Africa;Eurasia;South America,Latn,alphabet,phoneme,1.0,26,10,45.0,24.0,21.0,0.0,ph,0.5777777777777777,False,5.064
+en-CX,eng,stan1293,English,Indo-European,Africa;Eurasia;South America,Latn,alphabet,phoneme,1.0,26,10,45.0,24.0,21.0,0.0,ph,0.5777777777777777,False,5.064
+en-CY,eng,stan1293,English,Indo-European,Africa;Eurasia;South America,Latn,alphabet,phoneme,1.0,26,10,45.0,24.0,21.0,0.0,ph,0.5777777777777777,False,5.064
+en-DE,eng,stan1293,English,Indo-European,Africa;Eurasia;South America,Latn,alphabet,phoneme,1.0,26,10,45.0,24.0,21.0,0.0,ph,0.5777777777777777,False,5.064
+en-DG,eng,stan1293,English,Indo-European,Africa;Eurasia;South America,Latn,alphabet,phoneme,1.0,26,10,45.0,24.0,21.0,0.0,ph,0.5777777777777777,False,5.064
+en-DK,eng,stan1293,English,Indo-European,Africa;Eurasia;South America,Latn,alphabet,phoneme,1.0,26,10,45.0,24.0,21.0,0.0,ph,0.5777777777777777,False,5.064
+en-DM,eng,stan1293,English,Indo-European,Africa;Eurasia;South America,Latn,alphabet,phoneme,1.0,26,10,45.0,24.0,21.0,0.0,ph,0.5777777777777777,False,5.064
+en-Dsrt,eng,stan1293,English,Indo-European,Africa;Eurasia;South America,Dsrt,alphabet,phoneme,1.0,40,0,45.0,24.0,21.0,0.0,ph,0.8888888888888888,False,5.064
+en-ER,eng,stan1293,English,Indo-European,Africa;Eurasia;South America,Latn,alphabet,phoneme,1.0,26,10,45.0,24.0,21.0,0.0,ph,0.5777777777777777,False,5.064
+en-FI,eng,stan1293,English,Indo-European,Africa;Eurasia;South America,Latn,alphabet,phoneme,1.0,26,10,45.0,24.0,21.0,0.0,ph,0.5777777777777777,False,5.064
+en-FJ,eng,stan1293,English,Indo-European,Africa;Eurasia;South America,Latn,alphabet,phoneme,1.0,26,10,45.0,24.0,21.0,0.0,ph,0.5777777777777777,False,5.064
+en-FK,eng,stan1293,English,Indo-European,Africa;Eurasia;South America,Latn,alphabet,phoneme,1.0,26,10,45.0,24.0,21.0,0.0,ph,0.5777777777777777,False,5.064
+en-FM,eng,stan1293,English,Indo-European,Africa;Eurasia;South America,Latn,alphabet,phoneme,1.0,26,10,45.0,24.0,21.0,0.0,ph,0.5777777777777777,False,5.064
+en-GB,eng,stan1293,English,Indo-European,Africa;Eurasia;South America,Latn,alphabet,phoneme,1.0,26,10,45.0,24.0,21.0,0.0,ph,0.5777777777777777,False,5.064
+en-GD,eng,stan1293,English,Indo-European,Africa;Eurasia;South America,Latn,alphabet,phoneme,1.0,26,10,45.0,24.0,21.0,0.0,ph,0.5777777777777777,False,5.064
+en-GG,eng,stan1293,English,Indo-European,Africa;Eurasia;South America,Latn,alphabet,phoneme,1.0,26,10,45.0,24.0,21.0,0.0,ph,0.5777777777777777,False,5.064
+en-GH,eng,stan1293,English,Indo-European,Africa;Eurasia;South America,Latn,alphabet,phoneme,1.0,26,10,45.0,24.0,21.0,0.0,ph,0.5777777777777777,False,5.064
+en-GI,eng,stan1293,English,Indo-European,Africa;Eurasia;South America,Latn,alphabet,phoneme,1.0,26,10,45.0,24.0,21.0,0.0,ph,0.5777777777777777,False,5.064
+en-GM,eng,stan1293,English,Indo-European,Africa;Eurasia;South America,Latn,alphabet,phoneme,1.0,26,10,45.0,24.0,21.0,0.0,ph,0.5777777777777777,False,5.064
+en-GU,eng,stan1293,English,Indo-European,Africa;Eurasia;South America,Latn,alphabet,phoneme,1.0,26,10,45.0,24.0,21.0,0.0,ph,0.5777777777777777,False,5.064
+en-GY,eng,stan1293,English,Indo-European,Africa;Eurasia;South America,Latn,alphabet,phoneme,1.0,26,10,45.0,24.0,21.0,0.0,ph,0.5777777777777777,False,5.064
+en-HK,eng,stan1293,English,Indo-European,Africa;Eurasia;South America,Latn,alphabet,phoneme,1.0,26,10,45.0,24.0,21.0,0.0,ph,0.5777777777777777,False,5.064
+en-ID,eng,stan1293,English,Indo-European,Africa;Eurasia;South America,Latn,alphabet,phoneme,1.0,26,10,45.0,24.0,21.0,0.0,ph,0.5777777777777777,False,5.064
+en-IE,eng,stan1293,English,Indo-European,Africa;Eurasia;South America,Latn,alphabet,phoneme,1.0,26,10,45.0,24.0,21.0,0.0,ph,0.5777777777777777,False,5.064
+en-IL,eng,stan1293,English,Indo-European,Africa;Eurasia;South America,Latn,alphabet,phoneme,1.0,26,10,45.0,24.0,21.0,0.0,ph,0.5777777777777777,False,5.064
+en-IM,eng,stan1293,English,Indo-European,Africa;Eurasia;South America,Latn,alphabet,phoneme,1.0,26,10,45.0,24.0,21.0,0.0,ph,0.5777777777777777,False,5.064
+en-IN,eng,stan1293,English,Indo-European,Africa;Eurasia;South America,Latn,alphabet,phoneme,1.0,26,10,45.0,24.0,21.0,0.0,ph,0.5777777777777777,False,5.064
+en-IO,eng,stan1293,English,Indo-European,Africa;Eurasia;South America,Latn,alphabet,phoneme,1.0,26,10,45.0,24.0,21.0,0.0,ph,0.5777777777777777,False,5.064
+en-JE,eng,stan1293,English,Indo-European,Africa;Eurasia;South America,Latn,alphabet,phoneme,1.0,26,10,45.0,24.0,21.0,0.0,ph,0.5777777777777777,False,5.064
+en-JM,eng,stan1293,English,Indo-European,Africa;Eurasia;South America,Latn,alphabet,phoneme,1.0,26,10,45.0,24.0,21.0,0.0,ph,0.5777777777777777,False,5.064
+en-KE,eng,stan1293,English,Indo-European,Africa;Eurasia;South America,Latn,alphabet,phoneme,1.0,26,10,45.0,24.0,21.0,0.0,ph,0.5777777777777777,False,5.064
+en-KI,eng,stan1293,English,Indo-European,Africa;Eurasia;South America,Latn,alphabet,phoneme,1.0,26,10,45.0,24.0,21.0,0.0,ph,0.5777777777777777,False,5.064
+en-KN,eng,stan1293,English,Indo-European,Africa;Eurasia;South America,Latn,alphabet,phoneme,1.0,26,10,45.0,24.0,21.0,0.0,ph,0.5777777777777777,False,5.064
+en-KY,eng,stan1293,English,Indo-European,Africa;Eurasia;South America,Latn,alphabet,phoneme,1.0,26,10,45.0,24.0,21.0,0.0,ph,0.5777777777777777,False,5.064
+en-LC,eng,stan1293,English,Indo-European,Africa;Eurasia;South America,Latn,alphabet,phoneme,1.0,26,10,45.0,24.0,21.0,0.0,ph,0.5777777777777777,False,5.064
+en-LR,eng,stan1293,English,Indo-European,Africa;Eurasia;South America,Latn,alphabet,phoneme,1.0,26,10,45.0,24.0,21.0,0.0,ph,0.5777777777777777,False,5.064
+en-LS,eng,stan1293,English,Indo-European,Africa;Eurasia;South America,Latn,alphabet,phoneme,1.0,26,10,45.0,24.0,21.0,0.0,ph,0.5777777777777777,False,5.064
+en-MG,eng,stan1293,English,Indo-European,Africa;Eurasia;South America,Latn,alphabet,phoneme,1.0,26,10,45.0,24.0,21.0,0.0,ph,0.5777777777777777,False,5.064
+en-MH,eng,stan1293,English,Indo-European,Africa;Eurasia;South America,Latn,alphabet,phoneme,1.0,26,10,45.0,24.0,21.0,0.0,ph,0.5777777777777777,False,5.064
+en-MO,eng,stan1293,English,Indo-European,Africa;Eurasia;South America,Latn,alphabet,phoneme,1.0,26,10,45.0,24.0,21.0,0.0,ph,0.5777777777777777,False,5.064
+en-MP,eng,stan1293,English,Indo-European,Africa;Eurasia;South America,Latn,alphabet,phoneme,1.0,26,10,45.0,24.0,21.0,0.0,ph,0.5777777777777777,False,5.064
+en-MS,eng,stan1293,English,Indo-European,Africa;Eurasia;South America,Latn,alphabet,phoneme,1.0,26,10,45.0,24.0,21.0,0.0,ph,0.5777777777777777,False,5.064
+en-MT,eng,stan1293,English,Indo-European,Africa;Eurasia;South America,Latn,alphabet,phoneme,1.0,26,10,45.0,24.0,21.0,0.0,ph,0.5777777777777777,False,5.064
+en-MU,eng,stan1293,English,Indo-European,Africa;Eurasia;South America,Latn,alphabet,phoneme,1.0,26,10,45.0,24.0,21.0,0.0,ph,0.5777777777777777,False,5.064
+en-MV,eng,stan1293,English,Indo-European,Africa;Eurasia;South America,Latn,alphabet,phoneme,1.0,26,10,45.0,24.0,21.0,0.0,ph,0.5777777777777777,False,5.064
+en-MW,eng,stan1293,English,Indo-European,Africa;Eurasia;South America,Latn,alphabet,phoneme,1.0,26,10,45.0,24.0,21.0,0.0,ph,0.5777777777777777,False,5.064
+en-MY,eng,stan1293,English,Indo-European,Africa;Eurasia;South America,Latn,alphabet,phoneme,1.0,26,10,45.0,24.0,21.0,0.0,ph,0.5777777777777777,False,5.064
+en-NA,eng,stan1293,English,Indo-European,Africa;Eurasia;South America,Latn,alphabet,phoneme,1.0,26,10,45.0,24.0,21.0,0.0,ph,0.5777777777777777,False,5.064
+en-NF,eng,stan1293,English,Indo-European,Africa;Eurasia;South America,Latn,alphabet,phoneme,1.0,26,10,45.0,24.0,21.0,0.0,ph,0.5777777777777777,False,5.064
+en-NG,eng,stan1293,English,Indo-European,Africa;Eurasia;South America,Latn,alphabet,phoneme,1.0,26,10,45.0,24.0,21.0,0.0,ph,0.5777777777777777,False,5.064
+en-NL,eng,stan1293,English,Indo-European,Africa;Eurasia;South America,Latn,alphabet,phoneme,1.0,26,10,45.0,24.0,21.0,0.0,ph,0.5777777777777777,False,5.064
+en-NR,eng,stan1293,English,Indo-European,Africa;Eurasia;South America,Latn,alphabet,phoneme,1.0,26,10,45.0,24.0,21.0,0.0,ph,0.5777777777777777,False,5.064
+en-NU,eng,stan1293,English,Indo-European,Africa;Eurasia;South America,Latn,alphabet,phoneme,1.0,26,10,45.0,24.0,21.0,0.0,ph,0.5777777777777777,False,5.064
+en-NZ,eng,stan1293,English,Indo-European,Africa;Eurasia;South America,Latn,alphabet,phoneme,1.0,26,10,45.0,24.0,21.0,0.0,ph,0.5777777777777777,False,5.064
+en-PG,eng,stan1293,English,Indo-European,Africa;Eurasia;South America,Latn,alphabet,phoneme,1.0,26,10,45.0,24.0,21.0,0.0,ph,0.5777777777777777,False,5.064
+en-PH,eng,stan1293,English,Indo-European,Africa;Eurasia;South America,Latn,alphabet,phoneme,1.0,26,10,45.0,24.0,21.0,0.0,ph,0.5777777777777777,False,5.064
+en-PK,eng,stan1293,English,Indo-European,Africa;Eurasia;South America,Latn,alphabet,phoneme,1.0,26,10,45.0,24.0,21.0,0.0,ph,0.5777777777777777,False,5.064
+en-PN,eng,stan1293,English,Indo-European,Africa;Eurasia;South America,Latn,alphabet,phoneme,1.0,26,10,45.0,24.0,21.0,0.0,ph,0.5777777777777777,False,5.064
+en-PR,eng,stan1293,English,Indo-European,Africa;Eurasia;South America,Latn,alphabet,phoneme,1.0,26,10,45.0,24.0,21.0,0.0,ph,0.5777777777777777,False,5.064
+en-PW,eng,stan1293,English,Indo-European,Africa;Eurasia;South America,Latn,alphabet,phoneme,1.0,26,10,45.0,24.0,21.0,0.0,ph,0.5777777777777777,False,5.064
+en-RW,eng,stan1293,English,Indo-European,Africa;Eurasia;South America,Latn,alphabet,phoneme,1.0,26,10,45.0,24.0,21.0,0.0,ph,0.5777777777777777,False,5.064
+en-SB,eng,stan1293,English,Indo-European,Africa;Eurasia;South America,Latn,alphabet,phoneme,1.0,26,10,45.0,24.0,21.0,0.0,ph,0.5777777777777777,False,5.064
+en-SC,eng,stan1293,English,Indo-European,Africa;Eurasia;South America,Latn,alphabet,phoneme,1.0,26,10,45.0,24.0,21.0,0.0,ph,0.5777777777777777,False,5.064
+en-SD,eng,stan1293,English,Indo-European,Africa;Eurasia;South America,Latn,alphabet,phoneme,1.0,26,10,45.0,24.0,21.0,0.0,ph,0.5777777777777777,False,5.064
+en-SE,eng,stan1293,English,Indo-European,Africa;Eurasia;South America,Latn,alphabet,phoneme,1.0,26,10,45.0,24.0,21.0,0.0,ph,0.5777777777777777,False,5.064
+en-SG,eng,stan1293,English,Indo-European,Africa;Eurasia;South America,Latn,alphabet,phoneme,1.0,26,10,45.0,24.0,21.0,0.0,ph,0.5777777777777777,False,5.064
+en-SH,eng,stan1293,English,Indo-European,Africa;Eurasia;South America,Latn,alphabet,phoneme,1.0,26,10,45.0,24.0,21.0,0.0,ph,0.5777777777777777,False,5.064
+en-SI,eng,stan1293,English,Indo-European,Africa;Eurasia;South America,Latn,alphabet,phoneme,1.0,26,10,45.0,24.0,21.0,0.0,ph,0.5777777777777777,False,5.064
+en-SL,eng,stan1293,English,Indo-European,Africa;Eurasia;South America,Latn,alphabet,phoneme,1.0,26,10,45.0,24.0,21.0,0.0,ph,0.5777777777777777,False,5.064
+en-SS,eng,stan1293,English,Indo-European,Africa;Eurasia;South America,Latn,alphabet,phoneme,1.0,26,10,45.0,24.0,21.0,0.0,ph,0.5777777777777777,False,5.064
+en-SX,eng,stan1293,English,Indo-European,Africa;Eurasia;South America,Latn,alphabet,phoneme,1.0,26,10,45.0,24.0,21.0,0.0,ph,0.5777777777777777,False,5.064
+en-SZ,eng,stan1293,English,Indo-European,Africa;Eurasia;South America,Latn,alphabet,phoneme,1.0,26,10,45.0,24.0,21.0,0.0,ph,0.5777777777777777,False,5.064
+en-Shaw,eng,stan1293,English,Indo-European,Africa;Eurasia;South America,Shaw,alphabet,phoneme,1.0,48,0,45.0,24.0,21.0,0.0,ph,1.0666666666666669,False,5.064
+en-TC,eng,stan1293,English,Indo-European,Africa;Eurasia;South America,Latn,alphabet,phoneme,1.0,26,10,45.0,24.0,21.0,0.0,ph,0.5777777777777777,False,5.064
+en-TK,eng,stan1293,English,Indo-European,Africa;Eurasia;South America,Latn,alphabet,phoneme,1.0,26,10,45.0,24.0,21.0,0.0,ph,0.5777777777777777,False,5.064
+en-TO,eng,stan1293,English,Indo-European,Africa;Eurasia;South America,Latn,alphabet,phoneme,1.0,26,10,45.0,24.0,21.0,0.0,ph,0.5777777777777777,False,5.064
+en-TT,eng,stan1293,English,Indo-European,Africa;Eurasia;South America,Latn,alphabet,phoneme,1.0,26,10,45.0,24.0,21.0,0.0,ph,0.5777777777777777,False,5.064
+en-TV,eng,stan1293,English,Indo-European,Africa;Eurasia;South America,Latn,alphabet,phoneme,1.0,26,10,45.0,24.0,21.0,0.0,ph,0.5777777777777777,False,5.064
+en-TZ,eng,stan1293,English,Indo-European,Africa;Eurasia;South America,Latn,alphabet,phoneme,1.0,26,10,45.0,24.0,21.0,0.0,ph,0.5777777777777777,False,5.064
+en-UG,eng,stan1293,English,Indo-European,Africa;Eurasia;South America,Latn,alphabet,phoneme,1.0,26,10,45.0,24.0,21.0,0.0,ph,0.5777777777777777,False,5.064
+en-UM,eng,stan1293,English,Indo-European,Africa;Eurasia;South America,Latn,alphabet,phoneme,1.0,26,10,45.0,24.0,21.0,0.0,ph,0.5777777777777777,False,5.064
+en-VC,eng,stan1293,English,Indo-European,Africa;Eurasia;South America,Latn,alphabet,phoneme,1.0,26,10,45.0,24.0,21.0,0.0,ph,0.5777777777777777,False,5.064
+en-VG,eng,stan1293,English,Indo-European,Africa;Eurasia;South America,Latn,alphabet,phoneme,1.0,26,10,45.0,24.0,21.0,0.0,ph,0.5777777777777777,False,5.064
+en-VI,eng,stan1293,English,Indo-European,Africa;Eurasia;South America,Latn,alphabet,phoneme,1.0,26,10,45.0,24.0,21.0,0.0,ph,0.5777777777777777,False,5.064
+en-VU,eng,stan1293,English,Indo-European,Africa;Eurasia;South America,Latn,alphabet,phoneme,1.0,26,10,45.0,24.0,21.0,0.0,ph,0.5777777777777777,False,5.064
+en-WS,eng,stan1293,English,Indo-European,Africa;Eurasia;South America,Latn,alphabet,phoneme,1.0,26,10,45.0,24.0,21.0,0.0,ph,0.5777777777777777,False,5.064
+en-ZA,eng,stan1293,English,Indo-European,Africa;Eurasia;South America,Latn,alphabet,phoneme,1.0,26,14,45.0,24.0,21.0,0.0,ph,0.5777777777777777,False,5.064
+en-ZM,eng,stan1293,English,Indo-European,Africa;Eurasia;South America,Latn,alphabet,phoneme,1.0,26,10,45.0,24.0,21.0,0.0,ph,0.5777777777777777,False,5.064
+en-ZW,eng,stan1293,English,Indo-European,Africa;Eurasia;South America,Latn,alphabet,phoneme,1.0,26,10,45.0,24.0,21.0,0.0,ph,0.5777777777777777,False,5.064
+es,spa,stan1288,Spanish,Indo-European,Eurasia,Latn,alphabet,phoneme,1.0,27,9,45.0,19.0,26.0,0.0,ea,0.6,False,5.591
+es-419,spa,stan1288,Spanish,Indo-European,Eurasia,Latn,alphabet,phoneme,1.0,27,9,45.0,19.0,26.0,0.0,ea,0.6,False,5.591
+es-AR,spa,stan1288,Spanish,Indo-European,Eurasia,Latn,alphabet,phoneme,1.0,27,9,45.0,19.0,26.0,0.0,ea,0.6,False,5.591
+es-BO,spa,stan1288,Spanish,Indo-European,Eurasia,Latn,alphabet,phoneme,1.0,27,9,45.0,19.0,26.0,0.0,ea,0.6,False,5.591
+es-BR,spa,stan1288,Spanish,Indo-European,Eurasia,Latn,alphabet,phoneme,1.0,27,9,45.0,19.0,26.0,0.0,ea,0.6,False,5.591
+es-BZ,spa,stan1288,Spanish,Indo-European,Eurasia,Latn,alphabet,phoneme,1.0,27,9,45.0,19.0,26.0,0.0,ea,0.6,False,5.591
+es-CL,spa,stan1288,Spanish,Indo-European,Eurasia,Latn,alphabet,phoneme,1.0,27,9,45.0,19.0,26.0,0.0,ea,0.6,False,5.591
+es-CO,spa,stan1288,Spanish,Indo-European,Eurasia,Latn,alphabet,phoneme,1.0,27,9,45.0,19.0,26.0,0.0,ea,0.6,False,5.591
+es-CR,spa,stan1288,Spanish,Indo-European,Eurasia,Latn,alphabet,phoneme,1.0,27,9,45.0,19.0,26.0,0.0,ea,0.6,False,5.591
+es-CU,spa,stan1288,Spanish,Indo-European,Eurasia,Latn,alphabet,phoneme,1.0,27,9,45.0,19.0,26.0,0.0,ea,0.6,False,5.591
+es-DO,spa,stan1288,Spanish,Indo-European,Eurasia,Latn,alphabet,phoneme,1.0,27,9,45.0,19.0,26.0,0.0,ea,0.6,False,5.591
+es-EA,spa,stan1288,Spanish,Indo-European,Eurasia,Latn,alphabet,phoneme,1.0,27,9,45.0,19.0,26.0,0.0,ea,0.6,False,5.591
+es-EC,spa,stan1288,Spanish,Indo-European,Eurasia,Latn,alphabet,phoneme,1.0,27,9,45.0,19.0,26.0,0.0,ea,0.6,False,5.591
+es-GQ,spa,stan1288,Spanish,Indo-European,Eurasia,Latn,alphabet,phoneme,1.0,27,9,45.0,19.0,26.0,0.0,ea,0.6,False,5.591
+es-GT,spa,stan1288,Spanish,Indo-European,Eurasia,Latn,alphabet,phoneme,1.0,27,9,45.0,19.0,26.0,0.0,ea,0.6,False,5.591
+es-HN,spa,stan1288,Spanish,Indo-European,Eurasia,Latn,alphabet,phoneme,1.0,27,9,45.0,19.0,26.0,0.0,ea,0.6,False,5.591
+es-IC,spa,stan1288,Spanish,Indo-European,Eurasia,Latn,alphabet,phoneme,1.0,27,9,45.0,19.0,26.0,0.0,ea,0.6,False,5.591
+es-MX,spa,stan1288,Spanish,Indo-European,Eurasia,Latn,alphabet,phoneme,1.0,27,9,45.0,19.0,26.0,0.0,ea,0.6,False,5.591
+es-NI,spa,stan1288,Spanish,Indo-European,Eurasia,Latn,alphabet,phoneme,1.0,27,9,45.0,19.0,26.0,0.0,ea,0.6,False,5.591
+es-PA,spa,stan1288,Spanish,Indo-European,Eurasia,Latn,alphabet,phoneme,1.0,27,9,45.0,19.0,26.0,0.0,ea,0.6,False,5.591
+es-PE,spa,stan1288,Spanish,Indo-European,Eurasia,Latn,alphabet,phoneme,1.0,27,9,45.0,19.0,26.0,0.0,ea,0.6,False,5.591
+es-PH,spa,stan1288,Spanish,Indo-European,Eurasia,Latn,alphabet,phoneme,1.0,27,9,45.0,19.0,26.0,0.0,ea,0.6,False,5.591
+es-PR,spa,stan1288,Spanish,Indo-European,Eurasia,Latn,alphabet,phoneme,1.0,27,9,45.0,19.0,26.0,0.0,ea,0.6,False,5.591
+es-PY,spa,stan1288,Spanish,Indo-European,Eurasia,Latn,alphabet,phoneme,1.0,27,9,45.0,19.0,26.0,0.0,ea,0.6,False,5.591
+es-SV,spa,stan1288,Spanish,Indo-European,Eurasia,Latn,alphabet,phoneme,1.0,27,9,45.0,19.0,26.0,0.0,ea,0.6,False,5.591
+es-US,spa,stan1288,Spanish,Indo-European,Eurasia,Latn,alphabet,phoneme,1.0,27,9,45.0,19.0,26.0,0.0,ea,0.6,False,5.591
+es-UY,spa,stan1288,Spanish,Indo-European,Eurasia,Latn,alphabet,phoneme,1.0,27,9,45.0,19.0,26.0,0.0,ea,0.6,False,5.591
+es-VE,spa,stan1288,Spanish,Indo-European,Eurasia,Latn,alphabet,phoneme,1.0,27,9,45.0,19.0,26.0,0.0,ea,0.6,False,5.591
+fa,pes,west2369,Western Farsi,Indo-European,Eurasia,Arab,abjad,consonant-phoneme,1.0,39,10,30.0,24.0,6.0,0.0,upsid,1.3,False,3.962
+fa-AF,pes,west2369,Western Farsi,Indo-European,Eurasia,Arab,abjad,consonant-phoneme,1.0,39,20,30.0,24.0,6.0,0.0,upsid,1.3,False,3.962
+fi,fin,finn1318,Finnish,Uralic,Eurasia,Latn,alphabet,phoneme,1.0,29,28,42.0,25.0,17.0,0.0,spa,0.6904761904761905,False,5.736
+fil,fil,fili1244,Filipino,Austronesian,Papunesia,Latn,alphabet,phoneme,1.0,28,5,27.0,17.0,10.0,0.0,ph,1.037037037037037,False,5.674
+fr,fra,stan1290,French,Indo-European,Eurasia,Latn,alphabet,phoneme,1.0,28,11,40.0,23.0,17.0,0.0,spa,0.7,False,5.561
+fr-BE,fra,stan1290,French,Indo-European,Eurasia,Latn,alphabet,phoneme,1.0,28,11,40.0,23.0,17.0,0.0,spa,0.7,False,5.561
+fr-BF,fra,stan1290,French,Indo-European,Eurasia,Latn,alphabet,phoneme,1.0,28,11,40.0,23.0,17.0,0.0,spa,0.7,False,5.561
+fr-BI,fra,stan1290,French,Indo-European,Eurasia,Latn,alphabet,phoneme,1.0,28,11,40.0,23.0,17.0,0.0,spa,0.7,False,5.561
+fr-BJ,fra,stan1290,French,Indo-European,Eurasia,Latn,alphabet,phoneme,1.0,28,11,40.0,23.0,17.0,0.0,spa,0.7,False,5.561
+fr-BL,fra,stan1290,French,Indo-European,Eurasia,Latn,alphabet,phoneme,1.0,28,11,40.0,23.0,17.0,0.0,spa,0.7,False,5.561
+fr-CA,fra,stan1290,French,Indo-European,Eurasia,Latn,alphabet,phoneme,1.0,28,6,40.0,23.0,17.0,0.0,spa,0.7,False,5.561
+fr-CD,fra,stan1290,French,Indo-European,Eurasia,Latn,alphabet,phoneme,1.0,28,11,40.0,23.0,17.0,0.0,spa,0.7,False,5.561
+fr-CF,fra,stan1290,French,Indo-European,Eurasia,Latn,alphabet,phoneme,1.0,28,11,40.0,23.0,17.0,0.0,spa,0.7,False,5.561
+fr-CG,fra,stan1290,French,Indo-European,Eurasia,Latn,alphabet,phoneme,1.0,28,11,40.0,23.0,17.0,0.0,spa,0.7,False,5.561
+fr-CH,fra,stan1290,French,Indo-European,Eurasia,Latn,alphabet,phoneme,1.0,28,11,40.0,23.0,17.0,0.0,spa,0.7,False,5.561
+fr-CI,fra,stan1290,French,Indo-European,Eurasia,Latn,alphabet,phoneme,1.0,28,11,40.0,23.0,17.0,0.0,spa,0.7,False,5.561
+fr-CM,fra,stan1290,French,Indo-European,Eurasia,Latn,alphabet,phoneme,1.0,28,11,40.0,23.0,17.0,0.0,spa,0.7,False,5.561
+fr-DJ,fra,stan1290,French,Indo-European,Eurasia,Latn,alphabet,phoneme,1.0,28,11,40.0,23.0,17.0,0.0,spa,0.7,False,5.561
+fr-DZ,fra,stan1290,French,Indo-European,Eurasia,Latn,alphabet,phoneme,1.0,28,11,40.0,23.0,17.0,0.0,spa,0.7,False,5.561
+fr-GA,fra,stan1290,French,Indo-European,Eurasia,Latn,alphabet,phoneme,1.0,28,11,40.0,23.0,17.0,0.0,spa,0.7,False,5.561
+fr-GF,fra,stan1290,French,Indo-European,Eurasia,Latn,alphabet,phoneme,1.0,28,11,40.0,23.0,17.0,0.0,spa,0.7,False,5.561
+fr-GN,fra,stan1290,French,Indo-European,Eurasia,Latn,alphabet,phoneme,1.0,28,11,40.0,23.0,17.0,0.0,spa,0.7,False,5.561
+fr-GP,fra,stan1290,French,Indo-European,Eurasia,Latn,alphabet,phoneme,1.0,28,11,40.0,23.0,17.0,0.0,spa,0.7,False,5.561
+fr-GQ,fra,stan1290,French,Indo-European,Eurasia,Latn,alphabet,phoneme,1.0,28,11,40.0,23.0,17.0,0.0,spa,0.7,False,5.561
+fr-HT,fra,stan1290,French,Indo-European,Eurasia,Latn,alphabet,phoneme,1.0,28,11,40.0,23.0,17.0,0.0,spa,0.7,False,5.561
+fr-KM,fra,stan1290,French,Indo-European,Eurasia,Latn,alphabet,phoneme,1.0,28,11,40.0,23.0,17.0,0.0,spa,0.7,False,5.561
+fr-LU,fra,stan1290,French,Indo-European,Eurasia,Latn,alphabet,phoneme,1.0,28,11,40.0,23.0,17.0,0.0,spa,0.7,False,5.561
+fr-MA,fra,stan1290,French,Indo-European,Eurasia,Latn,alphabet,phoneme,1.0,28,11,40.0,23.0,17.0,0.0,spa,0.7,False,5.561
+fr-MC,fra,stan1290,French,Indo-European,Eurasia,Latn,alphabet,phoneme,1.0,28,11,40.0,23.0,17.0,0.0,spa,0.7,False,5.561
+fr-MF,fra,stan1290,French,Indo-European,Eurasia,Latn,alphabet,phoneme,1.0,28,11,40.0,23.0,17.0,0.0,spa,0.7,False,5.561
+fr-MG,fra,stan1290,French,Indo-European,Eurasia,Latn,alphabet,phoneme,1.0,28,11,40.0,23.0,17.0,0.0,spa,0.7,False,5.561
+fr-ML,fra,stan1290,French,Indo-European,Eurasia,Latn,alphabet,phoneme,1.0,28,11,40.0,23.0,17.0,0.0,spa,0.7,False,5.561
+fr-MQ,fra,stan1290,French,Indo-European,Eurasia,Latn,alphabet,phoneme,1.0,28,11,40.0,23.0,17.0,0.0,spa,0.7,False,5.561
+fr-MR,fra,stan1290,French,Indo-European,Eurasia,Latn,alphabet,phoneme,1.0,28,11,40.0,23.0,17.0,0.0,spa,0.7,False,5.561
+fr-MU,fra,stan1290,French,Indo-European,Eurasia,Latn,alphabet,phoneme,1.0,28,11,40.0,23.0,17.0,0.0,spa,0.7,False,5.561
+fr-NC,fra,stan1290,French,Indo-European,Eurasia,Latn,alphabet,phoneme,1.0,28,11,40.0,23.0,17.0,0.0,spa,0.7,False,5.561
+fr-NE,fra,stan1290,French,Indo-European,Eurasia,Latn,alphabet,phoneme,1.0,28,11,40.0,23.0,17.0,0.0,spa,0.7,False,5.561
+fr-PF,fra,stan1290,French,Indo-European,Eurasia,Latn,alphabet,phoneme,1.0,28,11,40.0,23.0,17.0,0.0,spa,0.7,False,5.561
+fr-PM,fra,stan1290,French,Indo-European,Eurasia,Latn,alphabet,phoneme,1.0,28,11,40.0,23.0,17.0,0.0,spa,0.7,False,5.561
+fr-RE,fra,stan1290,French,Indo-European,Eurasia,Latn,alphabet,phoneme,1.0,28,11,40.0,23.0,17.0,0.0,spa,0.7,False,5.561
+fr-RW,fra,stan1290,French,Indo-European,Eurasia,Latn,alphabet,phoneme,1.0,28,11,40.0,23.0,17.0,0.0,spa,0.7,False,5.561
+fr-SC,fra,stan1290,French,Indo-European,Eurasia,Latn,alphabet,phoneme,1.0,28,11,40.0,23.0,17.0,0.0,spa,0.7,False,5.561
+fr-SN,fra,stan1290,French,Indo-European,Eurasia,Latn,alphabet,phoneme,1.0,28,11,40.0,23.0,17.0,0.0,spa,0.7,False,5.561
+fr-SY,fra,stan1290,French,Indo-European,Eurasia,Latn,alphabet,phoneme,1.0,28,11,40.0,23.0,17.0,0.0,spa,0.7,False,5.561
+fr-TD,fra,stan1290,French,Indo-European,Eurasia,Latn,alphabet,phoneme,1.0,28,11,40.0,23.0,17.0,0.0,spa,0.7,False,5.561
+fr-TG,fra,stan1290,French,Indo-European,Eurasia,Latn,alphabet,phoneme,1.0,28,11,40.0,23.0,17.0,0.0,spa,0.7,False,5.561
+fr-TN,fra,stan1290,French,Indo-European,Eurasia,Latn,alphabet,phoneme,1.0,28,11,40.0,23.0,17.0,0.0,spa,0.7,False,5.561
+fr-VU,fra,stan1290,French,Indo-European,Eurasia,Latn,alphabet,phoneme,1.0,28,11,40.0,23.0,17.0,0.0,spa,0.7,False,5.561
+fr-WF,fra,stan1290,French,Indo-European,Eurasia,Latn,alphabet,phoneme,1.0,28,11,40.0,23.0,17.0,0.0,spa,0.7,False,5.561
+fr-YT,fra,stan1290,French,Indo-European,Eurasia,Latn,alphabet,phoneme,1.0,28,11,40.0,23.0,17.0,0.0,spa,0.7,False,5.561
+he,heb,hebr1245,Modern Hebrew,Afro-Asiatic,Eurasia,Hebr,abjad,consonant-phoneme,1.0,22,18,30.0,24.0,6.0,0.0,spa,0.7333333333333333,False,3.899
+hi,hin,hind1269,Hindi,Indo-European,Eurasia,Deva,abugida,CV-akshara,2.0,67,2,94.0,71.0,23.0,0.0,spa,0.7127659574468085,False,4.166
+hi-Latn,hin,hind1269,Hindi,Indo-European,Eurasia,Latn,alphabet,phoneme,1.0,26,17,94.0,71.0,23.0,0.0,spa,0.2765957446808511,False,4.166
+hu,hun,hung1274,Hungarian,Uralic,Eurasia,Latn,alphabet,phoneme,1.0,42,13,65.0,50.0,15.0,0.0,spa,0.6461538461538462,False,5.261
+id,ind,indo1316,Standard Indonesian,Austronesian,Papunesia,Latn,alphabet,phoneme,1.0,26,10,31.0,23.0,8.0,0.0,ph,0.8387096774193549,False,5.721
+is,isl,icel1247,Icelandic,Indo-European,Eurasia,Latn,alphabet,phoneme,1.0,32,4,45.0,30.0,15.0,0.0,ea,0.7111111111111111,False,4.897
+it,ita,ital1282,Italian,Indo-European,Eurasia,Latn,alphabet,phoneme,1.0,26,11,70.0,39.0,31.0,0.0,ph,0.3714285714285714,False,5.607
+it-CH,ita,ital1282,Italian,Indo-European,Eurasia,Latn,alphabet,phoneme,1.0,26,11,70.0,39.0,31.0,0.0,ph,0.3714285714285714,False,5.607
+it-SM,ita,ital1282,Italian,Indo-European,Eurasia,Latn,alphabet,phoneme,1.0,26,11,70.0,39.0,31.0,0.0,ph,0.3714285714285714,False,5.607
+it-VA,ita,ital1282,Italian,Indo-European,Eurasia,Latn,alphabet,phoneme,1.0,26,11,70.0,39.0,31.0,0.0,ph,0.3714285714285714,False,5.607
+ja,jpn,nucl1643,Japanese,Japonic,Eurasia,Jpan,mixed,mora+morpheme,4.0,2187,75,40.0,27.0,11.0,2.0,spa,54.675,False,1.916
+ko,kor,kore1280,Korean,Koreanic,Eurasia,Kore,mixed,phoneme+morpheme,4.0,11172,788,48.0,20.0,28.0,0.0,ph,232.75,False,1.69
+ko-CN,kor,kore1280,Korean,Koreanic,Eurasia,Kore,mixed,phoneme+morpheme,4.0,11172,788,48.0,20.0,28.0,0.0,ph,232.75,False,1.69
+ko-KP,kor,kore1280,Korean,Koreanic,Eurasia,Kore,mixed,phoneme+morpheme,4.0,11172,788,48.0,20.0,28.0,0.0,ph,232.75,False,1.69
+lt,lit,lith1251,Lithuanian,Indo-European,Eurasia,Latn,alphabet,phoneme,1.0,25,36,60.0,45.0,15.0,0.0,ea,0.4166666666666667,False,5.693
+lv,lvs,,,unknown,,Latn,alphabet,phoneme,1.0,33,6,42.0,26.0,16.0,0.0,ea,0.7857142857142857,,5.426
+mk,mkd,mace1250,Macedonian,Indo-European,Eurasia,Cyrl,alphabet,phoneme,1.0,31,2,32.0,26.0,6.0,0.0,ph,0.96875,False,5.597
+ms,zsm,stan1306,Standard Malay,Austronesian,Eurasia,Latn,alphabet,phoneme,1.0,26,0,30.0,24.0,6.0,0.0,ph,0.8666666666666667,False,5.457
+ms-Arab,zsm,stan1306,Standard Malay,Austronesian,Eurasia,Arab,abjad,consonant-phoneme,1.0,43,2,30.0,24.0,6.0,0.0,ph,1.4333333333333331,False,5.457
+ms-Arab-BN,zsm,stan1306,Standard Malay,Austronesian,Eurasia,Arab,abjad,consonant-phoneme,1.0,43,2,30.0,24.0,6.0,0.0,ph,1.4333333333333331,False,5.457
+ms-BN,zsm,stan1306,Standard Malay,Austronesian,Eurasia,Latn,alphabet,phoneme,1.0,26,0,30.0,24.0,6.0,0.0,ph,0.8666666666666667,False,5.457
+ms-ID,zsm,stan1306,Standard Malay,Austronesian,Eurasia,Latn,alphabet,phoneme,1.0,26,0,30.0,24.0,6.0,0.0,ph,0.8666666666666667,False,5.457
+ms-SG,zsm,stan1306,Standard Malay,Austronesian,Eurasia,Latn,alphabet,phoneme,1.0,26,0,30.0,24.0,6.0,0.0,ph,0.8666666666666667,False,5.457
+nb,nob,,,unknown,,Latn,alphabet,phoneme,1.0,29,14,48.0,27.0,19.0,2.0,spa,0.6041666666666666,,5.023
+nb-SJ,nob,,,unknown,,Latn,alphabet,phoneme,1.0,29,14,48.0,27.0,19.0,2.0,spa,0.6041666666666666,,5.023
+nl,nld,dutc1256,Dutch,Indo-European,Eurasia,Latn,alphabet,phoneme,1.0,28,10,58.0,22.0,36.0,0.0,ph,0.4827586206896552,False,5.442
+nl-AW,nld,dutc1256,Dutch,Indo-European,Eurasia,Latn,alphabet,phoneme,1.0,28,10,58.0,22.0,36.0,0.0,ph,0.4827586206896552,False,5.442
+nl-BE,nld,dutc1256,Dutch,Indo-European,Eurasia,Latn,alphabet,phoneme,1.0,28,10,58.0,22.0,36.0,0.0,ph,0.4827586206896552,False,5.442
+nl-BQ,nld,dutc1256,Dutch,Indo-European,Eurasia,Latn,alphabet,phoneme,1.0,28,10,58.0,22.0,36.0,0.0,ph,0.4827586206896552,False,5.442
+nl-CW,nld,dutc1256,Dutch,Indo-European,Eurasia,Latn,alphabet,phoneme,1.0,28,10,58.0,22.0,36.0,0.0,ph,0.4827586206896552,False,5.442
+nl-SR,nld,dutc1256,Dutch,Indo-European,Eurasia,Latn,alphabet,phoneme,1.0,28,10,58.0,22.0,36.0,0.0,ph,0.4827586206896552,False,5.442
+nl-SX,nld,dutc1256,Dutch,Indo-European,Eurasia,Latn,alphabet,phoneme,1.0,28,10,58.0,22.0,36.0,0.0,ph,0.4827586206896552,False,5.442
+pl,pol,poli1260,Polish,Indo-European,Eurasia,Latn,alphabet,phoneme,1.0,32,13,37.0,31.0,6.0,0.0,ph,0.8648648648648649,False,5.457
+pt,por,port1283,Portuguese,Indo-European,Eurasia,Latn,alphabet,phoneme,1.0,26,9,47.0,20.0,27.0,0.0,ph,0.5531914893617021,False,5.456
+pt-AO,por,port1283,Portuguese,Indo-European,Eurasia,Latn,alphabet,phoneme,1.0,26,9,47.0,20.0,27.0,0.0,ph,0.5531914893617021,False,5.456
+pt-CH,por,port1283,Portuguese,Indo-European,Eurasia,Latn,alphabet,phoneme,1.0,26,9,47.0,20.0,27.0,0.0,ph,0.5531914893617021,False,5.456
+pt-CV,por,port1283,Portuguese,Indo-European,Eurasia,Latn,alphabet,phoneme,1.0,26,9,47.0,20.0,27.0,0.0,ph,0.5531914893617021,False,5.456
+pt-GQ,por,port1283,Portuguese,Indo-European,Eurasia,Latn,alphabet,phoneme,1.0,26,9,47.0,20.0,27.0,0.0,ph,0.5531914893617021,False,5.456
+pt-GW,por,port1283,Portuguese,Indo-European,Eurasia,Latn,alphabet,phoneme,1.0,26,9,47.0,20.0,27.0,0.0,ph,0.5531914893617021,False,5.456
+pt-LU,por,port1283,Portuguese,Indo-European,Eurasia,Latn,alphabet,phoneme,1.0,26,9,47.0,20.0,27.0,0.0,ph,0.5531914893617021,False,5.456
+pt-MO,por,port1283,Portuguese,Indo-European,Eurasia,Latn,alphabet,phoneme,1.0,26,9,47.0,20.0,27.0,0.0,ph,0.5531914893617021,False,5.456
+pt-MZ,por,port1283,Portuguese,Indo-European,Eurasia,Latn,alphabet,phoneme,1.0,26,9,47.0,20.0,27.0,0.0,ph,0.5531914893617021,False,5.456
+pt-PT,por,port1283,Portuguese,Indo-European,Eurasia,Latn,alphabet,phoneme,1.0,26,9,47.0,20.0,27.0,0.0,ph,0.5531914893617021,False,5.456
+pt-ST,por,port1283,Portuguese,Indo-European,Eurasia,Latn,alphabet,phoneme,1.0,26,9,47.0,20.0,27.0,0.0,ph,0.5531914893617021,False,5.456
+pt-TL,por,port1283,Portuguese,Indo-European,Eurasia,Latn,alphabet,phoneme,1.0,26,9,47.0,20.0,27.0,0.0,ph,0.5531914893617021,False,5.456
+ro,ron,roma1327,Romanian,Indo-European,Eurasia,Latn,alphabet,phoneme,1.0,31,8,51.0,40.0,11.0,0.0,ea,0.6078431372549019,False,5.33
+ro-MD,ron,roma1327,Romanian,Indo-European,Eurasia,Latn,alphabet,phoneme,1.0,31,8,51.0,40.0,11.0,0.0,ea,0.6078431372549019,False,5.33
+ru,rus,russ1263,Russian,Indo-European,Eurasia,Cyrl,alphabet,phoneme,1.0,32,9,42.0,36.0,6.0,0.0,ea,0.7619047619047619,False,5.395
+ru-BY,rus,russ1263,Russian,Indo-European,Eurasia,Cyrl,alphabet,phoneme,1.0,32,9,42.0,36.0,6.0,0.0,ea,0.7619047619047619,False,5.395
+ru-KG,rus,russ1263,Russian,Indo-European,Eurasia,Cyrl,alphabet,phoneme,1.0,32,9,42.0,36.0,6.0,0.0,ea,0.7619047619047619,False,5.395
+ru-KZ,rus,russ1263,Russian,Indo-European,Eurasia,Cyrl,alphabet,phoneme,1.0,32,9,42.0,36.0,6.0,0.0,ea,0.7619047619047619,False,5.395
+ru-MD,rus,russ1263,Russian,Indo-European,Eurasia,Cyrl,alphabet,phoneme,1.0,32,9,42.0,36.0,6.0,0.0,ea,0.7619047619047619,False,5.395
+ru-UA,rus,russ1263,Russian,Indo-European,Eurasia,Cyrl,alphabet,phoneme,1.0,32,9,42.0,36.0,6.0,0.0,ea,0.7619047619047619,False,5.395
+sk,slk,slov1269,Slovak,Indo-European,Eurasia,Latn,alphabet,phoneme,1.0,34,11,45.0,30.0,15.0,0.0,ea,0.7555555555555555,False,5.135
+sl,slv,slov1268,Slovenian,Indo-European,Eurasia,Latn,alphabet,phoneme,1.0,25,15,37.0,21.0,16.0,0.0,ph,0.6756756756756757,False,5.353
+sv,swe,swed1254,Swedish,Indo-European,Eurasia,Latn,alphabet,phoneme,1.0,29,10,35.0,18.0,17.0,0.0,ea,0.8285714285714286,False,4.89
+sv-AX,swe,swed1254,Swedish,Indo-European,Eurasia,Latn,alphabet,phoneme,1.0,29,10,35.0,18.0,17.0,0.0,ea,0.8285714285714286,False,4.89
+sv-FI,swe,swed1254,Swedish,Indo-European,Eurasia,Latn,alphabet,phoneme,1.0,29,10,35.0,18.0,17.0,0.0,ea,0.8285714285714286,False,4.89
+ta,tam,tami1289,Tamil,Dravidian,Eurasia,Taml,abugida,CV-akshara,2.0,47,1,43.0,32.0,11.0,0.0,ra,1.0930232558139534,False,6.004
+ta-LK,tam,tami1289,Tamil,Dravidian,Eurasia,Taml,abugida,CV-akshara,2.0,47,1,43.0,32.0,11.0,0.0,ra,1.0930232558139534,False,6.004
+ta-MY,tam,tami1289,Tamil,Dravidian,Eurasia,Taml,abugida,CV-akshara,2.0,47,1,43.0,32.0,11.0,0.0,ra,1.0930232558139534,False,6.004
+ta-SG,tam,tami1289,Tamil,Dravidian,Eurasia,Taml,abugida,CV-akshara,2.0,47,1,43.0,32.0,11.0,0.0,ra,1.0930232558139534,False,6.004
+tr,tur,nucl1301,Turkish,Turkic,Eurasia,Latn,alphabet,phoneme,1.0,29,13,40.0,24.0,16.0,0.0,spa,0.725,False,5.226
+tr-CY,tur,nucl1301,Turkish,Turkic,Eurasia,Latn,alphabet,phoneme,1.0,29,13,40.0,24.0,16.0,0.0,spa,0.725,False,5.226
+uk,ukr,ukra1253,Ukrainian,Indo-European,Eurasia,Cyrl,alphabet,phoneme,1.0,34,14,41.0,35.0,6.0,0.0,ea,0.8292682926829268,False,5.352
+ur,urd,urdu1245,Urdu,Indo-European,Eurasia,Arab,abjad,consonant-phoneme,1.0,38,28,58.0,37.0,21.0,0.0,ea,0.6551724137931034,False,3.949
+ur-IN,urd,urdu1245,Urdu,Indo-European,Eurasia,Arab,abjad,consonant-phoneme,1.0,38,28,58.0,37.0,21.0,0.0,ea,0.6551724137931034,False,3.949
+vi,vie,viet1252,Vietnamese,Austroasiatic,Eurasia,Latn,alphabet,phoneme,1.0,29,4,45.0,21.0,16.0,8.0,ph,0.6444444444444445,False,3.424
+zh,cmn,mand1415,Mandarin Chinese,Sino-Tibetan,Eurasia,Hans,morphosyllabic,morpheme-syllable,4.0,2210,1465,49.0,24.0,21.0,4.0,ph,45.10204081632653,False,1.689
+zh-Hans,cmn,mand1415,Mandarin Chinese,Sino-Tibetan,Eurasia,Hans,morphosyllabic,morpheme-syllable,4.0,2210,1465,49.0,24.0,21.0,4.0,ph,45.10204081632653,False,1.689
+zh-Hans-HK,cmn,mand1415,Mandarin Chinese,Sino-Tibetan,Eurasia,Hans,morphosyllabic,morpheme-syllable,4.0,2210,1465,49.0,24.0,21.0,4.0,ph,45.10204081632653,False,1.689
+zh-Hans-MO,cmn,mand1415,Mandarin Chinese,Sino-Tibetan,Eurasia,Hans,morphosyllabic,morpheme-syllable,4.0,2210,1465,49.0,24.0,21.0,4.0,ph,45.10204081632653,False,1.689
+zh-Hans-MY,cmn,mand1415,Mandarin Chinese,Sino-Tibetan,Eurasia,Hans,morphosyllabic,morpheme-syllable,4.0,2210,1465,49.0,24.0,21.0,4.0,ph,45.10204081632653,False,1.689
+zh-Hans-SG,cmn,mand1415,Mandarin Chinese,Sino-Tibetan,Eurasia,Hans,morphosyllabic,morpheme-syllable,4.0,2210,1465,49.0,24.0,21.0,4.0,ph,45.10204081632653,False,1.689
+zh-Hant,cmn,mand1415,Mandarin Chinese,Sino-Tibetan,Eurasia,Hant,morphosyllabic,morpheme-syllable,4.0,2179,495,49.0,24.0,21.0,4.0,ph,44.46938775510204,False,1.689
+zh-Hant-HK,cmn,mand1415,Mandarin Chinese,Sino-Tibetan,Eurasia,Hant,morphosyllabic,morpheme-syllable,4.0,2179,495,49.0,24.0,21.0,4.0,ph,44.46938775510204,False,1.689
+zh-Hant-MO,cmn,mand1415,Mandarin Chinese,Sino-Tibetan,Eurasia,Hant,morphosyllabic,morpheme-syllable,4.0,2179,495,49.0,24.0,21.0,4.0,ph,44.46938775510204,False,1.689
+zh-Hant-MY,cmn,mand1415,Mandarin Chinese,Sino-Tibetan,Eurasia,Hant,morphosyllabic,morpheme-syllable,4.0,2179,495,49.0,24.0,21.0,4.0,ph,44.46938775510204,False,1.689
+zh-Latn,cmn,mand1415,Mandarin Chinese,Sino-Tibetan,Eurasia,Latn,alphabet,phoneme,1.0,31,1,49.0,24.0,21.0,4.0,ph,0.6326530612244898,False,1.689

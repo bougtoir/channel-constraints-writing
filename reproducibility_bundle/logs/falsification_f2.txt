@@ -1,0 +1,6 @@
+n=544, B=200
+observed max |within-class rho(P,G)| = 0.471
+shuffled-label null max: [0.317 0.555] -> p=0.154
+observed Kruskal H(G|granularity) = 190.1
+shuffled-label null H 95% = 6.8 -> p=0.0050
+observed |rho(P,G)| = 0.094, P-permutation p=0.0398

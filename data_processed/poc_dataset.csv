@@ -1,0 +1,733 @@
+locale,iso3,glottocode,language,family,macroarea,script,ws_class,encoded_unit,granularity,G,g_aux,P_total,n_cons,n_vow,n_tone,Source,GP_ratio,is_isolate
+aa,aar,afar1241,Afar,Afro-Asiatic,Africa,Latn,alphabet,phoneme,1.0,22,4,27.0,17.0,10.0,0.0,ph,0.8148148148148148,False
+aa-DJ,aar,afar1241,Afar,Afro-Asiatic,Africa,Latn,alphabet,phoneme,1.0,22,4,27.0,17.0,10.0,0.0,ph,0.8148148148148148,False
+aa-ER,aar,afar1241,Afar,Afro-Asiatic,Africa,Latn,alphabet,phoneme,1.0,22,4,27.0,17.0,10.0,0.0,ph,0.8148148148148148,False
+ab,abk,abkh1244,Abkhaz,Abkhaz-Adyge,Eurasia,Cyrl,alphabet,phoneme,1.0,64,10,70.0,67.0,3.0,0.0,ea,0.9142857142857143,False
+af,afr,afri1274,Afrikaans,Indo-European,Africa,Latn,alphabet,phoneme,1.0,26,7,39.0,16.0,23.0,0.0,ph,0.6666666666666666,False
+af-NA,afr,afri1274,Afrikaans,Indo-European,Africa,Latn,alphabet,phoneme,1.0,26,7,39.0,16.0,23.0,0.0,ph,0.6666666666666666,False
+agq,agq,aghe1239,Aghem,Atlantic-Congo,Africa,Latn,alphabet,phoneme,1.0,44,3,49.0,28.0,19.0,2.0,ph,0.8979591836734694,False
+ak,aka,akan1250,Akan,Atlantic-Congo,Africa,Latn,alphabet,phoneme,1.0,22,10,60.0,28.0,30.0,2.0,ph,0.36666666666666664,False
+am,amh,amha1245,Amharic,Afro-Asiatic,Africa,Ethi,abugida,CV-akshara,2.0,282,0,68.0,61.0,7.0,0.0,ph,4.147058823529412,False
+an,arg,arag1245,Aragonese,Indo-European,Eurasia,Latn,alphabet,phoneme,1.0,26,8,45.0,20.0,25.0,0.0,ph,0.5777777777777777,False
+ann,ann,obol1243,Obolo,Atlantic-Congo,Africa,Latn,alphabet,phoneme,1.0,28,14,37.0,22.0,12.0,3.0,ph,0.7567567567567568,False
+apc,apc,nort3139,Levantine Arabic,Afro-Asiatic,Eurasia,Arab,abjad,consonant-phoneme,1.0,45,14,,,,,,,False
+ar,ara,,,,,Arab,abjad,consonant-phoneme,1.0,38,14,,,,,,,
+ar-AE,ara,,,,,Arab,abjad,consonant-phoneme,1.0,38,14,,,,,,,
+ar-BH,ara,,,,,Arab,abjad,consonant-phoneme,1.0,38,14,,,,,,,
+ar-DJ,ara,,,,,Arab,abjad,consonant-phoneme,1.0,38,14,,,,,,,
+ar-DZ,ara,,,,,Arab,abjad,consonant-phoneme,1.0,38,14,,,,,,,
+ar-EG,ara,,,,,Arab,abjad,consonant-phoneme,1.0,38,14,,,,,,,
+ar-EH,ara,,,,,Arab,abjad,consonant-phoneme,1.0,38,14,,,,,,,
+ar-ER,ara,,,,,Arab,abjad,consonant-phoneme,1.0,38,14,,,,,,,
+ar-IL,ara,,,,,Arab,abjad,consonant-phoneme,1.0,38,14,,,,,,,
+ar-IQ,ara,,,,,Arab,abjad,consonant-phoneme,1.0,38,14,,,,,,,
+ar-JO,ara,,,,,Arab,abjad,consonant-phoneme,1.0,38,14,,,,,,,
+ar-KM,ara,,,,,Arab,abjad,consonant-phoneme,1.0,38,14,,,,,,,
+ar-KW,ara,,,,,Arab,abjad,consonant-phoneme,1.0,38,14,,,,,,,
+ar-LB,ara,,,,,Arab,abjad,consonant-phoneme,1.0,38,14,,,,,,,
+ar-LY,ara,,,,,Arab,abjad,consonant-phoneme,1.0,38,14,,,,,,,
+ar-MA,ara,,,,,Arab,abjad,consonant-phoneme,1.0,38,16,,,,,,,
+ar-MR,ara,,,,,Arab,abjad,consonant-phoneme,1.0,38,14,,,,,,,
+ar-OM,ara,,,,,Arab,abjad,consonant-phoneme,1.0,38,14,,,,,,,
+ar-PS,ara,,,,,Arab,abjad,consonant-phoneme,1.0,38,14,,,,,,,
+ar-QA,ara,,,,,Arab,abjad,consonant-phoneme,1.0,38,14,,,,,,,
+ar-SA,ara,,,,,Arab,abjad,consonant-phoneme,1.0,38,14,,,,,,,
+ar-SD,ara,,,,,Arab,abjad,consonant-phoneme,1.0,38,14,,,,,,,
+ar-SO,ara,,,,,Arab,abjad,consonant-phoneme,1.0,38,14,,,,,,,
+ar-SS,ara,,,,,Arab,abjad,consonant-phoneme,1.0,38,14,,,,,,,
+ar-SY,ara,,,,,Arab,abjad,consonant-phoneme,1.0,38,14,,,,,,,
+ar-TD,ara,,,,,Arab,abjad,consonant-phoneme,1.0,38,14,,,,,,,
+ar-TN,ara,,,,,Arab,abjad,consonant-phoneme,1.0,38,14,,,,,,,
+ar-YE,ara,,,,,Arab,abjad,consonant-phoneme,1.0,38,14,,,,,,,
+arn,arn,mapu1245,Mapudungun,Araucanian,South America,Latn,alphabet,phoneme,1.0,23,7,28.0,22.0,6.0,0.0,saphon,0.8214285714285714,False
+as,asm,assa1263,Assamese,Indo-European,Eurasia,Beng,abugida,CV-akshara,2.0,63,4,37.0,22.0,15.0,0.0,ra,1.7027027027027026,False
+asa,asa,asut1235,Asu (Tanzania),Atlantic-Congo,Africa,Latn,alphabet,phoneme,1.0,24,2,,,,,,,False
+ast,ast,astu1245,Asturian-Leonese-Cantabrian,Indo-European,Eurasia,Latn,alphabet,phoneme,1.0,23,12,27.0,20.0,7.0,0.0,ea,0.8518518518518519,False
+az,azj,nort2697,North Azerbaijani,Turkic,Eurasia,Latn,alphabet,phoneme,1.0,32,1,39.0,24.0,15.0,0.0,ea,0.8205128205128205,False
+az-Arab,azj,nort2697,North Azerbaijani,Turkic,Eurasia,Arab,abjad,consonant-phoneme,1.0,37,10,39.0,24.0,15.0,0.0,ea,0.9487179487179487,False
+az-Arab-IQ,azj,nort2697,North Azerbaijani,Turkic,Eurasia,Arab,abjad,consonant-phoneme,1.0,37,10,39.0,24.0,15.0,0.0,ea,0.9487179487179487,False
+az-Arab-TR,azj,nort2697,North Azerbaijani,Turkic,Eurasia,Arab,abjad,consonant-phoneme,1.0,37,10,39.0,24.0,15.0,0.0,ea,0.9487179487179487,False
+az-Cyrl,azj,nort2697,North Azerbaijani,Turkic,Eurasia,Cyrl,alphabet,phoneme,1.0,33,7,39.0,24.0,15.0,0.0,ea,0.8461538461538461,False
+az-Latn,azj,nort2697,North Azerbaijani,Turkic,Eurasia,Latn,alphabet,phoneme,1.0,32,1,39.0,24.0,15.0,0.0,ea,0.8205128205128205,False
+ba,bak,bash1264,Bashkir,Turkic,Eurasia,Cyrl,alphabet,phoneme,1.0,41,0,39.0,28.0,11.0,0.0,ea,1.0512820512820513,False
+bal,bal,,,,,Arab,abjad,consonant-phoneme,1.0,33,23,,,,,,,
+bal-Arab,bal,,,,,Arab,abjad,consonant-phoneme,1.0,33,23,,,,,,,
+bal-Latn,bal,,,,,Latn,alphabet,phoneme,1.0,33,1,,,,,,,
+bas,bas,basa1284,Basa (Cameroon),Atlantic-Congo,Africa,Latn,alphabet,phoneme,1.0,52,2,41.0,29.0,7.0,5.0,aa,1.2682926829268293,False
+be,bel,bela1254,Belarusian,Indo-European,Eurasia,Cyrl,alphabet,phoneme,1.0,34,10,,,,,,,False
+be-tarask,bel,bela1254,Belarusian,Indo-European,Eurasia,Cyrl,alphabet,phoneme,1.0,34,10,,,,,,,False
+bem,bem,bemb1257,Bemba (Zambia),Atlantic-Congo,Africa,Latn,alphabet,phoneme,1.0,20,7,25.0,15.0,10.0,0.0,ph,0.8,False
+bew,bew,beta1252,Betawi,Austronesian,Papunesia,Latn,alphabet,phoneme,1.0,26,21,,,,,,,False
+bez,bez,bena1262,Bena (Tanzania),Atlantic-Congo,Africa,Latn,alphabet,phoneme,1.0,25,1,34.0,22.0,10.0,2.0,ph,0.7352941176470589,False
+bg,bul,bulg1262,Bulgarian,Indo-European,Eurasia,Cyrl,alphabet,phoneme,1.0,30,12,49.0,37.0,12.0,0.0,spa,0.6122448979591837,False
+bgc,bgc,hary1238,Haryanvi,Indo-European,Eurasia,Deva,abugida,CV-akshara,2.0,57,1,,,,,,,False
+bgn,bgn,west2368,Western Balochi,Indo-European,Eurasia,Arab,abjad,consonant-phoneme,1.0,37,2,44.0,24.0,20.0,0.0,ea,0.8409090909090909,False
+bgn-AE,bgn,west2368,Western Balochi,Indo-European,Eurasia,Arab,abjad,consonant-phoneme,1.0,37,2,44.0,24.0,20.0,0.0,ea,0.8409090909090909,False
+bgn-AF,bgn,west2368,Western Balochi,Indo-European,Eurasia,Arab,abjad,consonant-phoneme,1.0,37,2,44.0,24.0,20.0,0.0,ea,0.8409090909090909,False
+bgn-IR,bgn,west2368,Western Balochi,Indo-European,Eurasia,Arab,abjad,consonant-phoneme,1.0,37,2,44.0,24.0,20.0,0.0,ea,0.8409090909090909,False
+bgn-OM,bgn,west2368,Western Balochi,Indo-European,Eurasia,Arab,abjad,consonant-phoneme,1.0,37,2,44.0,24.0,20.0,0.0,ea,0.8409090909090909,False
+bho,bho,bhoj1244,Bhojpuri,Indo-European,Eurasia,Deva,abugida,CV-akshara,2.0,47,11,51.0,35.0,16.0,0.0,ea,0.9215686274509803,False
+blo,blo,anii1245,Anii,Atlantic-Congo,Africa,Latn,alphabet,phoneme,1.0,51,54,36.0,23.0,11.0,2.0,ph,1.4166666666666667,False
+blt,blt,taid1247,Tai Dam,Tai-Kadai,Eurasia,Tavt,abugida,CV-akshara,2.0,0,0,,,,,,,False
+bm,bam,bamb1269,Bambara,Mande,Africa,Latn,alphabet,phoneme,1.0,27,3,58.0,32.0,24.0,2.0,ph,0.46551724137931033,False
+bm-Nkoo,bam,bamb1269,Bambara,Mande,Africa,Nkoo,alphabet,phoneme,1.0,27,0,58.0,32.0,24.0,2.0,ph,0.46551724137931033,False
+bn,ben,beng1280,Bengali,Indo-European,Eurasia,Beng,abugida,CV-akshara,2.0,72,11,72.0,49.0,23.0,0.0,ph,1.0,False
+bn-IN,ben,beng1280,Bengali,Indo-European,Eurasia,Beng,abugida,CV-akshara,2.0,72,11,72.0,49.0,23.0,0.0,ph,1.0,False
+bo,bod,tibe1272,Tibetan,Sino-Tibetan,Eurasia,Tibt,abugida,CV-akshara,2.0,101,1,56.0,27.0,29.0,0.0,ea,1.8035714285714286,False
+bo-IN,bod,tibe1272,Tibetan,Sino-Tibetan,Eurasia,Tibt,abugida,CV-akshara,2.0,101,1,56.0,27.0,29.0,0.0,ea,1.8035714285714286,False
+br,bre,bret1244,Breton,Indo-European,Eurasia,Latn,alphabet,phoneme,1.0,26,10,66.0,32.0,34.0,0.0,ea,0.3939393939393939,False
+brx,brx,bodo1269,Bodo-Mech,Sino-Tibetan,Eurasia,Deva,abugida,CV-akshara,2.0,62,1,21.0,15.0,6.0,0.0,upsid,2.9523809523809526,False
+bs,bos,,,,,Latn,alphabet,phoneme,1.0,30,4,,,,,,,
+bs-Cyrl,bos,,,,,Cyrl,alphabet,phoneme,1.0,30,0,,,,,,,
+bs-Latn,bos,,,,,Latn,alphabet,phoneme,1.0,30,4,,,,,,,
+bss,bss,akoo1248,Akoose,Atlantic-Congo,Africa,Latn,alphabet,phoneme,1.0,38,5,44.0,22.0,18.0,4.0,aa,0.8636363636363636,False
+byn,byn,bili1260,Bilin,Afro-Asiatic,Africa,Ethi,abugida,CV-akshara,2.0,289,0,38.0,31.0,7.0,0.0,ph,7.605263157894737,False
+ca,cat,stan1289,Catalan,Indo-European,Eurasia,Latn,alphabet,phoneme,1.0,27,10,39.0,23.0,16.0,0.0,ph,0.6923076923076923,False
+ca-AD,cat,stan1289,Catalan,Indo-European,Eurasia,Latn,alphabet,phoneme,1.0,27,10,39.0,23.0,16.0,0.0,ph,0.6923076923076923,False
+ca-ES-valencia,cat,stan1289,Catalan,Indo-European,Eurasia,Latn,alphabet,phoneme,1.0,27,10,39.0,23.0,16.0,0.0,ph,0.6923076923076923,False
+ca-FR,cat,stan1289,Catalan,Indo-European,Eurasia,Latn,alphabet,phoneme,1.0,27,10,39.0,23.0,16.0,0.0,ph,0.6923076923076923,False
+ca-IT,cat,stan1289,Catalan,Indo-European,Eurasia,Latn,alphabet,phoneme,1.0,27,10,39.0,23.0,16.0,0.0,ph,0.6923076923076923,False
+cad,cad,cadd1256,Caddo,Caddoan,North America,Latn,alphabet,phoneme,1.0,38,10,23.0,20.0,3.0,0.0,upsid,1.6521739130434783,False
+cch,cch,atsa1241,Atsam,Atlantic-Congo,Africa,Latn,alphabet,phoneme,1.0,0,0,,,,,,,False
+ccp,ccp,chak1266,Chakma,Indo-European,Eurasia,Cakm,abugida,CV-akshara,2.0,53,0,,,,,,,False
+ccp-IN,ccp,chak1266,Chakma,Indo-European,Eurasia,Cakm,abugida,CV-akshara,2.0,53,0,,,,,,,False
+ce,che,chec1245,Chechen,Nakh-Daghestanian,Eurasia,Cyrl,alphabet,phoneme,1.0,57,0,70.0,39.0,31.0,0.0,ea,0.8142857142857143,False
+ceb,ceb,cebu1242,Cebuano,Austronesian,Papunesia,Latn,alphabet,phoneme,1.0,19,8,21.0,18.0,3.0,0.0,ph,0.9047619047619048,False
+cgg,cgg,chig1238,Chiga,Atlantic-Congo,Africa,Latn,alphabet,phoneme,1.0,26,0,,,,,,,False
+cho,cho,choc1276,Choctaw,Muskogean,North America,Latn,alphabet,phoneme,1.0,25,9,21.0,15.0,6.0,0.0,ph,1.1904761904761905,False
+chr,chr,cher1273,Cherokee,Iroquoian,North America,Cher,syllabary,syllable,3.0,85,0,17.0,11.0,6.0,0.0,upsid,5.0,False
+cic,cic,chic1270,Chickasaw,Muskogean,North America,Latn,alphabet,phoneme,1.0,23,17,25.0,16.0,9.0,0.0,ph,0.92,False
+ckb,ckb,cent1972,Central Kurdish,Indo-European,Eurasia,Arab,abjad,consonant-phoneme,1.0,33,25,39.0,31.0,8.0,0.0,ea,0.8461538461538461,False
+ckb-IR,ckb,cent1972,Central Kurdish,Indo-European,Eurasia,Arab,abjad,consonant-phoneme,1.0,33,25,39.0,31.0,8.0,0.0,ea,0.8461538461538461,False
+co,cos,cors1241,Corsican,Indo-European,Eurasia,Latn,alphabet,phoneme,1.0,26,13,,,,,,,False
+cs,ces,czec1258,Czech,Indo-European,Eurasia,Latn,alphabet,phoneme,1.0,31,12,40.0,27.0,13.0,0.0,ea,0.775,False
+csw,csw,swam1239,Swampy Cree,Algic,North America,Cans,abugida,syllable,3.0,97,7,,,,,,,False
+cu,chu,chur1257,Church Slavic,Indo-European,Eurasia,Cyrl,alphabet,phoneme,1.0,65,58,,,,,,,False
+cv,chv,chuv1255,Chuvash,Turkic,Eurasia,Cyrl,alphabet,phoneme,1.0,33,9,39.0,30.0,9.0,0.0,spa,0.8461538461538461,False
+cy,cym,wels1247,Welsh,Indo-European,Eurasia,Latn,alphabet,phoneme,1.0,29,14,48.0,29.0,19.0,0.0,ea,0.6041666666666666,False
+da,dan,dani1285,Danish,Indo-European,Eurasia,Latn,alphabet,phoneme,1.0,29,11,69.0,20.0,49.0,0.0,ph,0.42028985507246375,False
+da-GL,dan,dani1285,Danish,Indo-European,Eurasia,Latn,alphabet,phoneme,1.0,29,11,69.0,20.0,49.0,0.0,ph,0.42028985507246375,False
+dav,dav,tait1250,Taita,Atlantic-Congo,Africa,Latn,alphabet,phoneme,1.0,24,2,,,,,,,False
+de,deu,stan1295,German,Indo-European,Eurasia,Latn,alphabet,phoneme,1.0,27,13,41.0,22.0,19.0,0.0,upsid,0.6585365853658537,False
+de-AT,deu,stan1295,German,Indo-European,Eurasia,Latn,alphabet,phoneme,1.0,27,13,41.0,22.0,19.0,0.0,upsid,0.6585365853658537,False
+de-BE,deu,stan1295,German,Indo-European,Eurasia,Latn,alphabet,phoneme,1.0,27,13,41.0,22.0,19.0,0.0,upsid,0.6585365853658537,False
+de-CH,deu,stan1295,German,Indo-European,Eurasia,Latn,alphabet,phoneme,1.0,26,13,41.0,22.0,19.0,0.0,upsid,0.6341463414634146,False
+de-IT,deu,stan1295,German,Indo-European,Eurasia,Latn,alphabet,phoneme,1.0,27,13,41.0,22.0,19.0,0.0,upsid,0.6585365853658537,False
+de-LI,deu,stan1295,German,Indo-European,Eurasia,Latn,alphabet,phoneme,1.0,27,13,41.0,22.0,19.0,0.0,upsid,0.6585365853658537,False
+de-LU,deu,stan1295,German,Indo-European,Eurasia,Latn,alphabet,phoneme,1.0,27,13,41.0,22.0,19.0,0.0,upsid,0.6585365853658537,False
+dje,dje,zarm1239,Zarma-Kaado,Songhay,Africa,Latn,alphabet,phoneme,1.0,27,1,40.0,20.0,16.0,4.0,aa,0.675,False
+doi,doi,,,,,Deva,abugida,CV-akshara,2.0,72,4,,,,,,,
+dsb,dsb,lowe1385,Lower Sorbian,Indo-European,Eurasia,Latn,alphabet,phoneme,1.0,37,19,42.0,35.0,7.0,0.0,ea,0.8809523809523809,False
+dua,dua,dual1243,Duala,Atlantic-Congo,Africa,Latn,alphabet,phoneme,1.0,29,5,33.0,21.0,7.0,5.0,aa,0.8787878787878788,False
+dv,div,dhiv1236,Dhivehi,Indo-European,Eurasia,Thaa,abugida,CV-akshara,2.0,35,16,39.0,27.0,12.0,0.0,ea,0.8974358974358975,False
+dyo,dyo,jola1263,Jola-Fonyi,Atlantic-Congo,Africa,Latn,alphabet,phoneme,1.0,26,1,29.0,19.0,10.0,0.0,aa,0.896551724137931,False
+dz,dzo,dzon1239,Dzongkha,Sino-Tibetan,Eurasia,Tibt,abugida,CV-akshara,2.0,58,17,58.0,32.0,26.0,0.0,ea,1.0,False
+ebu,ebu,embu1241,Embu,Atlantic-Congo,Africa,Latn,alphabet,phoneme,1.0,26,0,,,,,,,False
+ee,ewe,ewee1241,Ewe,Atlantic-Congo,Africa,Latn,alphabet,phoneme,1.0,36,12,45.0,28.0,14.0,3.0,spa,0.8,False
+ee-TG,ewe,ewee1241,Ewe,Atlantic-Congo,Africa,Latn,alphabet,phoneme,1.0,36,12,45.0,28.0,14.0,3.0,spa,0.8,False
+el,ell,mode1248,Modern Greek,Indo-European,Eurasia,Grek,alphabet,phoneme,1.0,24,7,41.0,36.0,5.0,0.0,ph,0.5853658536585366,False
+el-CY,ell,mode1248,Modern Greek,Indo-European,Eurasia,Grek,alphabet,phoneme,1.0,24,7,41.0,36.0,5.0,0.0,ph,0.5853658536585366,False
+el-polyton,ell,mode1248,Modern Greek,Indo-European,Eurasia,Grek,alphabet,phoneme,1.0,24,0,41.0,36.0,5.0,0.0,ph,0.5853658536585366,False
+en,eng,stan1293,English,Indo-European,Africa;Eurasia;South America,Latn,alphabet,phoneme,1.0,26,10,45.0,24.0,21.0,0.0,ph,0.5777777777777777,False
+en-001,eng,stan1293,English,Indo-European,Africa;Eurasia;South America,Latn,alphabet,phoneme,1.0,26,10,45.0,24.0,21.0,0.0,ph,0.5777777777777777,False
+en-150,eng,stan1293,English,Indo-European,Africa;Eurasia;South America,Latn,alphabet,phoneme,1.0,26,10,45.0,24.0,21.0,0.0,ph,0.5777777777777777,False
+en-AE,eng,stan1293,English,Indo-European,Africa;Eurasia;South America,Latn,alphabet,phoneme,1.0,26,10,45.0,24.0,21.0,0.0,ph,0.5777777777777777,False
+en-AG,eng,stan1293,English,Indo-European,Africa;Eurasia;South America,Latn,alphabet,phoneme,1.0,26,10,45.0,24.0,21.0,0.0,ph,0.5777777777777777,False
+en-AI,eng,stan1293,English,Indo-European,Africa;Eurasia;South America,Latn,alphabet,phoneme,1.0,26,10,45.0,24.0,21.0,0.0,ph,0.5777777777777777,False
+en-AS,eng,stan1293,English,Indo-European,Africa;Eurasia;South America,Latn,alphabet,phoneme,1.0,26,10,45.0,24.0,21.0,0.0,ph,0.5777777777777777,False
+en-AT,eng,stan1293,English,Indo-European,Africa;Eurasia;South America,Latn,alphabet,phoneme,1.0,26,10,45.0,24.0,21.0,0.0,ph,0.5777777777777777,False
+en-AU,eng,stan1293,English,Indo-European,Africa;Eurasia;South America,Latn,alphabet,phoneme,1.0,26,10,45.0,24.0,21.0,0.0,ph,0.5777777777777777,False
+en-BB,eng,stan1293,English,Indo-European,Africa;Eurasia;South America,Latn,alphabet,phoneme,1.0,26,10,45.0,24.0,21.0,0.0,ph,0.5777777777777777,False
+en-BE,eng,stan1293,English,Indo-European,Africa;Eurasia;South America,Latn,alphabet,phoneme,1.0,26,10,45.0,24.0,21.0,0.0,ph,0.5777777777777777,False
+en-BI,eng,stan1293,English,Indo-European,Africa;Eurasia;South America,Latn,alphabet,phoneme,1.0,26,10,45.0,24.0,21.0,0.0,ph,0.5777777777777777,False
+en-BM,eng,stan1293,English,Indo-European,Africa;Eurasia;South America,Latn,alphabet,phoneme,1.0,26,10,45.0,24.0,21.0,0.0,ph,0.5777777777777777,False
+en-BS,eng,stan1293,English,Indo-European,Africa;Eurasia;South America,Latn,alphabet,phoneme,1.0,26,10,45.0,24.0,21.0,0.0,ph,0.5777777777777777,False
+en-BW,eng,stan1293,English,Indo-European,Africa;Eurasia;South America,Latn,alphabet,phoneme,1.0,26,10,45.0,24.0,21.0,0.0,ph,0.5777777777777777,False
+en-BZ,eng,stan1293,English,Indo-European,Africa;Eurasia;South America,Latn,alphabet,phoneme,1.0,26,10,45.0,24.0,21.0,0.0,ph,0.5777777777777777,False
+en-CA,eng,stan1293,English,Indo-European,Africa;Eurasia;South America,Latn,alphabet,phoneme,1.0,26,10,45.0,24.0,21.0,0.0,ph,0.5777777777777777,False
+en-CC,eng,stan1293,English,Indo-European,Africa;Eurasia;South America,Latn,alphabet,phoneme,1.0,26,10,45.0,24.0,21.0,0.0,ph,0.5777777777777777,False
+en-CH,eng,stan1293,English,Indo-European,Africa;Eurasia;South America,Latn,alphabet,phoneme,1.0,26,10,45.0,24.0,21.0,0.0,ph,0.5777777777777777,False
+en-CK,eng,stan1293,English,Indo-European,Africa;Eurasia;South America,Latn,alphabet,phoneme,1.0,26,10,45.0,24.0,21.0,0.0,ph,0.5777777777777777,False
+en-CM,eng,stan1293,English,Indo-European,Africa;Eurasia;South America,Latn,alphabet,phoneme,1.0,26,10,45.0,24.0,21.0,0.0,ph,0.5777777777777777,False
+en-CX,eng,stan1293,English,Indo-European,Africa;Eurasia;South America,Latn,alphabet,phoneme,1.0,26,10,45.0,24.0,21.0,0.0,ph,0.5777777777777777,False
+en-CY,eng,stan1293,English,Indo-European,Africa;Eurasia;South America,Latn,alphabet,phoneme,1.0,26,10,45.0,24.0,21.0,0.0,ph,0.5777777777777777,False
+en-DE,eng,stan1293,English,Indo-European,Africa;Eurasia;South America,Latn,alphabet,phoneme,1.0,26,10,45.0,24.0,21.0,0.0,ph,0.5777777777777777,False
+en-DG,eng,stan1293,English,Indo-European,Africa;Eurasia;South America,Latn,alphabet,phoneme,1.0,26,10,45.0,24.0,21.0,0.0,ph,0.5777777777777777,False
+en-DK,eng,stan1293,English,Indo-European,Africa;Eurasia;South America,Latn,alphabet,phoneme,1.0,26,10,45.0,24.0,21.0,0.0,ph,0.5777777777777777,False
+en-DM,eng,stan1293,English,Indo-European,Africa;Eurasia;South America,Latn,alphabet,phoneme,1.0,26,10,45.0,24.0,21.0,0.0,ph,0.5777777777777777,False
+en-Dsrt,eng,stan1293,English,Indo-European,Africa;Eurasia;South America,Dsrt,alphabet,phoneme,1.0,40,0,45.0,24.0,21.0,0.0,ph,0.8888888888888888,False
+en-ER,eng,stan1293,English,Indo-European,Africa;Eurasia;South America,Latn,alphabet,phoneme,1.0,26,10,45.0,24.0,21.0,0.0,ph,0.5777777777777777,False
+en-FI,eng,stan1293,English,Indo-European,Africa;Eurasia;South America,Latn,alphabet,phoneme,1.0,26,10,45.0,24.0,21.0,0.0,ph,0.5777777777777777,False
+en-FJ,eng,stan1293,English,Indo-European,Africa;Eurasia;South America,Latn,alphabet,phoneme,1.0,26,10,45.0,24.0,21.0,0.0,ph,0.5777777777777777,False
+en-FK,eng,stan1293,English,Indo-European,Africa;Eurasia;South America,Latn,alphabet,phoneme,1.0,26,10,45.0,24.0,21.0,0.0,ph,0.5777777777777777,False
+en-FM,eng,stan1293,English,Indo-European,Africa;Eurasia;South America,Latn,alphabet,phoneme,1.0,26,10,45.0,24.0,21.0,0.0,ph,0.5777777777777777,False
+en-GB,eng,stan1293,English,Indo-European,Africa;Eurasia;South America,Latn,alphabet,phoneme,1.0,26,10,45.0,24.0,21.0,0.0,ph,0.5777777777777777,False
+en-GD,eng,stan1293,English,Indo-European,Africa;Eurasia;South America,Latn,alphabet,phoneme,1.0,26,10,45.0,24.0,21.0,0.0,ph,0.5777777777777777,False
+en-GG,eng,stan1293,English,Indo-European,Africa;Eurasia;South America,Latn,alphabet,phoneme,1.0,26,10,45.0,24.0,21.0,0.0,ph,0.5777777777777777,False
+en-GH,eng,stan1293,English,Indo-European,Africa;Eurasia;South America,Latn,alphabet,phoneme,1.0,26,10,45.0,24.0,21.0,0.0,ph,0.5777777777777777,False
+en-GI,eng,stan1293,English,Indo-European,Africa;Eurasia;South America,Latn,alphabet,phoneme,1.0,26,10,45.0,24.0,21.0,0.0,ph,0.5777777777777777,False
+en-GM,eng,stan1293,English,Indo-European,Africa;Eurasia;South America,Latn,alphabet,phoneme,1.0,26,10,45.0,24.0,21.0,0.0,ph,0.5777777777777777,False
+en-GU,eng,stan1293,English,Indo-European,Africa;Eurasia;South America,Latn,alphabet,phoneme,1.0,26,10,45.0,24.0,21.0,0.0,ph,0.5777777777777777,False
+en-GY,eng,stan1293,English,Indo-European,Africa;Eurasia;South America,Latn,alphabet,phoneme,1.0,26,10,45.0,24.0,21.0,0.0,ph,0.5777777777777777,False
+en-HK,eng,stan1293,English,Indo-European,Africa;Eurasia;South America,Latn,alphabet,phoneme,1.0,26,10,45.0,24.0,21.0,0.0,ph,0.5777777777777777,False
+en-ID,eng,stan1293,English,Indo-European,Africa;Eurasia;South America,Latn,alphabet,phoneme,1.0,26,10,45.0,24.0,21.0,0.0,ph,0.5777777777777777,False
+en-IE,eng,stan1293,English,Indo-European,Africa;Eurasia;South America,Latn,alphabet,phoneme,1.0,26,10,45.0,24.0,21.0,0.0,ph,0.5777777777777777,False
+en-IL,eng,stan1293,English,Indo-European,Africa;Eurasia;South America,Latn,alphabet,phoneme,1.0,26,10,45.0,24.0,21.0,0.0,ph,0.5777777777777777,False
+en-IM,eng,stan1293,English,Indo-European,Africa;Eurasia;South America,Latn,alphabet,phoneme,1.0,26,10,45.0,24.0,21.0,0.0,ph,0.5777777777777777,False
+en-IN,eng,stan1293,English,Indo-European,Africa;Eurasia;South America,Latn,alphabet,phoneme,1.0,26,10,45.0,24.0,21.0,0.0,ph,0.5777777777777777,False
+en-IO,eng,stan1293,English,Indo-European,Africa;Eurasia;South America,Latn,alphabet,phoneme,1.0,26,10,45.0,24.0,21.0,0.0,ph,0.5777777777777777,False
+en-JE,eng,stan1293,English,Indo-European,Africa;Eurasia;South America,Latn,alphabet,phoneme,1.0,26,10,45.0,24.0,21.0,0.0,ph,0.5777777777777777,False
+en-JM,eng,stan1293,English,Indo-European,Africa;Eurasia;South America,Latn,alphabet,phoneme,1.0,26,10,45.0,24.0,21.0,0.0,ph,0.5777777777777777,False
+en-KE,eng,stan1293,English,Indo-European,Africa;Eurasia;South America,Latn,alphabet,phoneme,1.0,26,10,45.0,24.0,21.0,0.0,ph,0.5777777777777777,False
+en-KI,eng,stan1293,English,Indo-European,Africa;Eurasia;South America,Latn,alphabet,phoneme,1.0,26,10,45.0,24.0,21.0,0.0,ph,0.5777777777777777,False
+en-KN,eng,stan1293,English,Indo-European,Africa;Eurasia;South America,Latn,alphabet,phoneme,1.0,26,10,45.0,24.0,21.0,0.0,ph,0.5777777777777777,False
+en-KY,eng,stan1293,English,Indo-European,Africa;Eurasia;South America,Latn,alphabet,phoneme,1.0,26,10,45.0,24.0,21.0,0.0,ph,0.5777777777777777,False
+en-LC,eng,stan1293,English,Indo-European,Africa;Eurasia;South America,Latn,alphabet,phoneme,1.0,26,10,45.0,24.0,21.0,0.0,ph,0.5777777777777777,False
+en-LR,eng,stan1293,English,Indo-European,Africa;Eurasia;South America,Latn,alphabet,phoneme,1.0,26,10,45.0,24.0,21.0,0.0,ph,0.5777777777777777,False
+en-LS,eng,stan1293,English,Indo-European,Africa;Eurasia;South America,Latn,alphabet,phoneme,1.0,26,10,45.0,24.0,21.0,0.0,ph,0.5777777777777777,False
+en-MG,eng,stan1293,English,Indo-European,Africa;Eurasia;South America,Latn,alphabet,phoneme,1.0,26,10,45.0,24.0,21.0,0.0,ph,0.5777777777777777,False
+en-MH,eng,stan1293,English,Indo-European,Africa;Eurasia;South America,Latn,alphabet,phoneme,1.0,26,10,45.0,24.0,21.0,0.0,ph,0.5777777777777777,False
+en-MO,eng,stan1293,English,Indo-European,Africa;Eurasia;South America,Latn,alphabet,phoneme,1.0,26,10,45.0,24.0,21.0,0.0,ph,0.5777777777777777,False
+en-MP,eng,stan1293,English,Indo-European,Africa;Eurasia;South America,Latn,alphabet,phoneme,1.0,26,10,45.0,24.0,21.0,0.0,ph,0.5777777777777777,False
+en-MS,eng,stan1293,English,Indo-European,Africa;Eurasia;South America,Latn,alphabet,phoneme,1.0,26,10,45.0,24.0,21.0,0.0,ph,0.5777777777777777,False
+en-MT,eng,stan1293,English,Indo-European,Africa;Eurasia;South America,Latn,alphabet,phoneme,1.0,26,10,45.0,24.0,21.0,0.0,ph,0.5777777777777777,False
+en-MU,eng,stan1293,English,Indo-European,Africa;Eurasia;South America,Latn,alphabet,phoneme,1.0,26,10,45.0,24.0,21.0,0.0,ph,0.5777777777777777,False
+en-MV,eng,stan1293,English,Indo-European,Africa;Eurasia;South America,Latn,alphabet,phoneme,1.0,26,10,45.0,24.0,21.0,0.0,ph,0.5777777777777777,False
+en-MW,eng,stan1293,English,Indo-European,Africa;Eurasia;South America,Latn,alphabet,phoneme,1.0,26,10,45.0,24.0,21.0,0.0,ph,0.5777777777777777,False
+en-MY,eng,stan1293,English,Indo-European,Africa;Eurasia;South America,Latn,alphabet,phoneme,1.0,26,10,45.0,24.0,21.0,0.0,ph,0.5777777777777777,False
+en-NA,eng,stan1293,English,Indo-European,Africa;Eurasia;South America,Latn,alphabet,phoneme,1.0,26,10,45.0,24.0,21.0,0.0,ph,0.5777777777777777,False
+en-NF,eng,stan1293,English,Indo-European,Africa;Eurasia;South America,Latn,alphabet,phoneme,1.0,26,10,45.0,24.0,21.0,0.0,ph,0.5777777777777777,False
+en-NG,eng,stan1293,English,Indo-European,Africa;Eurasia;South America,Latn,alphabet,phoneme,1.0,26,10,45.0,24.0,21.0,0.0,ph,0.5777777777777777,False
+en-NL,eng,stan1293,English,Indo-European,Africa;Eurasia;South America,Latn,alphabet,phoneme,1.0,26,10,45.0,24.0,21.0,0.0,ph,0.5777777777777777,False
+en-NR,eng,stan1293,English,Indo-European,Africa;Eurasia;South America,Latn,alphabet,phoneme,1.0,26,10,45.0,24.0,21.0,0.0,ph,0.5777777777777777,False
+en-NU,eng,stan1293,English,Indo-European,Africa;Eurasia;South America,Latn,alphabet,phoneme,1.0,26,10,45.0,24.0,21.0,0.0,ph,0.5777777777777777,False
+en-NZ,eng,stan1293,English,Indo-European,Africa;Eurasia;South America,Latn,alphabet,phoneme,1.0,26,10,45.0,24.0,21.0,0.0,ph,0.5777777777777777,False
+en-PG,eng,stan1293,English,Indo-European,Africa;Eurasia;South America,Latn,alphabet,phoneme,1.0,26,10,45.0,24.0,21.0,0.0,ph,0.5777777777777777,False
+en-PH,eng,stan1293,English,Indo-European,Africa;Eurasia;South America,Latn,alphabet,phoneme,1.0,26,10,45.0,24.0,21.0,0.0,ph,0.5777777777777777,False
+en-PK,eng,stan1293,English,Indo-European,Africa;Eurasia;South America,Latn,alphabet,phoneme,1.0,26,10,45.0,24.0,21.0,0.0,ph,0.5777777777777777,False
+en-PN,eng,stan1293,English,Indo-European,Africa;Eurasia;South America,Latn,alphabet,phoneme,1.0,26,10,45.0,24.0,21.0,0.0,ph,0.5777777777777777,False
+en-PR,eng,stan1293,English,Indo-European,Africa;Eurasia;South America,Latn,alphabet,phoneme,1.0,26,10,45.0,24.0,21.0,0.0,ph,0.5777777777777777,False
+en-PW,eng,stan1293,English,Indo-European,Africa;Eurasia;South America,Latn,alphabet,phoneme,1.0,26,10,45.0,24.0,21.0,0.0,ph,0.5777777777777777,False
+en-RW,eng,stan1293,English,Indo-European,Africa;Eurasia;South America,Latn,alphabet,phoneme,1.0,26,10,45.0,24.0,21.0,0.0,ph,0.5777777777777777,False
+en-SB,eng,stan1293,English,Indo-European,Africa;Eurasia;South America,Latn,alphabet,phoneme,1.0,26,10,45.0,24.0,21.0,0.0,ph,0.5777777777777777,False
+en-SC,eng,stan1293,English,Indo-European,Africa;Eurasia;South America,Latn,alphabet,phoneme,1.0,26,10,45.0,24.0,21.0,0.0,ph,0.5777777777777777,False
+en-SD,eng,stan1293,English,Indo-European,Africa;Eurasia;South America,Latn,alphabet,phoneme,1.0,26,10,45.0,24.0,21.0,0.0,ph,0.5777777777777777,False
+en-SE,eng,stan1293,English,Indo-European,Africa;Eurasia;South America,Latn,alphabet,phoneme,1.0,26,10,45.0,24.0,21.0,0.0,ph,0.5777777777777777,False
+en-SG,eng,stan1293,English,Indo-European,Africa;Eurasia;South America,Latn,alphabet,phoneme,1.0,26,10,45.0,24.0,21.0,0.0,ph,0.5777777777777777,False
+en-SH,eng,stan1293,English,Indo-European,Africa;Eurasia;South America,Latn,alphabet,phoneme,1.0,26,10,45.0,24.0,21.0,0.0,ph,0.5777777777777777,False
+en-SI,eng,stan1293,English,Indo-European,Africa;Eurasia;South America,Latn,alphabet,phoneme,1.0,26,10,45.0,24.0,21.0,0.0,ph,0.5777777777777777,False
+en-SL,eng,stan1293,English,Indo-European,Africa;Eurasia;South America,Latn,alphabet,phoneme,1.0,26,10,45.0,24.0,21.0,0.0,ph,0.5777777777777777,False
+en-SS,eng,stan1293,English,Indo-European,Africa;Eurasia;South America,Latn,alphabet,phoneme,1.0,26,10,45.0,24.0,21.0,0.0,ph,0.5777777777777777,False
+en-SX,eng,stan1293,English,Indo-European,Africa;Eurasia;South America,Latn,alphabet,phoneme,1.0,26,10,45.0,24.0,21.0,0.0,ph,0.5777777777777777,False
+en-SZ,eng,stan1293,English,Indo-European,Africa;Eurasia;South America,Latn,alphabet,phoneme,1.0,26,10,45.0,24.0,21.0,0.0,ph,0.5777777777777777,False
+en-Shaw,eng,stan1293,English,Indo-European,Africa;Eurasia;South America,Shaw,alphabet,phoneme,1.0,48,0,45.0,24.0,21.0,0.0,ph,1.0666666666666667,False
+en-TC,eng,stan1293,English,Indo-European,Africa;Eurasia;South America,Latn,alphabet,phoneme,1.0,26,10,45.0,24.0,21.0,0.0,ph,0.5777777777777777,False
+en-TK,eng,stan1293,English,Indo-European,Africa;Eurasia;South America,Latn,alphabet,phoneme,1.0,26,10,45.0,24.0,21.0,0.0,ph,0.5777777777777777,False
+en-TO,eng,stan1293,English,Indo-European,Africa;Eurasia;South America,Latn,alphabet,phoneme,1.0,26,10,45.0,24.0,21.0,0.0,ph,0.5777777777777777,False
+en-TT,eng,stan1293,English,Indo-European,Africa;Eurasia;South America,Latn,alphabet,phoneme,1.0,26,10,45.0,24.0,21.0,0.0,ph,0.5777777777777777,False
+en-TV,eng,stan1293,English,Indo-European,Africa;Eurasia;South America,Latn,alphabet,phoneme,1.0,26,10,45.0,24.0,21.0,0.0,ph,0.5777777777777777,False
+en-TZ,eng,stan1293,English,Indo-European,Africa;Eurasia;South America,Latn,alphabet,phoneme,1.0,26,10,45.0,24.0,21.0,0.0,ph,0.5777777777777777,False
+en-UG,eng,stan1293,English,Indo-European,Africa;Eurasia;South America,Latn,alphabet,phoneme,1.0,26,10,45.0,24.0,21.0,0.0,ph,0.5777777777777777,False
+en-UM,eng,stan1293,English,Indo-European,Africa;Eurasia;South America,Latn,alphabet,phoneme,1.0,26,10,45.0,24.0,21.0,0.0,ph,0.5777777777777777,False
+en-VC,eng,stan1293,English,Indo-European,Africa;Eurasia;South America,Latn,alphabet,phoneme,1.0,26,10,45.0,24.0,21.0,0.0,ph,0.5777777777777777,False
+en-VG,eng,stan1293,English,Indo-European,Africa;Eurasia;South America,Latn,alphabet,phoneme,1.0,26,10,45.0,24.0,21.0,0.0,ph,0.5777777777777777,False
+en-VI,eng,stan1293,English,Indo-European,Africa;Eurasia;South America,Latn,alphabet,phoneme,1.0,26,10,45.0,24.0,21.0,0.0,ph,0.5777777777777777,False
+en-VU,eng,stan1293,English,Indo-European,Africa;Eurasia;South America,Latn,alphabet,phoneme,1.0,26,10,45.0,24.0,21.0,0.0,ph,0.5777777777777777,False
+en-WS,eng,stan1293,English,Indo-European,Africa;Eurasia;South America,Latn,alphabet,phoneme,1.0,26,10,45.0,24.0,21.0,0.0,ph,0.5777777777777777,False
+en-ZA,eng,stan1293,English,Indo-European,Africa;Eurasia;South America,Latn,alphabet,phoneme,1.0,26,14,45.0,24.0,21.0,0.0,ph,0.5777777777777777,False
+en-ZM,eng,stan1293,English,Indo-European,Africa;Eurasia;South America,Latn,alphabet,phoneme,1.0,26,10,45.0,24.0,21.0,0.0,ph,0.5777777777777777,False
+en-ZW,eng,stan1293,English,Indo-European,Africa;Eurasia;South America,Latn,alphabet,phoneme,1.0,26,10,45.0,24.0,21.0,0.0,ph,0.5777777777777777,False
+eo,epo,espe1235,Esperanto,Artificial Language,Eurasia,Latn,alphabet,phoneme,1.0,28,4,,,,,,,False
+es,spa,stan1288,Spanish,Indo-European,Eurasia,Latn,alphabet,phoneme,1.0,27,9,45.0,19.0,26.0,0.0,ea,0.6,False
+es-419,spa,stan1288,Spanish,Indo-European,Eurasia,Latn,alphabet,phoneme,1.0,27,9,45.0,19.0,26.0,0.0,ea,0.6,False
+es-AR,spa,stan1288,Spanish,Indo-European,Eurasia,Latn,alphabet,phoneme,1.0,27,9,45.0,19.0,26.0,0.0,ea,0.6,False
+es-BO,spa,stan1288,Spanish,Indo-European,Eurasia,Latn,alphabet,phoneme,1.0,27,9,45.0,19.0,26.0,0.0,ea,0.6,False
+es-BR,spa,stan1288,Spanish,Indo-European,Eurasia,Latn,alphabet,phoneme,1.0,27,9,45.0,19.0,26.0,0.0,ea,0.6,False
+es-BZ,spa,stan1288,Spanish,Indo-European,Eurasia,Latn,alphabet,phoneme,1.0,27,9,45.0,19.0,26.0,0.0,ea,0.6,False
+es-CL,spa,stan1288,Spanish,Indo-European,Eurasia,Latn,alphabet,phoneme,1.0,27,9,45.0,19.0,26.0,0.0,ea,0.6,False
+es-CO,spa,stan1288,Spanish,Indo-European,Eurasia,Latn,alphabet,phoneme,1.0,27,9,45.0,19.0,26.0,0.0,ea,0.6,False
+es-CR,spa,stan1288,Spanish,Indo-European,Eurasia,Latn,alphabet,phoneme,1.0,27,9,45.0,19.0,26.0,0.0,ea,0.6,False
+es-CU,spa,stan1288,Spanish,Indo-European,Eurasia,Latn,alphabet,phoneme,1.0,27,9,45.0,19.0,26.0,0.0,ea,0.6,False
+es-DO,spa,stan1288,Spanish,Indo-European,Eurasia,Latn,alphabet,phoneme,1.0,27,9,45.0,19.0,26.0,0.0,ea,0.6,False
+es-EA,spa,stan1288,Spanish,Indo-European,Eurasia,Latn,alphabet,phoneme,1.0,27,9,45.0,19.0,26.0,0.0,ea,0.6,False
+es-EC,spa,stan1288,Spanish,Indo-European,Eurasia,Latn,alphabet,phoneme,1.0,27,9,45.0,19.0,26.0,0.0,ea,0.6,False
+es-GQ,spa,stan1288,Spanish,Indo-European,Eurasia,Latn,alphabet,phoneme,1.0,27,9,45.0,19.0,26.0,0.0,ea,0.6,False
+es-GT,spa,stan1288,Spanish,Indo-European,Eurasia,Latn,alphabet,phoneme,1.0,27,9,45.0,19.0,26.0,0.0,ea,0.6,False
+es-HN,spa,stan1288,Spanish,Indo-European,Eurasia,Latn,alphabet,phoneme,1.0,27,9,45.0,19.0,26.0,0.0,ea,0.6,False
+es-IC,spa,stan1288,Spanish,Indo-European,Eurasia,Latn,alphabet,phoneme,1.0,27,9,45.0,19.0,26.0,0.0,ea,0.6,False
+es-MX,spa,stan1288,Spanish,Indo-European,Eurasia,Latn,alphabet,phoneme,1.0,27,9,45.0,19.0,26.0,0.0,ea,0.6,False
+es-NI,spa,stan1288,Spanish,Indo-European,Eurasia,Latn,alphabet,phoneme,1.0,27,9,45.0,19.0,26.0,0.0,ea,0.6,False
+es-PA,spa,stan1288,Spanish,Indo-European,Eurasia,Latn,alphabet,phoneme,1.0,27,9,45.0,19.0,26.0,0.0,ea,0.6,False
+es-PE,spa,stan1288,Spanish,Indo-European,Eurasia,Latn,alphabet,phoneme,1.0,27,9,45.0,19.0,26.0,0.0,ea,0.6,False
+es-PH,spa,stan1288,Spanish,Indo-European,Eurasia,Latn,alphabet,phoneme,1.0,27,9,45.0,19.0,26.0,0.0,ea,0.6,False
+es-PR,spa,stan1288,Spanish,Indo-European,Eurasia,Latn,alphabet,phoneme,1.0,27,9,45.0,19.0,26.0,0.0,ea,0.6,False
+es-PY,spa,stan1288,Spanish,Indo-European,Eurasia,Latn,alphabet,phoneme,1.0,27,9,45.0,19.0,26.0,0.0,ea,0.6,False
+es-SV,spa,stan1288,Spanish,Indo-European,Eurasia,Latn,alphabet,phoneme,1.0,27,9,45.0,19.0,26.0,0.0,ea,0.6,False
+es-US,spa,stan1288,Spanish,Indo-European,Eurasia,Latn,alphabet,phoneme,1.0,27,9,45.0,19.0,26.0,0.0,ea,0.6,False
+es-UY,spa,stan1288,Spanish,Indo-European,Eurasia,Latn,alphabet,phoneme,1.0,27,9,45.0,19.0,26.0,0.0,ea,0.6,False
+es-VE,spa,stan1288,Spanish,Indo-European,Eurasia,Latn,alphabet,phoneme,1.0,27,9,45.0,19.0,26.0,0.0,ea,0.6,False
+et,est,,,,,Latn,alphabet,phoneme,1.0,32,9,,,,,,,
+eu,eus,basq1248,Basque,,Eurasia,Latn,alphabet,phoneme,1.0,26,8,43.0,29.0,14.0,0.0,ea,0.6046511627906976,True
+ewo,ewo,ewon1239,Ewondo,Atlantic-Congo,Africa,Latn,alphabet,phoneme,1.0,43,4,34.0,26.0,8.0,0.0,upsid,1.2647058823529411,False
+fa,pes,west2369,Western Farsi,Indo-European,Eurasia,Arab,abjad,consonant-phoneme,1.0,39,10,30.0,24.0,6.0,0.0,upsid,1.3,False
+fa-AF,pes,west2369,Western Farsi,Indo-European,Eurasia,Arab,abjad,consonant-phoneme,1.0,39,20,30.0,24.0,6.0,0.0,upsid,1.3,False
+ff,ful,,,,,Latn,alphabet,phoneme,1.0,26,4,,,,,,,
+ff-Adlm,ful,,,,,Adlm,alphabet,phoneme,1.0,32,6,,,,,,,
+ff-Adlm-BF,ful,,,,,Adlm,alphabet,phoneme,1.0,32,6,,,,,,,
+ff-Adlm-CM,ful,,,,,Adlm,alphabet,phoneme,1.0,32,6,,,,,,,
+ff-Adlm-GH,ful,,,,,Adlm,alphabet,phoneme,1.0,32,6,,,,,,,
+ff-Adlm-GM,ful,,,,,Adlm,alphabet,phoneme,1.0,32,6,,,,,,,
+ff-Adlm-GW,ful,,,,,Adlm,alphabet,phoneme,1.0,32,6,,,,,,,
+ff-Adlm-LR,ful,,,,,Adlm,alphabet,phoneme,1.0,32,6,,,,,,,
+ff-Adlm-MR,ful,,,,,Adlm,alphabet,phoneme,1.0,32,6,,,,,,,
+ff-Adlm-NE,ful,,,,,Adlm,alphabet,phoneme,1.0,32,6,,,,,,,
+ff-Adlm-NG,ful,,,,,Adlm,alphabet,phoneme,1.0,32,6,,,,,,,
+ff-Adlm-SL,ful,,,,,Adlm,alphabet,phoneme,1.0,32,6,,,,,,,
+ff-Adlm-SN,ful,,,,,Adlm,alphabet,phoneme,1.0,32,6,,,,,,,
+ff-Latn,ful,,,,,Latn,alphabet,phoneme,1.0,26,4,,,,,,,
+ff-Latn-BF,ful,,,,,Latn,alphabet,phoneme,1.0,26,4,,,,,,,
+ff-Latn-CM,ful,,,,,Latn,alphabet,phoneme,1.0,26,4,,,,,,,
+ff-Latn-GH,ful,,,,,Latn,alphabet,phoneme,1.0,26,4,,,,,,,
+ff-Latn-GM,ful,,,,,Latn,alphabet,phoneme,1.0,26,4,,,,,,,
+ff-Latn-GN,ful,,,,,Latn,alphabet,phoneme,1.0,26,4,,,,,,,
+ff-Latn-GW,ful,,,,,Latn,alphabet,phoneme,1.0,26,4,,,,,,,
+ff-Latn-LR,ful,,,,,Latn,alphabet,phoneme,1.0,26,4,,,,,,,
+ff-Latn-MR,ful,,,,,Latn,alphabet,phoneme,1.0,26,4,,,,,,,
+ff-Latn-NE,ful,,,,,Latn,alphabet,phoneme,1.0,26,4,,,,,,,
+ff-Latn-NG,ful,,,,,Latn,alphabet,phoneme,1.0,26,4,,,,,,,
+ff-Latn-SL,ful,,,,,Latn,alphabet,phoneme,1.0,26,4,,,,,,,
+fi,fin,finn1318,Finnish,Uralic,Eurasia,Latn,alphabet,phoneme,1.0,29,28,42.0,25.0,17.0,0.0,spa,0.6904761904761905,False
+fil,fil,fili1244,Filipino,Austronesian,Papunesia,Latn,alphabet,phoneme,1.0,28,5,27.0,17.0,10.0,0.0,ph,1.037037037037037,False
+fo,fao,faro1244,Faroese,Indo-European,Eurasia,Latn,alphabet,phoneme,1.0,23,5,36.0,16.0,20.0,0.0,ea,0.6388888888888888,False
+fo-DK,fao,faro1244,Faroese,Indo-European,Eurasia,Latn,alphabet,phoneme,1.0,23,5,36.0,16.0,20.0,0.0,ea,0.6388888888888888,False
+fr,fra,stan1290,French,Indo-European,Eurasia,Latn,alphabet,phoneme,1.0,28,11,40.0,23.0,17.0,0.0,spa,0.7,False
+fr-BE,fra,stan1290,French,Indo-European,Eurasia,Latn,alphabet,phoneme,1.0,28,11,40.0,23.0,17.0,0.0,spa,0.7,False
+fr-BF,fra,stan1290,French,Indo-European,Eurasia,Latn,alphabet,phoneme,1.0,28,11,40.0,23.0,17.0,0.0,spa,0.7,False
+fr-BI,fra,stan1290,French,Indo-European,Eurasia,Latn,alphabet,phoneme,1.0,28,11,40.0,23.0,17.0,0.0,spa,0.7,False
+fr-BJ,fra,stan1290,French,Indo-European,Eurasia,Latn,alphabet,phoneme,1.0,28,11,40.0,23.0,17.0,0.0,spa,0.7,False
+fr-BL,fra,stan1290,French,Indo-European,Eurasia,Latn,alphabet,phoneme,1.0,28,11,40.0,23.0,17.0,0.0,spa,0.7,False
+fr-CA,fra,stan1290,French,Indo-European,Eurasia,Latn,alphabet,phoneme,1.0,28,6,40.0,23.0,17.0,0.0,spa,0.7,False
+fr-CD,fra,stan1290,French,Indo-European,Eurasia,Latn,alphabet,phoneme,1.0,28,11,40.0,23.0,17.0,0.0,spa,0.7,False
+fr-CF,fra,stan1290,French,Indo-European,Eurasia,Latn,alphabet,phoneme,1.0,28,11,40.0,23.0,17.0,0.0,spa,0.7,False
+fr-CG,fra,stan1290,French,Indo-European,Eurasia,Latn,alphabet,phoneme,1.0,28,11,40.0,23.0,17.0,0.0,spa,0.7,False
+fr-CH,fra,stan1290,French,Indo-European,Eurasia,Latn,alphabet,phoneme,1.0,28,11,40.0,23.0,17.0,0.0,spa,0.7,False
+fr-CI,fra,stan1290,French,Indo-European,Eurasia,Latn,alphabet,phoneme,1.0,28,11,40.0,23.0,17.0,0.0,spa,0.7,False
+fr-CM,fra,stan1290,French,Indo-European,Eurasia,Latn,alphabet,phoneme,1.0,28,11,40.0,23.0,17.0,0.0,spa,0.7,False
+fr-DJ,fra,stan1290,French,Indo-European,Eurasia,Latn,alphabet,phoneme,1.0,28,11,40.0,23.0,17.0,0.0,spa,0.7,False
+fr-DZ,fra,stan1290,French,Indo-European,Eurasia,Latn,alphabet,phoneme,1.0,28,11,40.0,23.0,17.0,0.0,spa,0.7,False
+fr-GA,fra,stan1290,French,Indo-European,Eurasia,Latn,alphabet,phoneme,1.0,28,11,40.0,23.0,17.0,0.0,spa,0.7,False
+fr-GF,fra,stan1290,French,Indo-European,Eurasia,Latn,alphabet,phoneme,1.0,28,11,40.0,23.0,17.0,0.0,spa,0.7,False
+fr-GN,fra,stan1290,French,Indo-European,Eurasia,Latn,alphabet,phoneme,1.0,28,11,40.0,23.0,17.0,0.0,spa,0.7,False
+fr-GP,fra,stan1290,French,Indo-European,Eurasia,Latn,alphabet,phoneme,1.0,28,11,40.0,23.0,17.0,0.0,spa,0.7,False
+fr-GQ,fra,stan1290,French,Indo-European,Eurasia,Latn,alphabet,phoneme,1.0,28,11,40.0,23.0,17.0,0.0,spa,0.7,False
+fr-HT,fra,stan1290,French,Indo-European,Eurasia,Latn,alphabet,phoneme,1.0,28,11,40.0,23.0,17.0,0.0,spa,0.7,False
+fr-KM,fra,stan1290,French,Indo-European,Eurasia,Latn,alphabet,phoneme,1.0,28,11,40.0,23.0,17.0,0.0,spa,0.7,False
+fr-LU,fra,stan1290,French,Indo-European,Eurasia,Latn,alphabet,phoneme,1.0,28,11,40.0,23.0,17.0,0.0,spa,0.7,False
+fr-MA,fra,stan1290,French,Indo-European,Eurasia,Latn,alphabet,phoneme,1.0,28,11,40.0,23.0,17.0,0.0,spa,0.7,False
+fr-MC,fra,stan1290,French,Indo-European,Eurasia,Latn,alphabet,phoneme,1.0,28,11,40.0,23.0,17.0,0.0,spa,0.7,False
+fr-MF,fra,stan1290,French,Indo-European,Eurasia,Latn,alphabet,phoneme,1.0,28,11,40.0,23.0,17.0,0.0,spa,0.7,False
+fr-MG,fra,stan1290,French,Indo-European,Eurasia,Latn,alphabet,phoneme,1.0,28,11,40.0,23.0,17.0,0.0,spa,0.7,False
+fr-ML,fra,stan1290,French,Indo-European,Eurasia,Latn,alphabet,phoneme,1.0,28,11,40.0,23.0,17.0,0.0,spa,0.7,False
+fr-MQ,fra,stan1290,French,Indo-European,Eurasia,Latn,alphabet,phoneme,1.0,28,11,40.0,23.0,17.0,0.0,spa,0.7,False
+fr-MR,fra,stan1290,French,Indo-European,Eurasia,Latn,alphabet,phoneme,1.0,28,11,40.0,23.0,17.0,0.0,spa,0.7,False
+fr-MU,fra,stan1290,French,Indo-European,Eurasia,Latn,alphabet,phoneme,1.0,28,11,40.0,23.0,17.0,0.0,spa,0.7,False
+fr-NC,fra,stan1290,French,Indo-European,Eurasia,Latn,alphabet,phoneme,1.0,28,11,40.0,23.0,17.0,0.0,spa,0.7,False
+fr-NE,fra,stan1290,French,Indo-European,Eurasia,Latn,alphabet,phoneme,1.0,28,11,40.0,23.0,17.0,0.0,spa,0.7,False
+fr-PF,fra,stan1290,French,Indo-European,Eurasia,Latn,alphabet,phoneme,1.0,28,11,40.0,23.0,17.0,0.0,spa,0.7,False
+fr-PM,fra,stan1290,French,Indo-European,Eurasia,Latn,alphabet,phoneme,1.0,28,11,40.0,23.0,17.0,0.0,spa,0.7,False
+fr-RE,fra,stan1290,French,Indo-European,Eurasia,Latn,alphabet,phoneme,1.0,28,11,40.0,23.0,17.0,0.0,spa,0.7,False
+fr-RW,fra,stan1290,French,Indo-European,Eurasia,Latn,alphabet,phoneme,1.0,28,11,40.0,23.0,17.0,0.0,spa,0.7,False
+fr-SC,fra,stan1290,French,Indo-European,Eurasia,Latn,alphabet,phoneme,1.0,28,11,40.0,23.0,17.0,0.0,spa,0.7,False
+fr-SN,fra,stan1290,French,Indo-European,Eurasia,Latn,alphabet,phoneme,1.0,28,11,40.0,23.0,17.0,0.0,spa,0.7,False
+fr-SY,fra,stan1290,French,Indo-European,Eurasia,Latn,alphabet,phoneme,1.0,28,11,40.0,23.0,17.0,0.0,spa,0.7,False
+fr-TD,fra,stan1290,French,Indo-European,Eurasia,Latn,alphabet,phoneme,1.0,28,11,40.0,23.0,17.0,0.0,spa,0.7,False
+fr-TG,fra,stan1290,French,Indo-European,Eurasia,Latn,alphabet,phoneme,1.0,28,11,40.0,23.0,17.0,0.0,spa,0.7,False
+fr-TN,fra,stan1290,French,Indo-European,Eurasia,Latn,alphabet,phoneme,1.0,28,11,40.0,23.0,17.0,0.0,spa,0.7,False
+fr-VU,fra,stan1290,French,Indo-European,Eurasia,Latn,alphabet,phoneme,1.0,28,11,40.0,23.0,17.0,0.0,spa,0.7,False
+fr-WF,fra,stan1290,French,Indo-European,Eurasia,Latn,alphabet,phoneme,1.0,28,11,40.0,23.0,17.0,0.0,spa,0.7,False
+fr-YT,fra,stan1290,French,Indo-European,Eurasia,Latn,alphabet,phoneme,1.0,28,11,40.0,23.0,17.0,0.0,spa,0.7,False
+frr,frr,nort2626,Northern Frisian,Indo-European,Eurasia,Latn,alphabet,phoneme,1.0,21,18,42.0,23.0,19.0,0.0,ph,0.5,False
+fur,fur,friu1240,Friulian,Indo-European,Eurasia,Latn,alphabet,phoneme,1.0,26,9,39.0,25.0,14.0,0.0,ph,0.6666666666666666,False
+fy,fry,west2354,Western Frisian,Indo-European,Eurasia,Latn,alphabet,phoneme,1.0,25,3,51.0,19.0,32.0,0.0,ea,0.49019607843137253,False
+ga,gle,iris1253,Irish,Indo-European,Eurasia,Latn,alphabet,phoneme,1.0,18,18,69.0,45.0,24.0,0.0,upsid,0.2608695652173913,False
+ga-GB,gle,iris1253,Irish,Indo-European,Eurasia,Latn,alphabet,phoneme,1.0,18,18,69.0,45.0,24.0,0.0,upsid,0.2608695652173913,False
+gaa,gaa,gaaa1244,Ga,Atlantic-Congo,Africa,Latn,alphabet,phoneme,1.0,26,5,47.0,32.0,12.0,3.0,spa,0.5531914893617021,False
+gd,gla,scot1245,Scottish Gaelic,Indo-European,Eurasia,Latn,alphabet,phoneme,1.0,18,26,82.0,33.0,49.0,0.0,ea,0.21951219512195122,False
+gez,gez,geez1241,Geez,Afro-Asiatic,Africa,Ethi,abugida,CV-akshara,2.0,213,0,,,,,,,False
+gez-ER,gez,geez1241,Geez,Afro-Asiatic,Africa,Ethi,abugida,CV-akshara,2.0,213,0,,,,,,,False
+gl,glg,gali1258,Galician,Indo-European,Eurasia,Latn,alphabet,phoneme,1.0,27,9,30.0,23.0,7.0,0.0,ea,0.9,False
+gn,grn,,,,,Latn,alphabet,phoneme,1.0,26,8,,,,,,,
+gsw,gsw,swis1247,Central Alemannic,Indo-European,Eurasia,Latn,alphabet,phoneme,1.0,26,10,56.0,27.0,29.0,0.0,ph,0.4642857142857143,False
+gsw-FR,gsw,swis1247,Central Alemannic,Indo-European,Eurasia,Latn,alphabet,phoneme,1.0,26,10,56.0,27.0,29.0,0.0,ph,0.4642857142857143,False
+gsw-LI,gsw,swis1247,Central Alemannic,Indo-European,Eurasia,Latn,alphabet,phoneme,1.0,26,10,56.0,27.0,29.0,0.0,ph,0.4642857142857143,False
+gu,guj,guja1252,Gujarati,Indo-European,Eurasia,Gujr,abugida,CV-akshara,2.0,68,2,60.0,35.0,25.0,0.0,ra,1.1333333333333333,False
+guz,guz,gusi1247,Gusii,Atlantic-Congo,Africa,Latn,alphabet,phoneme,1.0,24,2,,,,,,,False
+gv,glv,manx1243,Manx,Indo-European,Eurasia,Latn,alphabet,phoneme,1.0,26,0,,,,,,,False
+ha,hau,haus1257,Hausa,Afro-Asiatic,Africa,Latn,alphabet,phoneme,1.0,29,10,46.0,32.0,10.0,4.0,ph,0.6304347826086957,False
+ha-Arab,hau,haus1257,Hausa,Afro-Asiatic,Africa,Arab,abjad,consonant-phoneme,1.0,0,0,46.0,32.0,10.0,4.0,ph,0.0,False
+ha-Arab-SD,hau,haus1257,Hausa,Afro-Asiatic,Africa,Arab,abjad,consonant-phoneme,1.0,0,0,46.0,32.0,10.0,4.0,ph,0.0,False
+ha-GH,hau,haus1257,Hausa,Afro-Asiatic,Africa,Latn,alphabet,phoneme,1.0,29,10,46.0,32.0,10.0,4.0,ph,0.6304347826086957,False
+ha-NE,hau,haus1257,Hausa,Afro-Asiatic,Africa,Latn,alphabet,phoneme,1.0,29,11,46.0,32.0,10.0,4.0,ph,0.6304347826086957,False
+haw,haw,hawa1245,Hawaiian,Austronesian,Papunesia,Latn,alphabet,phoneme,1.0,13,14,19.0,9.0,10.0,0.0,spa,0.6842105263157895,False
+he,heb,hebr1245,Modern Hebrew,Afro-Asiatic,Eurasia,Hebr,abjad,consonant-phoneme,1.0,22,18,30.0,24.0,6.0,0.0,spa,0.7333333333333333,False
+hi,hin,hind1269,Hindi,Indo-European,Eurasia,Deva,abugida,CV-akshara,2.0,67,2,94.0,71.0,23.0,0.0,spa,0.7127659574468085,False
+hi-Latn,hin,hind1269,Hindi,Indo-European,Eurasia,Latn,alphabet,phoneme,1.0,26,17,94.0,71.0,23.0,0.0,spa,0.2765957446808511,False
+hnj,hnj,hmon1264,Hmong Njua,Hmong-Mien,Eurasia,Hmnp,,,,56,0,61.0,48.0,13.0,0.0,ea,0.9180327868852459,False
+hnj-Hmnp,hnj,hmon1264,Hmong Njua,Hmong-Mien,Eurasia,Hmnp,,,,56,0,61.0,48.0,13.0,0.0,ea,0.9180327868852459,False
+hr,hrv,,,,,Latn,alphabet,phoneme,1.0,30,4,36.0,25.0,11.0,0.0,ph,0.8333333333333334,
+hr-BA,hrv,,,,,Latn,alphabet,phoneme,1.0,30,4,36.0,25.0,11.0,0.0,ph,0.8333333333333334,
+hsb,hsb,uppe1395,Upper Sorbian,Indo-European,Eurasia,Latn,alphabet,phoneme,1.0,35,20,42.0,33.0,9.0,0.0,ea,0.8333333333333334,False
+hu,hun,hung1274,Hungarian,Uralic,Eurasia,Latn,alphabet,phoneme,1.0,42,13,65.0,50.0,15.0,0.0,spa,0.6461538461538462,False
+hy,hye,nucl1235,Eastern Armenian,Indo-European,Eurasia,Armn,alphabet,phoneme,1.0,38,1,37.0,30.0,7.0,0.0,spa,1.027027027027027,False
+ia,ina,inte1239,Interlingua (International Auxiliary Language Association),Artificial Language,Eurasia,Latn,alphabet,phoneme,1.0,26,10,,,,,,,False
+id,ind,indo1316,Standard Indonesian,Austronesian,Papunesia,Latn,alphabet,phoneme,1.0,26,10,31.0,23.0,8.0,0.0,ph,0.8387096774193549,False
+ie,ile,inte1260,Interlingue (Occidental),Artificial Language,,Latn,alphabet,phoneme,1.0,26,12,,,,,,,False
+ig,ibo,nucl1417,Igbo,Atlantic-Congo,Africa,Latn,alphabet,phoneme,1.0,36,17,65.0,46.0,16.0,3.0,spa,0.5538461538461539,False
+ii,iii,sich1238,Sichuan Yi,Sino-Tibetan,Eurasia,Yiii,syllabary,syllable,3.0,1165,55,74.0,58.0,16.0,0.0,ea,15.743243243243244,False
+io,ido,idoo1234,Ido,Artificial Language,Eurasia,Latn,alphabet,phoneme,1.0,26,0,,,,,,,False
+is,isl,icel1247,Icelandic,Indo-European,Eurasia,Latn,alphabet,phoneme,1.0,32,4,45.0,30.0,15.0,0.0,ea,0.7111111111111111,False
+it,ita,ital1282,Italian,Indo-European,Eurasia,Latn,alphabet,phoneme,1.0,26,11,70.0,39.0,31.0,0.0,ph,0.37142857142857144,False
+it-CH,ita,ital1282,Italian,Indo-European,Eurasia,Latn,alphabet,phoneme,1.0,26,11,70.0,39.0,31.0,0.0,ph,0.37142857142857144,False
+it-SM,ita,ital1282,Italian,Indo-European,Eurasia,Latn,alphabet,phoneme,1.0,26,11,70.0,39.0,31.0,0.0,ph,0.37142857142857144,False
+it-VA,ita,ital1282,Italian,Indo-European,Eurasia,Latn,alphabet,phoneme,1.0,26,11,70.0,39.0,31.0,0.0,ph,0.37142857142857144,False
+iu,iku,,,,,Cans,abugida,syllable,3.0,109,0,,,,,,,
+iu-Latn,iku,,,,,Latn,alphabet,phoneme,1.0,17,11,,,,,,,
+ja,jpn,nucl1643,Japanese,Japonic,Eurasia,Jpan,mixed,mora+morpheme,4.0,2187,75,40.0,27.0,11.0,2.0,spa,54.675,False
+jbo,jbo,lojb1234,Lojban,Artificial Language,North America,Latn,alphabet,phoneme,1.0,24,2,,,,,,,False
+jgo,jgo,ngom1272,Ngomba,Atlantic-Congo,Africa,Latn,alphabet,phoneme,1.0,47,5,32.0,21.0,7.0,4.0,ph,1.46875,False
+jmc,jmc,mach1266,Machame,Atlantic-Congo,Africa,Latn,alphabet,phoneme,1.0,24,2,46.0,33.0,10.0,3.0,ph,0.5217391304347826,False
+jv,jav,java1254,Javanese,Austronesian,Papunesia,Latn,alphabet,phoneme,1.0,21,5,33.0,24.0,9.0,0.0,ph,0.6363636363636364,False
+ka,kat,nucl1302,Georgian,Kartvelian,Eurasia,Geor,alphabet,phoneme,1.0,33,48,35.0,29.0,6.0,0.0,spa,0.9428571428571428,False
+kaa,kaa,kara1467,Kara-Kalpak,Turkic,Eurasia,Cyrl,alphabet,phoneme,1.0,39,0,38.0,25.0,13.0,0.0,ea,1.0263157894736843,False
+kaa-Cyrl,kaa,kara1467,Kara-Kalpak,Turkic,Eurasia,Cyrl,alphabet,phoneme,1.0,39,0,38.0,25.0,13.0,0.0,ea,1.0263157894736843,False
+kaa-Latn,kaa,kara1467,Kara-Kalpak,Turkic,Eurasia,Latn,alphabet,phoneme,1.0,29,10,38.0,25.0,13.0,0.0,ea,0.7631578947368421,False
+kab,kab,kaby1243,Kabyle,Afro-Asiatic,Africa,Latn,alphabet,phoneme,1.0,26,2,30.0,27.0,3.0,0.0,ph,0.8666666666666667,False
+kaj,kaj,jjuu1238,Jju,Atlantic-Congo,Africa,Latn,alphabet,phoneme,1.0,0,0,,,,,,,False
+kam,kam,kamb1297,Kamba (Kenya),Atlantic-Congo,Africa,Latn,alphabet,phoneme,1.0,25,0,31.0,13.0,14.0,4.0,ph,0.8064516129032258,False
+kcg,kcg,tyap1238,Tyap,Atlantic-Congo,Africa,Latn,alphabet,phoneme,1.0,0,0,,,,,,,False
+kde,kde,mako1251,Makonde,Atlantic-Congo,Africa,Latn,alphabet,phoneme,1.0,26,0,28.0,18.0,5.0,5.0,ph,0.9285714285714286,False
+kea,kea,kabu1256,Kabuverdianu,Indo-European,Africa,Latn,alphabet,phoneme,1.0,27,13,28.0,21.0,7.0,0.0,ph,0.9642857142857143,False
+ken,ken,keny1279,Kenyang,Atlantic-Congo,Africa,Latn,alphabet,phoneme,1.0,42,5,41.0,21.0,20.0,0.0,ph,1.024390243902439,False
+kgp,kgp,kain1272,Kaingang,Nuclear-Macro-Je,South America,Latn,alphabet,phoneme,1.0,18,19,27.0,13.0,14.0,0.0,upsid,0.6666666666666666,False
+khq,khq,koyr1240,Koyra Chiini Songhay,Songhay,Africa,Latn,alphabet,phoneme,1.0,27,1,43.0,23.0,14.0,6.0,ph,0.627906976744186,False
+ki,kik,kiku1240,Kikuyu,Atlantic-Congo,Africa,Latn,alphabet,phoneme,1.0,18,8,32.0,18.0,14.0,0.0,aa,0.5625,False
+kk,kaz,kaza1248,Kazakh,Turkic,Eurasia,Cyrl,alphabet,phoneme,1.0,42,0,,,,,,,False
+kk-Arab,kaz,kaza1248,Kazakh,Turkic,Eurasia,Arab,abjad,consonant-phoneme,1.0,30,0,,,,,,,False
+kk-Cyrl,kaz,kaza1248,Kazakh,Turkic,Eurasia,Cyrl,alphabet,phoneme,1.0,42,0,,,,,,,False
+kk-KZ,kaz,kaza1248,Kazakh,Turkic,Eurasia,Cyrl,alphabet,phoneme,1.0,42,0,,,,,,,False
+kkj,kkj,kako1242,Kako,Atlantic-Congo,Africa,Latn,alphabet,phoneme,1.0,51,3,50.0,33.0,13.0,4.0,aa,1.02,False
+kl,kal,kala1399,Kalaallisut,Eskimo-Aleut,North America,Latn,alphabet,phoneme,1.0,29,6,38.0,32.0,6.0,0.0,spa,0.7631578947368421,False
+kln,kln,,,,,Latn,alphabet,phoneme,1.0,21,5,,,,,,,
+km,khm,cent1989,Central Khmer,Austroasiatic,Eurasia,Khmr,abugida,CV-akshara,2.0,72,7,46.0,17.0,29.0,0.0,ea,1.565217391304348,False
+kn,kan,nucl1305,Kannada,Dravidian,Eurasia,Knda,abugida,CV-akshara,2.0,71,2,47.0,36.0,11.0,0.0,ra,1.5106382978723405,False
+ko,kor,kore1280,Korean,Koreanic,Eurasia,Kore,mixed,phoneme+morpheme,4.0,11172,788,48.0,20.0,28.0,0.0,ph,232.75,False
+ko-CN,kor,kore1280,Korean,Koreanic,Eurasia,Kore,mixed,phoneme+morpheme,4.0,11172,788,48.0,20.0,28.0,0.0,ph,232.75,False
+ko-KP,kor,kore1280,Korean,Koreanic,Eurasia,Kore,mixed,phoneme+morpheme,4.0,11172,788,48.0,20.0,28.0,0.0,ph,232.75,False
+kok,kok,,,,,Deva,abugida,CV-akshara,2.0,85,2,,,,,,,
+kok-Deva,kok,,,,,Deva,abugida,CV-akshara,2.0,85,2,,,,,,,
+kok-Latn,kok,,,,,Latn,alphabet,phoneme,1.0,26,8,,,,,,,
+kpe,kpe,,,,,Latn,alphabet,phoneme,1.0,34,0,,,,,,,
+kpe-GN,kpe,,,,,Latn,alphabet,phoneme,1.0,34,0,,,,,,,
+ks,kas,kash1277,Kashmiri,Indo-European,Eurasia,Arab,abjad,consonant-phoneme,1.0,46,10,56.0,28.0,28.0,0.0,ra,0.8214285714285714,False
+ks-Arab,kas,kash1277,Kashmiri,Indo-European,Eurasia,Arab,abjad,consonant-phoneme,1.0,46,10,56.0,28.0,28.0,0.0,ra,0.8214285714285714,False
+ks-Deva,kas,kash1277,Kashmiri,Indo-European,Eurasia,Deva,abugida,CV-akshara,2.0,52,1,56.0,28.0,28.0,0.0,ra,0.9285714285714286,False
+ksb,ksb,sham1280,Shambala,Atlantic-Congo,Africa,Latn,alphabet,phoneme,1.0,23,3,,,,,,,False
+ksf,ksf,bafi1243,Bafia,Atlantic-Congo,Africa,Latn,alphabet,phoneme,1.0,31,2,51.0,27.0,20.0,4.0,ph,0.6078431372549019,False
+ksh,ksh,kols1241,Kölsch,Indo-European,Eurasia,Latn,alphabet,phoneme,1.0,29,12,,,,,,,False
+ku,ckb,cent1972,Central Kurdish,Indo-European,Eurasia,Latn,alphabet,phoneme,1.0,31,13,39.0,31.0,8.0,0.0,ea,0.7948717948717948,False
+kw,cor,corn1251,Cornish,Indo-European,Eurasia,Latn,alphabet,phoneme,1.0,26,0,,,,,,,False
+kxv,kxv,kuvi1243,Kuvi,Dravidian,Eurasia,Latn,alphabet,phoneme,1.0,23,0,47.0,28.0,19.0,0.0,ra,0.48936170212765956,False
+kxv-Deva,kxv,kuvi1243,Kuvi,Dravidian,Eurasia,Deva,abugida,CV-akshara,2.0,46,0,47.0,28.0,19.0,0.0,ra,0.9787234042553191,False
+kxv-Latn,kxv,kuvi1243,Kuvi,Dravidian,Eurasia,Latn,alphabet,phoneme,1.0,23,0,47.0,28.0,19.0,0.0,ra,0.48936170212765956,False
+kxv-Orya,kxv,kuvi1243,Kuvi,Dravidian,Eurasia,Orya,abugida,CV-akshara,2.0,41,0,47.0,28.0,19.0,0.0,ra,0.8723404255319149,False
+kxv-Telu,kxv,kuvi1243,Kuvi,Dravidian,Eurasia,Telu,abugida,CV-akshara,2.0,42,0,47.0,28.0,19.0,0.0,ra,0.8936170212765957,False
+ky,kir,kirg1245,Kirghiz,Turkic,Eurasia,Cyrl,alphabet,phoneme,1.0,31,5,37.0,21.0,16.0,0.0,ea,0.8378378378378378,False
+la,lat,lati1261,Latin,Indo-European,Eurasia,Latn,alphabet,phoneme,1.0,0,0,,,,,,,False
+lag,lag,lang1320,Langi,Atlantic-Congo,Africa,Latn,alphabet,phoneme,1.0,28,0,52.0,32.0,20.0,0.0,ph,0.5384615384615384,False
+lb,ltz,luxe1241,Moselle Franconian,Indo-European,Eurasia,Latn,alphabet,phoneme,1.0,26,14,48.0,26.0,22.0,0.0,ea,0.5416666666666666,False
+lg,lug,gand1255,Ganda,Atlantic-Congo,Africa,Latn,alphabet,phoneme,1.0,25,3,33.0,19.0,10.0,4.0,aa,0.7575757575757576,False
+lij,lij,ligu1248,Ligurian,Indo-European,Eurasia,Latn,alphabet,phoneme,1.0,27,3,45.0,24.0,21.0,0.0,ea,0.6,False
+lkt,lkt,lako1247,Lakota,Siouan,North America,Latn,alphabet,phoneme,1.0,39,11,36.0,27.0,9.0,0.0,spa,1.0833333333333333,False
+lld,lld,ladi1250,Ladin,Indo-European,Eurasia,Latn,alphabet,phoneme,1.0,26,14,,,,,,,False
+lmo,lmo,lomb1257,Lombard,Indo-European,Eurasia,Latn,alphabet,phoneme,1.0,26,10,,,,,,,False
+ln,lin,ling1263,Kinshasa Lingala,Atlantic-Congo,Africa,Latn,alphabet,phoneme,1.0,40,3,22.0,15.0,7.0,0.0,aa,1.8181818181818181,False
+ln-AO,lin,ling1263,Kinshasa Lingala,Atlantic-Congo,Africa,Latn,alphabet,phoneme,1.0,40,3,22.0,15.0,7.0,0.0,aa,1.8181818181818181,False
+ln-CF,lin,ling1263,Kinshasa Lingala,Atlantic-Congo,Africa,Latn,alphabet,phoneme,1.0,40,3,22.0,15.0,7.0,0.0,aa,1.8181818181818181,False
+ln-CG,lin,ling1263,Kinshasa Lingala,Atlantic-Congo,Africa,Latn,alphabet,phoneme,1.0,40,3,22.0,15.0,7.0,0.0,aa,1.8181818181818181,False
+lo,lao,laoo1244,Lao,Tai-Kadai,Eurasia,Laoo,abugida,CV-akshara,2.0,55,11,42.0,21.0,21.0,0.0,ea,1.3095238095238095,False
+lrc,lrc,nort2645,Northern Luri,Indo-European,Eurasia,Arab,abjad,consonant-phoneme,1.0,43,16,,,,,,,False
+lrc-IQ,lrc,nort2645,Northern Luri,Indo-European,Eurasia,Arab,abjad,consonant-phoneme,1.0,43,16,,,,,,,False
+lt,lit,lith1251,Lithuanian,Indo-European,Eurasia,Latn,alphabet,phoneme,1.0,25,36,60.0,45.0,15.0,0.0,ea,0.4166666666666667,False
+ltg,ltg,,,,,Latn,alphabet,phoneme,1.0,23,4,55.0,38.0,17.0,0.0,ea,0.41818181818181815,
+lu,lub,luba1250,Luba-Katanga,Atlantic-Congo,Africa,Latn,alphabet,phoneme,1.0,33,3,,,,,,,False
+luo,luo,luok1236,Luo (Kenya and Tanzania),Nilotic,Africa,Latn,alphabet,phoneme,1.0,23,3,38.0,26.0,9.0,3.0,aa,0.6052631578947368,False
+luy,luy,,,,,Latn,alphabet,phoneme,1.0,26,0,,,,,,,
+lv,lvs,,,,,Latn,alphabet,phoneme,1.0,33,6,42.0,26.0,16.0,0.0,ea,0.7857142857142857,
+mai,mai,mait1250,Maithili,Indo-European,Eurasia,Deva,abugida,CV-akshara,2.0,48,15,51.0,26.0,25.0,0.0,ea,0.9411764705882353,False
+mas,mas,masa1300,Masai,Nilotic,Africa,Latn,alphabet,phoneme,1.0,32,5,43.0,21.0,18.0,4.0,spa,0.7441860465116279,False
+mas-TZ,mas,masa1300,Masai,Nilotic,Africa,Latn,alphabet,phoneme,1.0,32,5,43.0,21.0,18.0,4.0,spa,0.7441860465116279,False
+mdf,mdf,moks1248,Moksha,Uralic,Eurasia,Cyrl,alphabet,phoneme,1.0,32,16,41.0,35.0,6.0,0.0,ea,0.7804878048780488,False
+mer,mer,meru1245,Meru,Atlantic-Congo,Africa,Latn,alphabet,phoneme,1.0,26,0,27.0,17.0,10.0,0.0,ph,0.9629629629629629,False
+mfe,mfe,mori1278,Morisyen,Indo-European,Africa,Latn,alphabet,phoneme,1.0,25,0,30.0,21.0,9.0,0.0,ph,0.8333333333333334,False
+mg,mlg,,,,,Latn,alphabet,phoneme,1.0,21,5,,,,,,,
+mgh,mgh,makh1261,Makhuwa-Meetto,Atlantic-Congo,Africa,Latn,alphabet,phoneme,1.0,24,2,,,,,,,False
+mgo,mgo,meta1238,Meta',Atlantic-Congo,Africa,Latn,alphabet,phoneme,1.0,28,6,50.0,33.0,14.0,3.0,ph,0.56,False
+mhn,mhn,moch1255,Mòcheno,Indo-European,Eurasia,Latn,alphabet,phoneme,1.0,26,0,,,,,,,False
+mi,mri,maor1246,Maori,Austronesian,Papunesia,Latn,alphabet,phoneme,1.0,15,13,20.0,10.0,10.0,0.0,spa,0.75,False
+mic,mic,mikm1235,Mi'kmaq,Algic,North America,Latn,alphabet,phoneme,1.0,18,10,,,,,,,False
+mk,mkd,mace1250,Macedonian,Indo-European,Eurasia,Cyrl,alphabet,phoneme,1.0,31,2,32.0,26.0,6.0,0.0,ph,0.96875,False
+ml,mal,mala1464,Malayalam,Dravidian,Eurasia,Mlym,abugida,CV-akshara,2.0,51,24,53.0,38.0,15.0,0.0,ea,0.9622641509433962,False
+mn,mon,,,,,Cyrl,alphabet,phoneme,1.0,34,4,46.0,32.0,14.0,0.0,ea,0.7391304347826086,
+mn-Mong,mon,,,,,Mong,alphabet,phoneme,1.0,45,0,46.0,32.0,14.0,0.0,ea,0.9782608695652174,
+mn-Mong-MN,mon,,,,,Mong,alphabet,phoneme,1.0,45,0,46.0,32.0,14.0,0.0,ea,0.9782608695652174,
+mni,mni,mani1292,Manipuri,Sino-Tibetan,Eurasia,Beng,abugida,CV-akshara,2.0,60,1,38.0,27.0,8.0,3.0,ra,1.5789473684210527,False
+mni-Beng,mni,mani1292,Manipuri,Sino-Tibetan,Eurasia,Beng,abugida,CV-akshara,2.0,60,1,38.0,27.0,8.0,3.0,ra,1.5789473684210527,False
+mni-Mtei,mni,mani1292,Manipuri,Sino-Tibetan,Eurasia,Mtei,abugida,CV-akshara,2.0,45,0,38.0,27.0,8.0,3.0,ra,1.1842105263157894,False
+moh,moh,moha1258,Mohawk,Iroquoian,North America,Latn,alphabet,phoneme,1.0,25,14,,,,,,,False
+mr,mar,mara1378,Marathi,Indo-European,Eurasia,Deva,abugida,CV-akshara,2.0,66,6,55.0,42.0,13.0,0.0,ra,1.2,False
+ms,zsm,stan1306,Standard Malay,Austronesian,Eurasia,Latn,alphabet,phoneme,1.0,26,0,30.0,24.0,6.0,0.0,ph,0.8666666666666667,False
+ms-Arab,zsm,stan1306,Standard Malay,Austronesian,Eurasia,Arab,abjad,consonant-phoneme,1.0,43,2,30.0,24.0,6.0,0.0,ph,1.4333333333333333,False
+ms-Arab-BN,zsm,stan1306,Standard Malay,Austronesian,Eurasia,Arab,abjad,consonant-phoneme,1.0,43,2,30.0,24.0,6.0,0.0,ph,1.4333333333333333,False
+ms-BN,zsm,stan1306,Standard Malay,Austronesian,Eurasia,Latn,alphabet,phoneme,1.0,26,0,30.0,24.0,6.0,0.0,ph,0.8666666666666667,False
+ms-ID,zsm,stan1306,Standard Malay,Austronesian,Eurasia,Latn,alphabet,phoneme,1.0,26,0,30.0,24.0,6.0,0.0,ph,0.8666666666666667,False
+ms-SG,zsm,stan1306,Standard Malay,Austronesian,Eurasia,Latn,alphabet,phoneme,1.0,26,0,30.0,24.0,6.0,0.0,ph,0.8666666666666667,False
+mt,mlt,malt1254,Maltese,Afro-Asiatic,Eurasia,Latn,alphabet,phoneme,1.0,29,2,55.0,45.0,10.0,0.0,spa,0.5272727272727272,False
+mua,mua,mund1325,Mundang,Atlantic-Congo,Africa,Latn,alphabet,phoneme,1.0,28,2,67.0,37.0,27.0,3.0,ph,0.417910447761194,False
+mus,mus,cree1270,Creek,Muskogean,North America,Latn,alphabet,phoneme,1.0,20,6,,,,,,,False
+my,mya,nucl1310,Burmese,Sino-Tibetan,Eurasia,Mymr,abugida,CV-akshara,2.0,58,35,56.0,33.0,19.0,4.0,ph,1.0357142857142858,False
+myv,myv,erzy1239,Erzya,Uralic,Eurasia,Cyrl,alphabet,phoneme,1.0,32,13,35.0,29.0,6.0,0.0,ea,0.9142857142857143,False
+mzn,mzn,maza1291,Mazanderani,Indo-European,Eurasia,Arab,abjad,consonant-phoneme,1.0,43,11,29.0,22.0,7.0,0.0,ph,1.4827586206896552,False
+naq,naq,nama1264,Nama (Namibia),Khoe-Kwadi,Africa,Latn,alphabet,phoneme,1.0,27,3,41.0,32.0,9.0,0.0,upsid,0.6585365853658537,False
+nb,nob,,,,,Latn,alphabet,phoneme,1.0,29,14,48.0,27.0,19.0,2.0,spa,0.6041666666666666,
+nb-SJ,nob,,,,,Latn,alphabet,phoneme,1.0,29,14,48.0,27.0,19.0,2.0,spa,0.6041666666666666,
+nd,nde,nort2795,Zimbabwean Ndebele,Atlantic-Congo,Africa,Latn,alphabet,phoneme,1.0,25,1,68.0,61.0,5.0,2.0,ph,0.36764705882352944,False
+nds,nds,nort2627,Eastern Low German,Indo-European,Eurasia,Latn,alphabet,phoneme,1.0,26,10,37.0,23.0,14.0,0.0,ph,0.7027027027027027,False
+nds-NL,nds,nort2627,Eastern Low German,Indo-European,Eurasia,Latn,alphabet,phoneme,1.0,26,5,37.0,23.0,14.0,0.0,ph,0.7027027027027027,False
+ne,nep,,,,,Deva,abugida,CV-akshara,2.0,66,2,,,,,,,
+ne-IN,nep,,,,,Deva,abugida,CV-akshara,2.0,66,2,,,,,,,
+nl,nld,dutc1256,Dutch,Indo-European,Eurasia,Latn,alphabet,phoneme,1.0,28,10,58.0,22.0,36.0,0.0,ph,0.4827586206896552,False
+nl-AW,nld,dutc1256,Dutch,Indo-European,Eurasia,Latn,alphabet,phoneme,1.0,28,10,58.0,22.0,36.0,0.0,ph,0.4827586206896552,False
+nl-BE,nld,dutc1256,Dutch,Indo-European,Eurasia,Latn,alphabet,phoneme,1.0,28,10,58.0,22.0,36.0,0.0,ph,0.4827586206896552,False
+nl-BQ,nld,dutc1256,Dutch,Indo-European,Eurasia,Latn,alphabet,phoneme,1.0,28,10,58.0,22.0,36.0,0.0,ph,0.4827586206896552,False
+nl-CW,nld,dutc1256,Dutch,Indo-European,Eurasia,Latn,alphabet,phoneme,1.0,28,10,58.0,22.0,36.0,0.0,ph,0.4827586206896552,False
+nl-SR,nld,dutc1256,Dutch,Indo-European,Eurasia,Latn,alphabet,phoneme,1.0,28,10,58.0,22.0,36.0,0.0,ph,0.4827586206896552,False
+nl-SX,nld,dutc1256,Dutch,Indo-European,Eurasia,Latn,alphabet,phoneme,1.0,28,10,58.0,22.0,36.0,0.0,ph,0.4827586206896552,False
+nmg,nmg,kwas1243,Kwasio,Atlantic-Congo,Africa,Latn,alphabet,phoneme,1.0,40,3,55.0,47.0,8.0,0.0,ph,0.7272727272727273,False
+nn,nno,,,,,Latn,alphabet,phoneme,1.0,29,14,,,,,,,
+nnh,nnh,ngie1241,Ngiemboon,Atlantic-Congo,Africa,Latn,alphabet,phoneme,1.0,43,3,30.0,19.0,7.0,4.0,ph,1.4333333333333333,False
+no,nor,norw1258,Norwegian,Indo-European,Eurasia,Latn,alphabet,phoneme,1.0,29,14,40.0,24.0,16.0,0.0,ea,0.725,False
+nqo,nqo,nkoa1234,N'Ko,Artificial Language,Africa,Nkoo,alphabet,phoneme,1.0,41,3,,,,,,,False
+nr,nbl,,,,,Latn,alphabet,phoneme,1.0,25,1,,,,,,,
+nso,nso,pedi1238,Pedi,Atlantic-Congo,Africa,Latn,alphabet,phoneme,1.0,25,4,,,,,,,False
+nus,nus,nuer1246,Nuer,Nilotic,Africa,Latn,alphabet,phoneme,1.0,39,0,48.0,20.0,28.0,0.0,ph,0.8125,False
+nv,nav,nava1243,Navajo,Athabaskan-Eyak-Tlingit,North America,Latn,alphabet,phoneme,1.0,38,0,54.0,36.0,16.0,2.0,spa,0.7037037037037037,False
+ny,nya,nyan1308,Nyanja,Atlantic-Congo,Africa,Latn,alphabet,phoneme,1.0,23,3,,,,,,,False
+nyn,nyn,nyan1307,Nyankole,Atlantic-Congo,Africa,Latn,alphabet,phoneme,1.0,26,0,28.0,20.0,8.0,0.0,ph,0.9285714285714286,False
+oc,oci,occi1239,Occitan,Indo-European,Eurasia,Latn,alphabet,phoneme,1.0,26,9,58.0,27.0,31.0,0.0,ea,0.4482758620689655,False
+oc-ES,oci,occi1239,Occitan,Indo-European,Eurasia,Latn,alphabet,phoneme,1.0,26,9,58.0,27.0,31.0,0.0,ea,0.4482758620689655,False
+om,orm,,,,,Latn,alphabet,phoneme,1.0,26,0,,,,,,,
+om-KE,orm,,,,,Latn,alphabet,phoneme,1.0,26,0,,,,,,,
+or,ori,,,,,Orya,abugida,CV-akshara,2.0,64,1,,,,,,,
+os,oss,iron1242,Iron Ossetian,Indo-European,Eurasia,Cyrl,alphabet,phoneme,1.0,42,0,47.0,40.0,7.0,0.0,ea,0.8936170212765957,False
+os-RU,oss,iron1242,Iron Ossetian,Indo-European,Eurasia,Cyrl,alphabet,phoneme,1.0,42,0,47.0,40.0,7.0,0.0,ea,0.8936170212765957,False
+osa,osa,osag1243,Osage,Siouan,North America,Osge,,,,76,0,,,,,,,False
+pa,pan,panj1256,Eastern Panjabi,Indo-European,Eurasia,Guru,abugida,CV-akshara,2.0,73,3,73.0,50.0,20.0,3.0,spa,1.0,False
+pa-Arab,pan,panj1256,Eastern Panjabi,Indo-European,Eurasia,Arab,abjad,consonant-phoneme,1.0,44,7,73.0,50.0,20.0,3.0,spa,0.6027397260273972,False
+pa-Guru,pan,panj1256,Eastern Panjabi,Indo-European,Eurasia,Guru,abugida,CV-akshara,2.0,73,3,73.0,50.0,20.0,3.0,spa,1.0,False
+pap,pap,papi1253,Papiamento,Indo-European,South America,Latn,alphabet,phoneme,1.0,26,5,,,,,,,False
+pap-AW,pap,papi1253,Papiamento,Indo-European,South America,Latn,alphabet,phoneme,1.0,26,5,,,,,,,False
+pcm,pcm,nige1257,Nigerian Pidgin,Indo-European,Africa,Latn,alphabet,phoneme,1.0,30,10,32.0,23.0,7.0,2.0,ph,0.9375,False
+pis,pis,piji1239,Pijin,Indo-European,Papunesia,Latn,alphabet,phoneme,1.0,22,0,,,,,,,False
+pl,pol,poli1260,Polish,Indo-European,Eurasia,Latn,alphabet,phoneme,1.0,32,13,37.0,31.0,6.0,0.0,ph,0.8648648648648649,False
+prg,prg,prus1238,Old Prussian,Indo-European,Eurasia,Latn,alphabet,phoneme,1.0,26,0,,,,,,,False
+ps,pus,,,,,Arab,abjad,consonant-phoneme,1.0,52,2,,,,,,,
+ps-PK,pus,,,,,Arab,abjad,consonant-phoneme,1.0,52,1,,,,,,,
+pt,por,port1283,Portuguese,Indo-European,Eurasia,Latn,alphabet,phoneme,1.0,26,9,47.0,20.0,27.0,0.0,ph,0.5531914893617021,False
+pt-AO,por,port1283,Portuguese,Indo-European,Eurasia,Latn,alphabet,phoneme,1.0,26,9,47.0,20.0,27.0,0.0,ph,0.5531914893617021,False
+pt-CH,por,port1283,Portuguese,Indo-European,Eurasia,Latn,alphabet,phoneme,1.0,26,9,47.0,20.0,27.0,0.0,ph,0.5531914893617021,False
+pt-CV,por,port1283,Portuguese,Indo-European,Eurasia,Latn,alphabet,phoneme,1.0,26,9,47.0,20.0,27.0,0.0,ph,0.5531914893617021,False
+pt-GQ,por,port1283,Portuguese,Indo-European,Eurasia,Latn,alphabet,phoneme,1.0,26,9,47.0,20.0,27.0,0.0,ph,0.5531914893617021,False
+pt-GW,por,port1283,Portuguese,Indo-European,Eurasia,Latn,alphabet,phoneme,1.0,26,9,47.0,20.0,27.0,0.0,ph,0.5531914893617021,False
+pt-LU,por,port1283,Portuguese,Indo-European,Eurasia,Latn,alphabet,phoneme,1.0,26,9,47.0,20.0,27.0,0.0,ph,0.5531914893617021,False
+pt-MO,por,port1283,Portuguese,Indo-European,Eurasia,Latn,alphabet,phoneme,1.0,26,9,47.0,20.0,27.0,0.0,ph,0.5531914893617021,False
+pt-MZ,por,port1283,Portuguese,Indo-European,Eurasia,Latn,alphabet,phoneme,1.0,26,9,47.0,20.0,27.0,0.0,ph,0.5531914893617021,False
+pt-PT,por,port1283,Portuguese,Indo-European,Eurasia,Latn,alphabet,phoneme,1.0,26,9,47.0,20.0,27.0,0.0,ph,0.5531914893617021,False
+pt-ST,por,port1283,Portuguese,Indo-European,Eurasia,Latn,alphabet,phoneme,1.0,26,9,47.0,20.0,27.0,0.0,ph,0.5531914893617021,False
+pt-TL,por,port1283,Portuguese,Indo-European,Eurasia,Latn,alphabet,phoneme,1.0,26,9,47.0,20.0,27.0,0.0,ph,0.5531914893617021,False
+qu,que,,,,,Latn,alphabet,phoneme,1.0,21,18,,,,,,,
+qu-BO,que,,,,,Latn,alphabet,phoneme,1.0,21,18,,,,,,,
+qu-EC,que,,,,,Latn,alphabet,phoneme,1.0,21,18,,,,,,,
+quc,quc,kich1262,K'iche',Mayan,North America,Latn,alphabet,phoneme,1.0,31,7,32.0,22.0,10.0,0.0,ph,0.96875,False
+raj,raj,,,,,Deva,abugida,CV-akshara,2.0,48,10,,,,,,,
+rhg,rhg,rohi1238,Rohingya,Indo-European,Eurasia,Rohg,,,,39,1,,,,,,,False
+rhg-Rohg,rhg,rohi1238,Rohingya,Indo-European,Eurasia,Rohg,,,,39,1,,,,,,,False
+rhg-Rohg-BD,rhg,rohi1238,Rohingya,Indo-European,Eurasia,Rohg,,,,39,1,,,,,,,False
+rif,rif,tari1263,Tarifiyt-Beni-Iznasen-Eastern Middle Atlas Berber,Afro-Asiatic,Africa,Latn,alphabet,phoneme,1.0,26,12,,,,,,,False
+rm,roh,roma1326,Romansh,Indo-European,Eurasia,Latn,alphabet,phoneme,1.0,26,10,46.0,27.0,19.0,0.0,ea,0.5652173913043478,False
+rn,run,rund1242,Rundi,Atlantic-Congo,Africa,Latn,alphabet,phoneme,1.0,26,0,29.0,22.0,5.0,2.0,ph,0.896551724137931,False
+ro,ron,roma1327,Romanian,Indo-European,Eurasia,Latn,alphabet,phoneme,1.0,31,8,51.0,40.0,11.0,0.0,ea,0.6078431372549019,False
+ro-MD,ron,roma1327,Romanian,Indo-European,Eurasia,Latn,alphabet,phoneme,1.0,31,8,51.0,40.0,11.0,0.0,ea,0.6078431372549019,False
+rof,rof,romb1244,Rombo,Atlantic-Congo,Africa,Latn,alphabet,phoneme,1.0,24,2,,,,,,,False
+ru,rus,russ1263,Russian,Indo-European,Eurasia,Cyrl,alphabet,phoneme,1.0,32,9,42.0,36.0,6.0,0.0,ea,0.7619047619047619,False
+ru-BY,rus,russ1263,Russian,Indo-European,Eurasia,Cyrl,alphabet,phoneme,1.0,32,9,42.0,36.0,6.0,0.0,ea,0.7619047619047619,False
+ru-KG,rus,russ1263,Russian,Indo-European,Eurasia,Cyrl,alphabet,phoneme,1.0,32,9,42.0,36.0,6.0,0.0,ea,0.7619047619047619,False
+ru-KZ,rus,russ1263,Russian,Indo-European,Eurasia,Cyrl,alphabet,phoneme,1.0,32,9,42.0,36.0,6.0,0.0,ea,0.7619047619047619,False
+ru-MD,rus,russ1263,Russian,Indo-European,Eurasia,Cyrl,alphabet,phoneme,1.0,32,9,42.0,36.0,6.0,0.0,ea,0.7619047619047619,False
+ru-UA,rus,russ1263,Russian,Indo-European,Eurasia,Cyrl,alphabet,phoneme,1.0,32,9,42.0,36.0,6.0,0.0,ea,0.7619047619047619,False
+rw,kin,kiny1244,Kinyarwanda,Atlantic-Congo,Africa,Latn,alphabet,phoneme,1.0,26,0,49.0,39.0,10.0,0.0,ph,0.5306122448979592,False
+rwk,rwk,rwaa1238,Rwa,Atlantic-Congo,Africa,Latn,alphabet,phoneme,1.0,24,2,,,,,,,False
+sa,san,sans1269,Sanskrit,Indo-European,Eurasia,Deva,abugida,CV-akshara,2.0,69,5,45.0,37.0,8.0,0.0,ra,1.5333333333333334,False
+sah,sah,yaku1245,Sakha,Turkic,Eurasia,Cyrl,alphabet,phoneme,1.0,27,12,49.0,33.0,16.0,0.0,spa,0.5510204081632653,False
+saq,saq,samb1315,Samburu,Nilotic,Africa,Latn,alphabet,phoneme,1.0,22,4,,,,,,,False
+sat,sat,sant1410,Santali,Austroasiatic,Eurasia,Olck,alphabet,phoneme,1.0,36,0,57.0,26.0,31.0,0.0,ea,0.631578947368421,False
+sat-Deva,sat,sant1410,Santali,Austroasiatic,Eurasia,Deva,abugida,CV-akshara,2.0,33,0,57.0,26.0,31.0,0.0,ea,0.5789473684210527,False
+sat-Olck,sat,sant1410,Santali,Austroasiatic,Eurasia,Olck,alphabet,phoneme,1.0,36,0,57.0,26.0,31.0,0.0,ea,0.631578947368421,False
+sbp,sbp,sang1330,Sangu (Tanzania),Atlantic-Congo,Africa,Latn,alphabet,phoneme,1.0,22,4,,,,,,,False
+sc,srd,,,,,Latn,alphabet,phoneme,1.0,21,15,,,,,,,
+scn,scn,sici1248,Sicilian,Indo-European,Eurasia,Latn,alphabet,phoneme,1.0,22,10,,,,,,,False
+sd,snd,sind1272,Sindhi,Indo-European,Eurasia,Arab,abjad,consonant-phoneme,1.0,54,4,64.0,47.0,17.0,0.0,ea,0.84375,False
+sd-Arab,snd,sind1272,Sindhi,Indo-European,Eurasia,Arab,abjad,consonant-phoneme,1.0,54,4,64.0,47.0,17.0,0.0,ea,0.84375,False
+sd-Deva,snd,sind1272,Sindhi,Indo-European,Eurasia,Deva,abugida,CV-akshara,2.0,63,1,64.0,47.0,17.0,0.0,ea,0.984375,False
+sdh,sdh,sout2640,Southern Kurdish,Indo-European,Eurasia,Arab,abjad,consonant-phoneme,1.0,34,26,,,,,,,False
+sdh-IQ,sdh,sout2640,Southern Kurdish,Indo-European,Eurasia,Arab,abjad,consonant-phoneme,1.0,34,26,,,,,,,False
+se,sme,nort2671,North Saami,Uralic,Eurasia,Latn,alphabet,phoneme,1.0,29,16,74.0,63.0,11.0,0.0,ph,0.3918918918918919,False
+se-FI,sme,nort2671,North Saami,Uralic,Eurasia,Latn,alphabet,phoneme,1.0,29,16,74.0,63.0,11.0,0.0,ph,0.3918918918918919,False
+se-SE,sme,nort2671,North Saami,Uralic,Eurasia,Latn,alphabet,phoneme,1.0,29,16,74.0,63.0,11.0,0.0,ph,0.3918918918918919,False
+seh,seh,nucl1396,Sena,Atlantic-Congo,Africa,Latn,alphabet,phoneme,1.0,26,0,,,,,,,False
+ses,ses,koyr1242,Koyraboro Senni Songhai,Songhay,Africa,Latn,alphabet,phoneme,1.0,27,1,48.0,33.0,15.0,0.0,spa,0.5625,False
+sg,sag,sang1328,Sango,Atlantic-Congo,Africa,Latn,alphabet,phoneme,1.0,23,3,44.0,26.0,12.0,6.0,aa,0.5227272727272727,False
+shi,shi,tach1250,Tachelhit,Afro-Asiatic,Africa,Tfng,alphabet,phoneme,1.0,33,0,74.0,71.0,3.0,0.0,ph,0.44594594594594594,False
+shi-Latn,shi,tach1250,Tachelhit,Afro-Asiatic,Africa,Latn,alphabet,phoneme,1.0,27,3,74.0,71.0,3.0,0.0,ph,0.36486486486486486,False
+shi-Tfng,shi,tach1250,Tachelhit,Afro-Asiatic,Africa,Tfng,alphabet,phoneme,1.0,33,0,74.0,71.0,3.0,0.0,ph,0.44594594594594594,False
+shn,shn,shan1277,Shan,Tai-Kadai,Eurasia,Mymr,abugida,CV-akshara,2.0,45,6,34.0,24.0,10.0,0.0,ea,1.3235294117647058,False
+shn-TH,shn,shan1277,Shan,Tai-Kadai,Eurasia,Mymr,abugida,CV-akshara,2.0,45,6,34.0,24.0,10.0,0.0,ea,1.3235294117647058,False
+si,sin,sinh1246,Sinhala,Indo-European,Eurasia,Sinh,abugida,CV-akshara,2.0,74,6,53.0,37.0,16.0,0.0,spa,1.3962264150943395,False
+sid,sid,sida1246,Sidamo,Afro-Asiatic,Africa,Latn,alphabet,phoneme,1.0,0,0,35.0,25.0,10.0,0.0,ph,0.0,False
+sk,slk,slov1269,Slovak,Indo-European,Eurasia,Latn,alphabet,phoneme,1.0,34,11,45.0,30.0,15.0,0.0,ea,0.7555555555555555,False
+skr,skr,sera1259,Saraiki,Indo-European,Eurasia,Arab,abjad,consonant-phoneme,1.0,49,0,83.0,48.0,35.0,0.0,ph,0.5903614457831325,False
+sl,slv,slov1268,Slovenian,Indo-European,Eurasia,Latn,alphabet,phoneme,1.0,25,15,37.0,21.0,16.0,0.0,ph,0.6756756756756757,False
+sma,sma,sout2674,South Saami,Uralic,Eurasia,Latn,alphabet,phoneme,1.0,21,6,45.0,39.0,6.0,0.0,upsid,0.4666666666666667,False
+sma-NO,sma,sout2674,South Saami,Uralic,Eurasia,Latn,alphabet,phoneme,1.0,22,6,45.0,39.0,6.0,0.0,upsid,0.4888888888888889,False
+smj,smj,lule1254,Lule Saami,Uralic,Eurasia,Latn,alphabet,phoneme,1.0,20,8,,,,,,,False
+smj-NO,smj,lule1254,Lule Saami,Uralic,Eurasia,Latn,alphabet,phoneme,1.0,20,8,,,,,,,False
+smn,smn,inar1241,Inari Saami,Uralic,Eurasia,Latn,alphabet,phoneme,1.0,31,15,,,,,,,False
+sms,sms,skol1241,Skolt Saami,Uralic,Eurasia,Latn,alphabet,phoneme,1.0,25,5,75.0,51.0,24.0,0.0,ea,0.3333333333333333,False
+sn,sna,shon1251,Shona,Atlantic-Congo,Africa,Latn,alphabet,phoneme,1.0,24,2,42.0,37.0,5.0,0.0,ph,0.5714285714285714,False
+so,som,soma1255,Somali,Afro-Asiatic,Africa,Latn,alphabet,phoneme,1.0,18,8,52.0,30.0,20.0,2.0,spa,0.34615384615384615,False
+so-DJ,som,soma1255,Somali,Afro-Asiatic,Africa,Latn,alphabet,phoneme,1.0,18,8,52.0,30.0,20.0,2.0,spa,0.34615384615384615,False
+so-ET,som,soma1255,Somali,Afro-Asiatic,Africa,Latn,alphabet,phoneme,1.0,18,8,52.0,30.0,20.0,2.0,spa,0.34615384615384615,False
+so-KE,som,soma1255,Somali,Afro-Asiatic,Africa,Latn,alphabet,phoneme,1.0,18,8,52.0,30.0,20.0,2.0,spa,0.34615384615384615,False
+sq,als,tosk1239,Northern Tosk Albanian,Indo-European,Eurasia,Latn,alphabet,phoneme,1.0,36,1,38.0,29.0,9.0,0.0,ea,0.9473684210526315,False
+sq-MK,als,tosk1239,Northern Tosk Albanian,Indo-European,Eurasia,Latn,alphabet,phoneme,1.0,36,1,38.0,29.0,9.0,0.0,ea,0.9473684210526315,False
+sq-XK,als,tosk1239,Northern Tosk Albanian,Indo-European,Eurasia,Latn,alphabet,phoneme,1.0,36,1,38.0,29.0,9.0,0.0,ea,0.9473684210526315,False
+sr,srp,,,,,Cyrl,alphabet,phoneme,1.0,30,5,34.0,24.0,10.0,0.0,ea,0.8823529411764706,
+sr-Cyrl,srp,,,,,Cyrl,alphabet,phoneme,1.0,30,5,34.0,24.0,10.0,0.0,ea,0.8823529411764706,
+sr-Cyrl-BA,srp,,,,,Cyrl,alphabet,phoneme,1.0,30,5,34.0,24.0,10.0,0.0,ea,0.8823529411764706,
+sr-Cyrl-ME,srp,,,,,Cyrl,alphabet,phoneme,1.0,30,5,34.0,24.0,10.0,0.0,ea,0.8823529411764706,
+sr-Cyrl-XK,srp,,,,,Cyrl,alphabet,phoneme,1.0,30,5,34.0,24.0,10.0,0.0,ea,0.8823529411764706,
+sr-Latn,srp,,,,,Latn,alphabet,phoneme,1.0,30,5,34.0,24.0,10.0,0.0,ea,0.8823529411764706,
+sr-Latn-BA,srp,,,,,Latn,alphabet,phoneme,1.0,30,5,34.0,24.0,10.0,0.0,ea,0.8823529411764706,
+sr-Latn-ME,srp,,,,,Latn,alphabet,phoneme,1.0,30,5,34.0,24.0,10.0,0.0,ea,0.8823529411764706,
+sr-Latn-XK,srp,,,,,Latn,alphabet,phoneme,1.0,30,5,34.0,24.0,10.0,0.0,ea,0.8823529411764706,
+ss,ssw,swat1243,Swati,Atlantic-Congo,Africa,Latn,alphabet,phoneme,1.0,26,0,,,,,,,False
+ss-SZ,ssw,swat1243,Swati,Atlantic-Congo,Africa,Latn,alphabet,phoneme,1.0,26,0,,,,,,,False
+ssy,ssy,saho1246,Saho,Afro-Asiatic,Africa,Latn,alphabet,phoneme,1.0,22,4,,,,,,,False
+st,sot,sout2807,Southern Sotho,Atlantic-Congo,Africa,Latn,alphabet,phoneme,1.0,22,4,46.0,37.0,9.0,0.0,ph,0.4782608695652174,False
+st-LS,sot,sout2807,Southern Sotho,Atlantic-Congo,Africa,Latn,alphabet,phoneme,1.0,22,4,46.0,37.0,9.0,0.0,ph,0.4782608695652174,False
+su,sun,sund1252,Sundanese,Austronesian,Papunesia,Latn,alphabet,phoneme,1.0,26,10,26.0,19.0,7.0,0.0,spa,1.0,False
+su-Latn,sun,sund1252,Sundanese,Austronesian,Papunesia,Latn,alphabet,phoneme,1.0,26,10,26.0,19.0,7.0,0.0,spa,1.0,False
+sv,swe,swed1254,Swedish,Indo-European,Eurasia,Latn,alphabet,phoneme,1.0,29,10,35.0,18.0,17.0,0.0,ea,0.8285714285714286,False
+sv-AX,swe,swed1254,Swedish,Indo-European,Eurasia,Latn,alphabet,phoneme,1.0,29,10,35.0,18.0,17.0,0.0,ea,0.8285714285714286,False
+sv-FI,swe,swed1254,Swedish,Indo-European,Eurasia,Latn,alphabet,phoneme,1.0,29,10,35.0,18.0,17.0,0.0,ea,0.8285714285714286,False
+sw,swh,swah1253,Swahili,Atlantic-Congo,Africa,Latn,alphabet,phoneme,1.0,24,3,37.0,32.0,5.0,0.0,aa,0.6486486486486487,False
+sw-CD,swh,swah1253,Swahili,Atlantic-Congo,Africa,Latn,alphabet,phoneme,1.0,24,2,37.0,32.0,5.0,0.0,aa,0.6486486486486487,False
+sw-KE,swh,swah1253,Swahili,Atlantic-Congo,Africa,Latn,alphabet,phoneme,1.0,26,3,37.0,32.0,5.0,0.0,aa,0.7027027027027027,False
+sw-UG,swh,swah1253,Swahili,Atlantic-Congo,Africa,Latn,alphabet,phoneme,1.0,24,3,37.0,32.0,5.0,0.0,aa,0.6486486486486487,False
+syr,syr,,,,,Syrc,abjad,consonant-phoneme,1.0,66,7,,,,,,,
+syr-SY,syr,,,,,Syrc,abjad,consonant-phoneme,1.0,66,7,,,,,,,
+szl,szl,sile1253,Silesian,Indo-European,Eurasia,Latn,alphabet,phoneme,1.0,23,20,,,,,,,False
+ta,tam,tami1289,Tamil,Dravidian,Eurasia,Taml,abugida,CV-akshara,2.0,47,1,43.0,32.0,11.0,0.0,ra,1.0930232558139534,False
+ta-LK,tam,tami1289,Tamil,Dravidian,Eurasia,Taml,abugida,CV-akshara,2.0,47,1,43.0,32.0,11.0,0.0,ra,1.0930232558139534,False
+ta-MY,tam,tami1289,Tamil,Dravidian,Eurasia,Taml,abugida,CV-akshara,2.0,47,1,43.0,32.0,11.0,0.0,ra,1.0930232558139534,False
+ta-SG,tam,tami1289,Tamil,Dravidian,Eurasia,Taml,abugida,CV-akshara,2.0,47,1,43.0,32.0,11.0,0.0,ra,1.0930232558139534,False
+te,tel,telu1262,Telugu,Dravidian,Eurasia,Telu,abugida,CV-akshara,2.0,70,11,68.0,47.0,21.0,0.0,spa,1.0294117647058822,False
+teo,teo,teso1249,Teso,Nilotic,Africa,Latn,alphabet,phoneme,1.0,23,3,,,,,,,False
+teo-KE,teo,teso1249,Teso,Nilotic,Africa,Latn,alphabet,phoneme,1.0,23,3,,,,,,,False
+tg,tgk,taji1245,Tajik,Indo-European,Eurasia,Cyrl,alphabet,phoneme,1.0,32,4,29.0,23.0,6.0,0.0,ea,1.103448275862069,False
+th,tha,thai1261,Thai,Tai-Kadai,Eurasia,Thai,abugida,CV-akshara,2.0,71,1,47.0,21.0,21.0,5.0,ph,1.5106382978723405,False
+ti,tir,tigr1271,Tigrinya,Afro-Asiatic,Africa,Ethi,abugida,CV-akshara,2.0,301,131,66.0,59.0,7.0,0.0,ph,4.5606060606060606,False
+ti-ER,tir,tigr1271,Tigrinya,Afro-Asiatic,Africa,Ethi,abugida,CV-akshara,2.0,301,131,66.0,59.0,7.0,0.0,ph,4.5606060606060606,False
+tig,tig,tigr1270,Tigre,Afro-Asiatic,Africa,Ethi,abugida,CV-akshara,2.0,452,0,54.0,47.0,7.0,0.0,spa,8.37037037037037,False
+tk,tuk,turk1304,Turkmen,Turkic,Eurasia,Latn,alphabet,phoneme,1.0,30,4,37.0,21.0,16.0,0.0,ea,0.8108108108108109,False
+tn,tsn,tswa1253,Tswana,Atlantic-Congo,Africa,Latn,alphabet,phoneme,1.0,23,5,,,,,,,False
+tn-BW,tsn,tswa1253,Tswana,Atlantic-Congo,Africa,Latn,alphabet,phoneme,1.0,23,5,,,,,,,False
+to,ton,tong1325,Tonga (Tonga Islands),Austronesian,Papunesia,Latn,alphabet,phoneme,1.0,17,19,17.0,12.0,5.0,0.0,ph,1.0,False
+tok,tok,toki1239,Toki Pona,Artificial Language,North America,Latn,alphabet,phoneme,1.0,14,12,,,,,,,False
+tpi,tpi,tokp1240,Tok Pisin,Indo-European,Papunesia,Latn,alphabet,phoneme,1.0,21,5,,,,,,,False
+tr,tur,nucl1301,Turkish,Turkic,Eurasia,Latn,alphabet,phoneme,1.0,29,13,40.0,24.0,16.0,0.0,spa,0.725,False
+tr-CY,tur,nucl1301,Turkish,Turkic,Eurasia,Latn,alphabet,phoneme,1.0,29,13,40.0,24.0,16.0,0.0,spa,0.725,False
+trv,trv,taro1264,Seediq,Austronesian,Papunesia,Latn,alphabet,phoneme,1.0,0,0,43.0,33.0,10.0,0.0,ph,0.0,False
+trw,trw,torw1241,Torwali,Indo-European,Eurasia,Arab,abjad,consonant-phoneme,1.0,0,20,51.0,38.0,13.0,0.0,ph,0.0,False
+ts,tso,tson1249,Tsonga,Atlantic-Congo,Africa,Latn,alphabet,phoneme,1.0,26,0,,,,,,,False
+tt,tat,tata1255,Tatar,Turkic,Eurasia,Cyrl,alphabet,phoneme,1.0,38,2,43.0,29.0,14.0,0.0,ea,0.8837209302325582,False
+twq,twq,tasa1240,Tasawaq,Songhay,Africa,Latn,alphabet,phoneme,1.0,27,1,,,,,,,False
+tyv,tyv,tuvi1240,Tuvinian,Turkic,Eurasia,Cyrl,alphabet,phoneme,1.0,35,0,52.0,28.0,24.0,0.0,ea,0.6730769230769231,False
+tzm,tzm,cent2194,Central Moroccan Berber,Afro-Asiatic,Africa,Latn,alphabet,phoneme,1.0,27,3,39.0,36.0,3.0,0.0,ph,0.6923076923076923,False
+ug,uig,uigh1240,Uighur,Turkic,Eurasia,Arab,abjad,consonant-phoneme,1.0,40,2,43.0,28.0,15.0,0.0,ea,0.9302325581395349,False
+uk,ukr,ukra1253,Ukrainian,Indo-European,Eurasia,Cyrl,alphabet,phoneme,1.0,34,14,41.0,35.0,6.0,0.0,ea,0.8292682926829268,False
+und,und,,,,,Latn,alphabet,phoneme,1.0,0,0,,,,,,,
+ur,urd,urdu1245,Urdu,Indo-European,Eurasia,Arab,abjad,consonant-phoneme,1.0,38,28,58.0,37.0,21.0,0.0,ea,0.6551724137931034,False
+ur-IN,urd,urdu1245,Urdu,Indo-European,Eurasia,Arab,abjad,consonant-phoneme,1.0,38,28,58.0,37.0,21.0,0.0,ea,0.6551724137931034,False
+uz,uzn,nort2690,Northern Uzbek,Turkic,Eurasia,Latn,alphabet,phoneme,1.0,29,11,30.0,24.0,6.0,0.0,upsid,0.9666666666666667,False
+uz-Arab,uzn,nort2690,Northern Uzbek,Turkic,Eurasia,Arab,abjad,consonant-phoneme,1.0,50,13,30.0,24.0,6.0,0.0,upsid,1.6666666666666667,False
+uz-Cyrl,uzn,nort2690,Northern Uzbek,Turkic,Eurasia,Cyrl,alphabet,phoneme,1.0,31,4,30.0,24.0,6.0,0.0,upsid,1.0333333333333334,False
+uz-Latn,uzn,nort2690,Northern Uzbek,Turkic,Eurasia,Latn,alphabet,phoneme,1.0,29,11,30.0,24.0,6.0,0.0,upsid,0.9666666666666667,False
+vai,vai,vaii1241,Vai,Mande,Africa,Vaii,syllabary,syllable,3.0,269,13,43.0,28.0,11.0,4.0,ph,6.255813953488372,False
+vai-Latn,vai,vaii1241,Vai,Mande,Africa,Latn,alphabet,phoneme,1.0,35,0,43.0,28.0,11.0,4.0,ph,0.813953488372093,False
+vai-Vaii,vai,vaii1241,Vai,Mande,Africa,Vaii,syllabary,syllable,3.0,269,13,43.0,28.0,11.0,4.0,ph,6.255813953488372,False
+ve,ven,vend1245,Venda,Atlantic-Congo,Africa,Latn,alphabet,phoneme,1.0,23,0,,,,,,,False
+vec,vec,vene1258,Venetian,Indo-European,Eurasia,Latn,alphabet,phoneme,1.0,22,17,,,,,,,False
+vi,vie,viet1252,Vietnamese,Austroasiatic,Eurasia,Latn,alphabet,phoneme,1.0,29,4,45.0,21.0,16.0,8.0,ph,0.6444444444444445,False
+vmw,vmw,makh1264,Makhuwa,Atlantic-Congo,Africa,Latn,alphabet,phoneme,1.0,27,4,,,,,,,False
+vo,vol,vola1234,Volapük,Artificial Language,Eurasia,Latn,alphabet,phoneme,1.0,27,2,,,,,,,False
+vun,vun,vunj1238,Vunjo,Atlantic-Congo,Africa,Latn,alphabet,phoneme,1.0,24,2,,,,,,,False
+wa,wln,wall1255,Walloon,Indo-European,Eurasia,Latn,alphabet,phoneme,1.0,28,6,,,,,,,False
+wae,wae,wals1238,Walser,Indo-European,Eurasia,Latn,alphabet,phoneme,1.0,26,11,,,,,,,False
+wal,wal,wola1242,Wolaytta,Ta-Ne-Omotic,Africa,Ethi,abugida,CV-akshara,2.0,432,0,48.0,38.0,10.0,0.0,ph,9.0,False
+wbp,wbp,warl1254,Warlpiri,Pama-Nyungan,Australia,Latn,alphabet,phoneme,1.0,15,11,24.0,18.0,6.0,0.0,er,0.625,False
+wo,wol,nucl1347,Wolof,Atlantic-Congo,Africa,Latn,alphabet,phoneme,1.0,29,4,54.0,38.0,16.0,0.0,aa,0.5370370370370371,False
+xh,xho,xhos1239,Xhosa,Atlantic-Congo,Africa,Latn,alphabet,phoneme,1.0,26,10,84.0,75.0,7.0,2.0,ph,0.30952380952380953,False
+xnr,xnr,kang1280,Kangri,Indo-European,Eurasia,Deva,abugida,CV-akshara,2.0,64,1,41.0,29.0,12.0,0.0,ra,1.5609756097560976,False
+xog,xog,soga1242,Soga,Atlantic-Congo,Africa,Latn,alphabet,phoneme,1.0,26,0,,,,,,,False
+yav,yav,yang1293,Nuasue,Atlantic-Congo,Africa,Latn,alphabet,phoneme,1.0,30,6,,,,,,,False
+yi,yid,,,,,Hebr,abjad,consonant-phoneme,1.0,39,1,,,,,,,
+yo,yor,yoru1245,Yoruba,Atlantic-Congo,Africa,Latn,alphabet,phoneme,1.0,32,5,32.0,18.0,11.0,3.0,aa,1.0,False
+yo-BJ,yor,yoru1245,Yoruba,Atlantic-Congo,Africa,Latn,alphabet,phoneme,1.0,29,5,32.0,18.0,11.0,3.0,aa,0.90625,False
+yrl,yrl,nhen1239,Nhengatu,Tupian,South America,Latn,alphabet,phoneme,1.0,17,17,23.0,19.0,4.0,0.0,saphon,0.7391304347826086,False
+yrl-CO,yrl,nhen1239,Nhengatu,Tupian,South America,Latn,alphabet,phoneme,1.0,17,17,23.0,19.0,4.0,0.0,saphon,0.7391304347826086,False
+yrl-VE,yrl,nhen1239,Nhengatu,Tupian,South America,Latn,alphabet,phoneme,1.0,17,17,23.0,19.0,4.0,0.0,saphon,0.7391304347826086,False
+yue,yue,yuec1235,Yue Chinese,Sino-Tibetan,Eurasia,Hant,morphosyllabic,morpheme-syllable,4.0,2470,53,48.0,21.0,21.0,6.0,ph,51.458333333333336,False
+yue-Hans,yue,yuec1235,Yue Chinese,Sino-Tibetan,Eurasia,Hans,morphosyllabic,morpheme-syllable,4.0,2124,53,48.0,21.0,21.0,6.0,ph,44.25,False
+yue-Hant,yue,yuec1235,Yue Chinese,Sino-Tibetan,Eurasia,Hant,morphosyllabic,morpheme-syllable,4.0,2470,53,48.0,21.0,21.0,6.0,ph,51.458333333333336,False
+yue-Hant-CN,yue,yuec1235,Yue Chinese,Sino-Tibetan,Eurasia,Hant,morphosyllabic,morpheme-syllable,4.0,2470,53,48.0,21.0,21.0,6.0,ph,51.458333333333336,False
+za,zha,,,,,Latn,alphabet,phoneme,1.0,26,0,,,,,,,
+zgh,zgh,,,,,Tfng,alphabet,phoneme,1.0,33,0,,,,,,,
+zh,cmn,mand1415,Mandarin Chinese,Sino-Tibetan,Eurasia,Hans,morphosyllabic,morpheme-syllable,4.0,2210,1465,49.0,24.0,21.0,4.0,ph,45.10204081632653,False
+zh-Hans,cmn,mand1415,Mandarin Chinese,Sino-Tibetan,Eurasia,Hans,morphosyllabic,morpheme-syllable,4.0,2210,1465,49.0,24.0,21.0,4.0,ph,45.10204081632653,False
+zh-Hans-HK,cmn,mand1415,Mandarin Chinese,Sino-Tibetan,Eurasia,Hans,morphosyllabic,morpheme-syllable,4.0,2210,1465,49.0,24.0,21.0,4.0,ph,45.10204081632653,False
+zh-Hans-MO,cmn,mand1415,Mandarin Chinese,Sino-Tibetan,Eurasia,Hans,morphosyllabic,morpheme-syllable,4.0,2210,1465,49.0,24.0,21.0,4.0,ph,45.10204081632653,False
+zh-Hans-MY,cmn,mand1415,Mandarin Chinese,Sino-Tibetan,Eurasia,Hans,morphosyllabic,morpheme-syllable,4.0,2210,1465,49.0,24.0,21.0,4.0,ph,45.10204081632653,False
+zh-Hans-SG,cmn,mand1415,Mandarin Chinese,Sino-Tibetan,Eurasia,Hans,morphosyllabic,morpheme-syllable,4.0,2210,1465,49.0,24.0,21.0,4.0,ph,45.10204081632653,False
+zh-Hant,cmn,mand1415,Mandarin Chinese,Sino-Tibetan,Eurasia,Hant,morphosyllabic,morpheme-syllable,4.0,2179,495,49.0,24.0,21.0,4.0,ph,44.46938775510204,False
+zh-Hant-HK,cmn,mand1415,Mandarin Chinese,Sino-Tibetan,Eurasia,Hant,morphosyllabic,morpheme-syllable,4.0,2179,495,49.0,24.0,21.0,4.0,ph,44.46938775510204,False
+zh-Hant-MO,cmn,mand1415,Mandarin Chinese,Sino-Tibetan,Eurasia,Hant,morphosyllabic,morpheme-syllable,4.0,2179,495,49.0,24.0,21.0,4.0,ph,44.46938775510204,False
+zh-Hant-MY,cmn,mand1415,Mandarin Chinese,Sino-Tibetan,Eurasia,Hant,morphosyllabic,morpheme-syllable,4.0,2179,495,49.0,24.0,21.0,4.0,ph,44.46938775510204,False
+zh-Latn,cmn,mand1415,Mandarin Chinese,Sino-Tibetan,Eurasia,Latn,alphabet,phoneme,1.0,31,1,49.0,24.0,21.0,4.0,ph,0.6326530612244898,False
+zu,zul,zulu1248,Zulu,Atlantic-Congo,Africa,Latn,alphabet,phoneme,1.0,60,10,43.0,35.0,5.0,3.0,spa,1.3953488372093024,False
+hak-Hant,hak,hakk1236,Hakka Chinese,Sino-Tibetan,Eurasia,Hant,morphosyllabic,morpheme-syllable,4.0,2179,0,47.0,26.0,16.0,5.0,ph,46.361702127659576,False
+wuu-Hant,wuu,wuch1236,Wu Chinese,Sino-Tibetan,Eurasia,Hant,morphosyllabic,morpheme-syllable,4.0,2179,0,41.0,29.0,9.0,3.0,spa,53.146341463414636,False
+bax-Bamu,bax,bamu1253,Bamun,Atlantic-Congo,Africa,Bamu,syllabary,syllable,3.0,88,0,38.0,28.0,10.0,0.0,ph,2.3157894736842106,False
+men-Mend,men,mend1266,Mende (Sierra Leone),Mande,Africa,Mend,syllabary,syllable,3.0,213,0,34.0,23.0,7.0,4.0,aa,6.264705882352941,False
+lom-Loma,lom,loma1260,Loma (Liberia),Mande,Africa,Loma,syllabary,syllable,3.0,185,0,51.0,21.0,28.0,2.0,ph,3.627450980392157,False
+mni-Mtei,mni,mani1292,Manipuri,Sino-Tibetan,Eurasia,Mtei,abugida,CV-akshara,2.0,56,0,38.0,27.0,8.0,3.0,ra,1.4736842105263157,False
+sat-Olck,sat,sant1410,Santali,Austroasiatic,Eurasia,Olck,alphabet,phoneme,1.0,30,0,57.0,26.0,31.0,0.0,ea,0.5263157894736842,False

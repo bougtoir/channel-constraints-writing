@@ -1,0 +1,56 @@
+P1 class medians (script-cluster bootstrap):
+    gran       var    n  n_scripts       median        ci_lo         ci_hi
+0      1         G  470         13    27.000000    26.000000     38.000000
+1      1   P_total  470         13    45.000000    41.000000     46.000000
+2      1  GP_ratio  470         13     0.631579     0.600000      0.867892
+3      2         G   47         18    63.000000    49.487500     73.000000
+4      2   P_total   47         18    48.000000    43.000000     55.000000
+5      2  GP_ratio   47         18     1.184211     1.000000      1.572082
+6      3         G    7          6   213.000000    88.000000    675.000000
+7      3   P_total    7          6    43.000000    27.500000     56.000000
+8      3  GP_ratio    7          6     6.255814     3.627451     10.371622
+9      4         G   20          4  2210.000000  2179.000000  11172.000000
+10     4   P_total   20          4    48.500000    48.000000     49.000000
+11     4  GP_ratio   20          4    45.102041    45.102041    232.750000
+
+P2 within-class Spearman rho(P,G) (family-cluster bootstrap):
+         ws_class    n  n_families       rho         p     ci_lo     ci_hi
+0           abjad   26           4  0.309915  0.123375 -0.727607  0.594522
+1         abugida   47           7  0.471122  0.000831  0.098703  0.609927
+2        alphabet  444          27 -0.088969  0.061052 -0.314639  0.487366
+3  morphosyllabic   16           1 -0.014461  0.957608       NaN       NaN
+
+P3 mixed model:
+           Mixed Linear Model Regression Results
+============================================================
+Model:              MixedLM   Dependent Variable:   logG    
+No. Observations:   544       Method:               ML      
+No. Groups:         1         Scale:                0.0199  
+Min. group size:    544       Log-Likelihood:       198.7465
+Max. group size:    544       Converged:            Yes     
+Mean group size:    544.0                                   
+------------------------------------------------------------
+                  Coef.  Std.Err.   z    P>|z| [0.025 0.975]
+------------------------------------------------------------
+Intercept          3.481    0.185 18.808 0.000  3.119  3.844
+C(gran)[T.2]       0.205    0.472  0.434 0.664 -0.720  1.129
+C(gran)[T.3]      -4.037    1.666 -2.423 0.015 -7.302 -0.772
+C(gran)[T.4]       3.311    3.220  1.028 0.304 -3.000  9.623
+logP               0.022    0.035  0.624 0.533 -0.047  0.090
+logP:C(gran)[T.2]  0.127    0.110  1.151 0.250 -0.089  0.343
+logP:C(gran)[T.3]  1.574    0.446  3.525 0.000  0.699  2.449
+logP:C(gran)[T.4]  0.302    0.837  0.361 0.718 -1.338  1.943
+family Var         0.058    0.156                           
+script Var         0.182    0.330                           
+============================================================
+
+
+F1 permutation within class:
+                perm_mean   perm_sd     emp_p
+abjad           -0.006370  0.208282  0.153333
+abugida         -0.009104  0.148158  0.000000
+alphabet        -0.002097  0.041347  0.023333
+morphosyllabic  -0.019333  0.260827  0.956667
+F3 no_Latn (n=147): abjad:rho=0.310(n=26); abugida:rho=0.471(n=47); alphabet:rho=0.366(n=47); morphosyllabic:rho=-0.014(n=16)
+F3 no_Han (n=524): abjad:rho=0.310(n=26); abugida:rho=0.471(n=47); alphabet:rho=-0.089(n=444)
+F3 no_singleton_scripts (n=523): abjad:rho=0.267(n=25); abugida:rho=0.479(n=38); alphabet:rho=-0.087(n=439); morphosyllabic:rho=-0.014(n=16)
