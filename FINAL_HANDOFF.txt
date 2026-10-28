@@ -1,0 +1,46 @@
+FINAL HANDOFF — SUBMISSION-LOCKED PACKAGE
+=========================================
+
+Title    : Encoded-unit granularity, not phonological channel size, sets the
+           scale of writing-system symbol inventories
+Journal  : Journal of Quantitative Linguistics
+Package  : SUBMISSION_PACKAGE_JQL_FINAL_LOCKED.zip
+
+Files in the journal zip
+  - MAIN_MANUSCRIPT_JQL_SUBMIT_FINAL.docx   (12 pp rendered)
+  - COVER_LETTER_JQL_SUBMIT_FINAL_2P.docx   (2 pp)
+  - figures/  fig_scatter_and_medians.png, fig_simulation.png, fig_escape.png
+  - tables/   table_primary_class_medians.csv, table_primary_within_class_rho.csv,
+              table_primary_model.csv, table_simulation_bounds.csv,
+              table_simulation_counterfactual.csv, table_escape_spearman.csv,
+              table_inverse_combined.csv
+  - README.txt
+  (QC/audit files are delivered separately, NOT inside the journal zip)
+
+Public reproduction
+  Repo   : https://github.com/bougtoir/channel-constraints-writing
+  Commit : 98165758939d6538640ca5d74aae997f8db24a0f
+  Command: pip install -r requirements.txt &&
+           python3 code/build_poc_dataset.py && python3 code/full_analysis.py &&
+           python3 code/simulation.py && python3 code/inverse_inference.py &&
+           python3 code/falsification_f2.py && python3 code/combinatorial_escape.py &&
+           python3 code/canonical_results.py
+  Result : results/canonical_results.json regenerates byte-identical (55 keys)
+
+QC verdicts
+  Hostile review .......... PASS  (14 attacks; 2 MINOR stale numbers fixed)
+  Hardcode audit .......... PASS  (canonical registry + regression test)
+  Public reproduction ..... PASS
+  References .............. PASS  (15/15 verified; 2 bibliographic fixes applied)
+  Data/text/figure ........ PASS
+  DOCX audits ............. PASS  (OMML, markdown residue, line-breaks, styles, render)
+
+Author actions remaining
+  1. Upload the zip contents at the JQL submission portal (figures as separate
+     files, per journal convention — manuscript docx carries figure placeholders).
+  2. Fill in the portal's author/orcid/funding fields by hand (none are blanked
+     inside the docx).
+  3. No further edits inside the docx: all numbers are generated; any change must
+     go through MANUSCRIPT.md + canonical_results.py and a rebuild.
+
+FINAL STATUS: LOCKED — READY TO SUBMIT
